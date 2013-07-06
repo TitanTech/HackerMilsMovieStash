@@ -52,6 +52,17 @@ player=default
 rating=-1.00
 description=Release Date: 04/12/2013/description
 
+# 1884464
+type=video
+name=Evil Dead[COLOR red] HD [/COLOR][COLOR aqua] H.M.[/COLOR]
+thumb=http://ia.media-imdb.com/images/M/MV5BNTQ3OTkwNTgyN15BMl5BanBnXkFtZTcwNTAzOTAzOQ@@._V1._SX640_SY948_.jpg
+date=2013-07-06
+URL=http://billionuploads.com/jit5f1l67xw5
+processor=http://www.navixtreme.com/proc/billionuploads
+player=default
+rating=-1.00
+description=04/05/2013/description
+
 # 1874834
 type=video
 name=Olympus Has Fallen[COLOR red] HD [/COLOR](2013)[COLOR aqua] H.M.[/COLOR]
@@ -60,6 +71,17 @@ URL=http://85.12.8.10/index.php?file=1767&start=0&hd=0&auth=0&type=flv&tv=0
 player=default
 rating=-1.00
 description=Release Date: 03/22/2013/description
+
+# 1884972
+type=video
+name=Trance[COLOR red] HD [/COLOR][COLOR aqua] H.M.[/COLOR]
+thumb=http://ia.media-imdb.com/images/M/MV5BMjMzNjU1MTg5NF5BMl5BanBnXkFtZTcwMTExMTcwOQ@@._V1._SX640_SY949_.jpg
+date=2013-07-06
+URL=http://billionuploads.com/dmxz7ehqz968
+processor=http://www.navixtreme.com/proc/billionuploads
+player=default
+rating=-1.00
+description=04/05/2013/description
 
 # 1811447
 type=video
