@@ -2,66 +2,43 @@
 type=video
 name=Mayweather[COLORred] HD [/COLOR](2013)[COLORaqua] H.M.[/COLOR]
 thumb=http://cdn.bleacherreport.net/images_root/slides/photos/001/686/428/MayweatherMoney_display_image.jpg?1324090523
-date=2013-07-06
 URL=http://www.youtube.com/watch?v=3hBly3Igxcg
-processor=http://www.navixtreme.com/proc/youtube
-player=default
-rating=-1.00
-description=04/27/2013/description
-
 # 1870858
 type=video
 name=The Gatekeepers[COLORred] HD [/COLOR](2013)[COLORaqua] H.M.[/COLOR]
 thumb=http://ia.media-imdb.com/images/M/MV5BMTYyMDg3NjYyMl5BMl5BanBnXkFtZTcwOTcyNDY4OA@@._V1._SX640_SY948_.jpg
 URL=http://veehd.com/video/4774203_The-Gatekeepers-2012-nYx64
-processor=http://www.navixtreme.com/sproc/veehd
-player=default
-rating=-1.00
-description=Release Date 06/19/2013 (Belgium)/description
-
 # 1870853
 type=video
 name=We Steal Secrets[COLORred] HD [/COLOR](2013)[COLORaqua] H.M.[/COLOR]
 thumb=http://ia.media-imdb.com/images/M/MV5BNTg3MjUyNjkzNl5BMl5BanBnXkFtZTcwMTQzNDgyOQ@@._V1._SX640_SY948_.jpg
 URL=http://edge19.vidto.me/zrjhpyk6paqwws4phvmds4w47bqpowoatbvjkc52dmslgm5ll5ugt7nanyna/1clickdown.com_westealscretsweb72__.mkv
-player=default
-rating=-1.00
-description=Release Date: 05/24/2013/description
+
 
 # 1876190
 type=video
 name=How To Make Money Selling Drugs [COLORred] HD [/COLOR](2013)[COLORaqua] H.M.[/COLOR]
 thumb=http://ia.media-imdb.com/images/M/MV5BMTQ2NDk2NDcxOF5BMl5BanBnXkFtZTcwNDk4MjA3OQ@@._V1._SX640_SY931_.jpg
 URL=http://billionuploads.com/prva79jlxito
-processor=http://www.navixtreme.com/proc/billionuploads
-player=default
-rating=-1.00
-description=04/25/2013/description
-
 # 1872936
 type=video
 name=We Are Legion[COLORred] HD [/COLOR](2012)[COLORaqua] H.M.[/COLOR]
 thumb=http://ia.media-imdb.com/images/M/MV5BMzU4NjU1NDQwMF5BMl5BanBnXkFtZTcwNDg4NjI0OA@@._V1._SX640_SY948_.jpg
 URL=http://www.youtube.com/watch?v=I8XCURPPl8I
-processor=http://www.navixtreme.com/proc/youtube
-player=default
-rating=-1.00
-description=Release Date: 10/30/2012/description
-
 # 1876036
 type=video
 name=Sicko[COLORblue] DVD [/COLOR](2007)[COLORaqua] H.M.[/COLOR]
 thumb=http://ia.media-imdb.com/images/M/MV5BMjM2Mjc4MDkyOF5BMl5BanBnXkFtZTcwNjM2MDk0MQ@@._V1._SX450_SY666_.jpg
 URL=http://149.255.37.90/d/jhkwodin4ctaaogcghnzlupwt25ikqwhu5pkwsrf6x25vonl4rycjrt2/Sicko[2007]DvDrip[Eng]-aXXo.avi.flv
-player=default
-rating=-1.00
-description=06/22/2007/description
+
 
 # 1884408
 type=playlist
 name=Zeitgeist Trilogy [COLOR aqua]H.M.[/COLOR]
 thumb=http://ia.media-imdb.com/images/M/MV5BNzc0ODI0MjMwOV5BMl5BanBnXkFtZTcwNTk0MDkyNA@@._V1._SX640_SY932_.jpg
-date=2013-07-06
 URL=http://pastebin.com/raw.php?i=LQtckX5X
-player=default
-rating=-1.00
+
+
+
+
+# 1884408
