@@ -2,8 +2,11 @@
 <poster>HackerMil</poster>
 <fanart>http://i1367.photobucket.com/albums/r795/HackerMil/HACKERMIL-SPLASH_zps427104eb.jpg</fanart>
 #######################################################################################################################################
-
-
+<info>
+<message>[COLOR red]TWIITER[/COLOR] [COLORblue]@HACKERMIL[/COLOR]</message>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/null_zpsbf07f2b8.jpg</thumbnail>
+</info>
+##############################################################################################################################
 <name>[COLOR aqua]All Movies[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/HackerMilsEntireStash.xml</link>
 <thumbnail>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/hackermil.png</thumbnail>
@@ -34,7 +37,4 @@
 <thumbnail>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/hackermil.png</thumbnail>
 <date>7/05/13</date>
 
-<name>[COLOR red]TWIITER[/COLOR] [COLORblue]@HACKERMIL[/COLOR]</name>
-<link>http://i1367.photobucket.com/albums/r795/HackerMil/null_zpsbf07f2b8.jpg</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/null_zpsbf07f2b8.jpg</thumbnail>
-<date>none</date>
+
