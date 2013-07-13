@@ -1,4 +1,3 @@
-
 <item>
 <name>00 How To Bring It[COLOR red] HD [/COLOR]</name>
 <link>http://veehd.com/video/4685906_P90X-DISC-00-How-To-Bring-It<link>
@@ -28,66 +27,50 @@
 <thumbnail>http://img.rp.vhd.me/4690268_l4.jpg</thumbnail>
 </item>
 
-type=video
-name=05 Legs And Back[COLOR red] HD [/COLOR]
-thumb=http://img.rp.vhd.me/4684376_l2.jpg
-URL=http://veehd.com/video/4684376_P90X-DISC-05-Legs-And-Back-avi
-processor=http://www.navixtreme.com/sproc/veehd
-player=default
-rating=-1.00
+<item>
+<name>05 Legs And Back[COLOR red] HD [/COLOR]</name>
+<link>http://veehd.com/video/4684376_P90X-DISC-05-Legs-And-Back-avi</link>
+<thumbnail>http://img.rp.vhd.me/4684376_l2.jpg</thumbnail>
+</item>
 
-type=video
-name=06 Kenpo X[COLOR red] HD [/COLOR]
-thumb=http://img.rp.vhd.me/4684405_l2.jpg
-URL=http://veehd.com/video/4684405_P90X-DISC-06-Kenpo-X-avi
-processor=http://www.navixtreme.com/sproc/veehd
-player=default
-rating=-1.00
+<item>
+<name>06 Kenpo X[COLOR red] HD [/COLOR]</name>
+<link>http://veehd.com/video/4684405_P90X-DISC-06-Kenpo-X-avi</link>
+<thumbnail>http://img.rp.vhd.me/4684405_l2.jpg</thumbnail>
+</item>
 
-type=video
-name=07 Stretch[COLOR red] HD [/COLOR]
-thumb=http://img.rp.vhd.me/4684580_l2.jpg
-URL=http://veehd.com/video/4684580_P90X-DISC-07-X-Stretch-avi
-processor=http://www.navixtreme.com/sproc/veehd
-player=default
-rating=-1.00
+<item>
+<name>07 Stretch[COLOR red] HD [/COLOR]</name>
+<link>http://veehd.com/video/4684580_P90X-DISC-07-X-Stretch-avi</link>
+<thumbnail>http://img.rp.vhd.me/4684580_l2.jpg</thumbnail>
+</item>
 
-type=video
-name=08 Core Synergistics[COLOR red] HD [/COLOR]
-thumb=http://img.rp.vhd.me/4718132_l2.jpg
-URL=http://veehd.com/video/4718132_P90X-Xtreme-Workout-Series-Disc-08-Core-Synergistics
-processor=http://www.navixtreme.com/sproc/veehd
-player=default
-rating=-1.00
+<item>
+<name>08 Core Synergistics[COLOR red] HD [/COLOR]</name>
+<link>http://veehd.com/video/4718132_P90X-Xtreme-Workout-Series-Disc-08-Core-Synergistics</link>
+<thumbnail>http://img.rp.vhd.me/4718132_l2.jpg</thumbnail>
+</item>
 
-type=video
-name=09 Chest And Shoulders[COLOR red] HD [/COLOR]
-thumb=http://img.rp.vhd.me/4684588_l4.jpg
-URL=http://veehd.com/video/4684588_P90X-DISC-09-Chest-Shoulders-avi
-processor=http://www.navixtreme.com/sproc/veehd
-player=default
-rating=-1.00
+<item>
+<name>09 Chest And Shoulders[COLOR red] HD [/COLOR]</name>
+<link>http://veehd.com/video/4684588_P90X-DISC-09-Chest-Shoulders-avi</link>
+<thumbnail>http://img.rp.vhd.me/4684588_l4.jpg</thumbnail>
+</item>
 
-type=video
-name=10 Back And Biceps[COLOR red] HD [/COLOR]
-thumb=http://img.rp.vhd.me/4684833_l2.jpg
-URL=http://veehd.com/video/4684833_P90X-DISC-10-Back-Biceps-avi
-processor=http://www.navixtreme.com/sproc/veehd
-player=default
-rating=-1.00
+<item>
+<name>10 Back And Biceps[COLOR red] HD [/COLOR]</name>
+<link>http://veehd.com/video/4684833_P90X-DISC-10-Back-Biceps-avi</link>
+<thumbnail>http://img.rp.vhd.me/4684833_l2.jpg</thumbnail>
+</item>
 
-type=video
-name=11 Cardio[COLOR red] HD [/COLOR]
-thumb=http://img.rp.vhd.me/4690284_l3.jpg
-URL=http://veehd.com/video/4690284_P90X-DISC-11-Cardio
-processor=http://www.navixtreme.com/sproc/veehd
-player=default
-rating=-1.00
+<item>
+<name>11 Cardio[COLOR red] HD [/COLOR]</name>
+<link>http://veehd.com/video/4690284_P90X-DISC-11-Cardio</link>
+<thumbnail>http://img.rp.vhd.me/4690284_l3.jpg</thumbnail>
+</item>
 
-type=video
-name=12 Ab Ripper[COLOR red] HD [/COLOR]
-thumb=http://img.rp.vhd.me/4684940_l5.jpg
-URL=http://veehd.com/video/4684940_P90X-DISC-12-Ab-Ripper-avi
-processor=http://www.navixtreme.com/sproc/veehd
-player=default
-rating=-1.00
+<item>
+<name>12 Ab Ripper[COLOR red] HD [/COLOR]</name>
+<link>http://veehd.com/video/4684940_P90X-DISC-12-Ab-Ripper-avi</link>
+<thumbnail>http://img.rp.vhd.me/4684940_l5.jpg</thumbnail>
+</item>
