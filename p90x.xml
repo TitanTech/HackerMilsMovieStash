@@ -1,5 +1,4 @@
 
-
 <item>
 <name>00 How To Bring It[COLOR red] HD [/COLOR]</name>
 <link>http://veehd.com/video/4685906_P90X-DISC-00-How-To-Bring-It<link>
@@ -8,35 +7,26 @@
 
 <item>
 <name>01 Chest And Back[COLOR red] HD [/COLOR]</name>
-<thumbnail>http://img.rp.vhd.me/4685977_l5.jpg</thumbnail>
 <link>http://veehd.com/video/4716926_P90X-Xtreme-Workout-Series-Disc-01-Chest-Back</link>
-processor=http://www.navixtreme.com/sproc/veehd
-player=default
-rating=-1.00
+<thumbnail>http://img.rp.vhd.me/4685977_l5.jpg</thumbnail>
 
-type=video
-name=02 Pylometrics[COLOR red] HD [/COLOR]
-thumb=http://img.rp.vhd.me/4684350_l4.jpg
-URL=http://veehd.com/video/4684350_P90X-DISC-02-Plyometrics-avi
-processor=http://www.navixtreme.com/sproc/veehd
-player=default
-rating=-1.00
+<item>
+<name>02 Pylometrics[COLOR red] HD [/COLOR]</name>
+<link>http://veehd.com/video/4684350_P90X-DISC-02-Plyometrics-avi</link>
+<thumbnail>http://img.rp.vhd.me/4684350_l4.jpg</thumbnail>
+</item>
 
-type=video
-name=03 Shoulders And Arms[COLOR red] HD [/COLOR]
-thumb=http://img.rp.vhd.me/4779071_l2.jpg
-URL=http://veehd.com/video/4717272_P90X-Xtreme-Workout-Series-Disc-03-Shoulders-Arms
-processor=http://www.navixtreme.com/sproc/veehd
-player=default
-rating=-1.00
+<item>
+<name>03 Shoulders And Arms[COLOR red] HD [/COLOR]</name>
+<link>http://veehd.com/video/4717272_P90X-Xtreme-Workout-Series-Disc-03-Shoulders-Arms</link>
+<thumbnail>http://img.rp.vhd.me/4779071_l2.jpg</thumbnail>
+</item>
 
-type=video
-name=04 Yoga[COLOR red] HD [/COLOR]
-thumb=http://img.rp.vhd.me/4690268_l4.jpg
-URL=http://veehd.com/video/4690268_P90X-DISC-04-Yoga
-processor=http://www.navixtreme.com/sproc/veehd
-player=default
-rating=-1.00
+<item>
+<name>04 Yoga[COLOR red] HD [/COLOR]</name>
+<link>http://veehd.com/video/4690268_P90X-DISC-04-Yoga</link>
+<thumbnail>http://img.rp.vhd.me/4690268_l4.jpg</thumbnail>
+</item>
 
 type=video
 name=05 Legs And Back[COLOR red] HD [/COLOR]
