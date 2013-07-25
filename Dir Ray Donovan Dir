@@ -28,8 +28,10 @@
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE1ODY5Njc0NF5BMl5BanBnXkFtZTcwNTQ5NTU1OQ@@._V1._SX561_SY755_.jpg</thumbnail>
 </item>
 
-<item>
-<title>1x05 The Golem  [COLOR green]Airing: [/COLOR][COLOR red]Jul. 28, 2013[/COLOR] </title>
-<link></link>
+
+########################################################################################################################################
+<info>
+<message>1x05 The Golem  [COLOR green]Airing: [/COLOR][COLOR red]Jul. 28, 2013[/COLOR] </message>
 <thumbnail>http://www.nextepisodeonline.com/images/next-episode-logo.jpg</thumbnail>
-</item>
+</info>
+########################################################################################################################################
