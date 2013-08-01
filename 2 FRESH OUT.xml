@@ -7,7 +7,13 @@
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/vip-logo_zpsde82330d.jpg</thumbnail>
 </info>
 ###############################################################################################################
-
+<popup>
+<name>Test PopUp</name>
+<popImage>http://agbphoto.co.uk/football/wp-content/gallery/afc-fylde-vs-curzon-ashton-e1n-03-12-11/afc_fylde_vs_curzon_ashton_03122011_010.jpg</popImage>
+<song>https://www.dropbox.com/s/3a3v1ty1a9x09r3/VIP%20Clip_mixdown.mp3</song>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/vip-logo_zpsde82330d.jpg</thumbnail>
+</popup>
+##############################################################################################################################
 
 <dir>
 <name>[COLOR lime]Showtime[/COLOR] The Killing (2011)  [COLOR red]New[/COLOR]</name>
