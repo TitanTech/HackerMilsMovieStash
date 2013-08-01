@@ -10,6 +10,12 @@
 
 
 <dir>
+<name>[COLOR lime]Showtime[/COLOR] The Killing (2011)  [COLOR red]New[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20The%20Killing%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/210171-2.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR lime]Showtime[/COLOR] Under The Dome (2013)  [COLOR red]New[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Under%20The%20Dome%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/264492-2.jpg</thumbnail>
@@ -28,26 +34,6 @@
 </dir>
 aug 5
 
-<dir>
-<name>[COLOR lime]Showtime[/COLOR] Vikings (2013)  [COLOR red]New[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Vikings%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/260449-3.jpg</thumbnail>
-</dir>
-aug 2
-
-<dir>
-<name>[COLOR lime]Showtime[/COLOR] Ray Donovan (2013)  [COLOR red]New[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Ray%20Donovan%20Dir.xml</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE1ODY5Njc0NF5BMl5BanBnXkFtZTcwNTQ5NTU1OQ@@._V1._SX561_SY755_.jpg</thumbnail>
-</dir>
-aug 2
-
-<dir>
-<name>[COLOR lime]Showtime[/COLOR] The Bridge (2013)  [COLOR red]New[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20The%20Bridge%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/264085-4.jpg</thumbnail>
-</dir>
-aug 2
 
 
 ###############################################################################################################
