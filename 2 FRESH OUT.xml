@@ -16,6 +16,14 @@
 ##############################################################################################################################
 
 <dir>
+<name>[COLOR red]Section Construction In Progress[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Misc/MAIN%20EVENT.xml</link>
+<thumbnail>http://www.rividium.com/images/testing1.jpg</thumbnail>
+</dir>
+
+##################################################################################################################
+
+<dir>
 <name>[COLOR lime]Showtime[/COLOR] The Killing (2011)  [COLOR red]New[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20The%20Killing%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/210171-2.jpg</thumbnail>
@@ -39,7 +47,6 @@
 <thumbnail>http://thetvdb.com/banners/posters/250487-9.jpg</thumbnail>
 </dir>
 aug 5
-
 
 
 ###############################################################################################################
@@ -228,13 +235,4 @@ aug 5
 
 
 
-#################################################################################################################
-
-<dir>
-<name>[COLOR red]Section Construction In Progress[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Misc/MAIN%20EVENT.xml</link>
-<thumbnail>http://www.rividium.com/images/testing1.jpg</thumbnail>
-</dir>
-
-##################################################################################################################
 
