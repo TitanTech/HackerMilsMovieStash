@@ -17,18 +17,17 @@
 
 
 <dir>
-<name>[COLOR black]xxxx[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/STORIES.xml</link>
-<thumbnail>http://4.bp.blogspot.com/-G2fJ1BAr_N8/UP-tL2GtjfI/AAAAAAAAAb4/0aUgIFv0IMc/s320/work-in-progress.gif</thumbnail>
-</dir>
-
-
-
-<dir>
 <name>[COLOR red]NEW SECTION >>>[/COLOR] [COLOR aqua]MAIN EVENT[/COLOR] </name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Misc/MAIN%20EVENT.xml</link>
 <thumbnail>http://www.rividium.com/images/testing1.jpg</thumbnail>
 </dir>
+
+<dir>
+<name>[COLOR black]xxxx[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/STORIES.xml</link>
+<thumbnail></thumbnail>
+</dir>
+
 
 ##################################################################################################################
 
