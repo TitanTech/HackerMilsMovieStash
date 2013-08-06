@@ -39,11 +39,6 @@
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/shows_zps719051e4.jpg</thumbnail>
 <date>8/5/13</date>
 
-<name>[COLOR aqua]  Stand-Up[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Misc/6%20STAND-UP.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/stand-up_zps0e01fcb3.jpg</thumbnail>
-<date>7/21/13</date>
-
 <name>[COLOR aqua]  Documentary[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Misc/7%20DOCUMENTARY.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Docs_zpsee62602b.jpg</thumbnail>
@@ -53,6 +48,11 @@
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Misc/MAIN%20EVENT.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/icon-template_zpsa5acdec1.png</thumbnail>
 <date>8/4/13</date>
+
+<name>[COLOR aqua]  Stand-Up[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Misc/6%20STAND-UP.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/stand-up_zps0e01fcb3.jpg</thumbnail>
+<date>7/21/13</date>
 
 <name>[COLOR aqua]  Rap Battles[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Misc/8%20RAP%20BATTLES.xml</link>
