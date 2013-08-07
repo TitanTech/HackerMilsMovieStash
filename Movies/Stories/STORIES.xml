@@ -15,6 +15,12 @@
 
 
 <dir>
+<name>The Matrix Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Matrix.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/4qX28xv0xaEngCePJClfpuALhuM.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>The Iron Man Story</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Iron%20Man.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/fbeJ7f0aD4A112Bc1tnpzyn82xO.jpg</thumbnail>
@@ -68,11 +74,7 @@
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/8GDy6v6mnlQ8YwSBloBvQFrs6iu.jpg</thumbnail>
 </dir>
 
-<dir>
-<name></name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
+
 
 <dir>
 <name></name>
