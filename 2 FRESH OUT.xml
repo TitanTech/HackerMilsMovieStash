@@ -15,6 +15,7 @@
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/vip-logo_zpsde82330d.jpg</thumbnail>
 </info>
 ###############################################################################################################
+
 <popup>
 <name></name></name>
 <popImage></popImage>
@@ -22,14 +23,6 @@
 </popup>
 
 ##############################################################################################################################
-
-<dir>
-<name>[COLOR red]NEW SECTION >>>[/COLOR] [COLOR aqua]STORIES[/COLOR] </name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/STORIES.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/stories_zps4ed828c4.png</thumbnail>
-</dir>
-
-##################################################################################################################
 
 <dir>
 <name>[COLOR blue]Stories[/COLOR] The Matrix Story [COLOR red]8/7[/COLOR]</name>
