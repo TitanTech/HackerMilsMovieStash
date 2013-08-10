@@ -15,14 +15,39 @@
 </popup>
 
 ###############################################################################################################
+CODES
 
+- MESSAGE -
+<info>
+<message></message>
+<thumbnail></thumbnail>
+</info>
+
+- DIRECTORY- 
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+- POP UP -
 <popup>
-<name></name></name>
+<name></name>
 <popImage></popImage>
 <thumbnail></thumbnail>
 </popup>
 
-##############################################################################################################################
+- MULTI-LINK -
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
 
 
 
