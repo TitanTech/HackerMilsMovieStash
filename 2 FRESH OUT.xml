@@ -46,9 +46,27 @@
 ############################## CODES ###########################################
 
 <dir>
-<name>[COLOR blue]Showtime Section[/COLOR] LATEST EPISODES [COLOR red]HD[/COLOR]</name>
+<name>[COLOR blue]Showtime[/COLOR] LATEST EPISODES [COLOR red]HD[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Latest%20Shows.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/MV5BMTU2MTgzMzQxNV5BMl5BanBnXkFtZTcwODg4NTQ3OQ_V1_zpsb8dd85ab.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*New*[/COLOR] [COLOR blue]Stories[/COLOR]The Red Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/red.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/7ydQ2v1iwiBRuJJLCPyTx5Hu8J5.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*New*[/COLOR] [COLOR blue]Stories[/COLOR]The G.I. Joe Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/gi%20joe.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/sr11gsWzqGyYE9Kl8nCcVz5dGB7.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]*New*[/COLOR] [COLOR blue]Stories[/COLOR]The X-men Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/X-men.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/31rqs6ZxFdi5nWZZaFPIr17q8jt.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -499,128 +517,6 @@
 <link>http://movreel.com/m4txt6ankmku</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/A9QXtVy3uWYX4RhB2F7EBzXqZjS.jpg</thumbnail>
 </item>
-
-<item>
-<title>Man of Tai Chi (2013) [COLOR red]HD[/COLOR] [COLOR blue]8/8[/COLOR]</title>
-<link>http://hugefiles.net/c0zd5b5vk6o6</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/xe7CX2cWNVVsVV8l4Qgle5RQdzO.jpg</thumbnail>
-</item>
-
-<item>
-<title>What Maisie Knew (2013) [COLOR purple]1080P[/COLOR] [COLOR blue]8/8[/COLOR]</title>
-<link>http://billionuploads.com/xmuzw01bbvn1</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/mFkjWvqvSPdQm6PdL6w0TGeUPRi.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Byzantium (2013) [COLOR purple]1080P[/COLOR] [COLOR blue]8/8[/COLOR]</title>
-<link>http://billionuploads.com/5mge5lzlbt8g</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w500/bfI2ISPQSh2I8GUuOHj73DZAPC3.jpg</thumbnail>
-</item>
-
-<item>
-<title>The Big Wedding (2013) [COLOR purple]1080P[/COLOR] [COLOR blue]8/8[/COLOR]</title>
-<link>http://www.putlocker.com/file/2B58C5F1B83EF230</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTcwODUwMjg2Ml5BMl5BanBnXkFtZTcwMTc2NzkxOA@@._V1._SX640_SY948_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Hammer Of The Gods (2013) [COLOR purple]1080P[/COLOR] [COLOR blue]8/8[/COLOR]</title>
-<link>http://hugefiles.net/4mn0o0lilo9o</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTY5ODY2NjE5OF5BMl5BanBnXkFtZTcwNzY4NzAzOQ@@._V1._SX640_SY897_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Epic (2013) [COLOR purple]1080P[/COLOR] [COLOR blue]8/8[/COLOR]</title>
-<link>http://hugefiles.net/yugt4cu0loj6</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTgyNDYwNzE5NV5BMl5BanBnXkFtZTcwMzUyODM5OA@@._V1._SX640_SY944_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Epic (2013) [COLOR red]HD[/COLOR] [COLOR blue]8/8[/COLOR]</title>
-<link>http://www.putlocker.com/file/B70A2A724BBADE01</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTgyNDYwNzE5NV5BMl5BanBnXkFtZTcwMzUyODM5OA@@._V1._SX640_SY944_.jpg</thumbnail>
-</item>
-
-<item>
-<title>The Conjuring (2013) [COLOR red]R6[/COLOR] [COLOR blue]8/8[/COLOR]</title>
-<link>http://hugefiles.net/zghlnwpj3e09</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1._SX640_SY948_.jpg</thumbnail>
-</item>
-
-<item>
-<title>The Wolverine (2013) [COLOR yellow]TS[/COLOR] [COLOR blue]8/8[/COLOR]</title>
-<link>http://www.putlocker.com/file/B1B8E2633730B617</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1._SX640_SY949_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Emperor (2013) [COLOR purple]1080P[/COLOR] [COLOR blue]8/8[/COLOR]</title>
-<link>http://billionuploads.com/f1bbky58heo3</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjI4OTcwMTY3N15BMl5BanBnXkFtZTcwMTI1MzcxOQ@@._V1._SX640_SY948_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Emperor (2013) [COLOR red]HD[/COLOR] [COLOR blue]8/8[/COLOR]</title>
-<link>http://billionuploads.com/vi1oudo0hjps</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjI4OTcwMTY3N15BMl5BanBnXkFtZTcwMTI1MzcxOQ@@._V1._SX640_SY948_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Magic Magic (2013) [COLOR red]HD[/COLOR] [COLOR blue]8/8[/COLOR]</title>
-<link>http://www.putlocker.com/file/26661EB662186AA3</link>
-<thumbnail>http://welcomefrnds.com/wp-content/uploads/2013/06/magic-magic-movie-2013-poster-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>The Conspiracy (2013) [COLOR red]HD[/COLOR] [COLOR blue]8/8[/COLOR]</title>
-<link>http://billionuploads.com/qgtb7i0ip9bj</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjI5NjU0MTA0NV5BMl5BanBnXkFtZTcwNjM3MzI4OQ@@._V1._SX640_SY880_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]VIP Request[/COLOR] Hugo 3D [COLOR blue]8/8[/COLOR]</title>
-<link>http://billionuploads.com/kbq3denk7ocw</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjAzNzk5MzgyNF5BMl5BanBnXkFtZTcwOTE4NDU5Ng@@._V1._SX640_SY948_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Vip Request[/COLOR] Blind Side [COLOR blue]8/7[/COLOR]</title>
-<link>http://billionuploads.com/c51mneh5brxx</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjEzOTE3ODM3OF5BMl5BanBnXkFtZTcwMzYyODI4Mg@@._V1._SX640_SY953_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Vip Request[/COLOR] Casa De Mi Padre [COLOR blue]8/7[/COLOR]</title>
-<link>http://veehd.com/video/4725263_CASA-DE-MI-PADRE-2012-DVD-ENGLISH-SUBS-LINK-ON-MY-PROFILE-PAGE-XVID-AVI</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BODE1MDYzNjA0NF5BMl5BanBnXkFtZTcwNjY2MTgyNw@@._V1._SX640_SY923_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Documentary[/COLOR] DEFCON: The Documentary (2013) [COLOR red]HD[/COLOR] [COLOR blue]8/6[/COLOR]</title>
-<link>http://billionuploads.com/le3unldizoy3/Defcon.mkv.html</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTgzMTEwMTU4OV5BMl5BanBnXkFtZTcwOTU2Mzc4OQ@@._V1._SX640_SY917_.jpg</thumbnail>
-</item>
-
-<item>
-<title>A Field In England (2013) [COLOR red]HD[/COLOR] [COLOR blue]8/6[/COLOR]</title>
-<link>http://billionuploads.com/xi9jeydsj1jk</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMzI4MTczODQ2NV5BMl5BanBnXkFtZTcwNzg3Nzk3OQ@@._V1._SX640_SY905_.jpg</thumbnail>
-</item>
-
-<item>
-<title>What Maisie Knew (2013) [COLOR red]HD[/COLOR] [COLOR blue]8/6[/COLOR]</title>
-<link>http://billionuploads.com/b0926u4lh500</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTY1MDk0MTIzN15BMl5BanBnXkFtZTcwNDM3NzkxOQ@@._V1._SX640_SY948_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Scenic Route (2013) [COLOR red]HD[/COLOR] [COLOR blue]Pre-Release 8/6[/COLOR]</title>
-<link>http://billionuploads.com/jmgnmefai6ef</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjAyNjIyOTU0M15BMl5BanBnXkFtZTcwNTUwOTI2OQ@@._V1._SX366_SY540_.jpg</thumbnail>
-</item>
-
 
 
 
