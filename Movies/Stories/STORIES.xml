@@ -2,6 +2,8 @@
 <poster>HackerMil</poster>
 <fanart>http://i1367.photobucket.com/albums/r795/HackerMil/Fanart/283707_zpsf0d15279.jpg</fanart>
 #######################################################################################################################################
+
+
 <info>
 <message>[COLOR red]**[/COLOR] [COLOR aqua]WATCH THE FULL STORY OF ALL YOUR FAVORITE MOVIES[/COLOR] [COLOR red]**[/COLOR]</message>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/stories_zps4ed828c4.png</thumbnail>
@@ -13,6 +15,24 @@
 </info>
 ##############################################################################################################################
 
+
+<dir>
+<name>The X-men Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/X-men.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/31rqs6ZxFdi5nWZZaFPIr17q8jt.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The G.I. Joe Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/gi%20joe.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/sr11gsWzqGyYE9Kl8nCcVz5dGB7.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Red Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/red.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/7ydQ2v1iwiBRuJJLCPyTx5Hu8J5.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>The Matrix Story</name>
