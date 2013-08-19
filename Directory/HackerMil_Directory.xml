@@ -7,22 +7,22 @@
 <name>[COLOR yellow]  VIP[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/A%20VIP.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
-<date>8/16/13</date>
+<date>8/18/13</date>
 
 <name>[COLOR aqua]  Fresh Out[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/2%20FRESH%20OUT.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/Fresh-Out_zps272d0ac2.jpg</thumbnail>
-<date>8/16/13</date>
+<date>8/18/13</date>
 
 <name>[COLOR aqua]  Theatre[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/3%20THEATRE.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/theatre_zps7d4d7221.jpg</thumbnail>
-<date>8/16/13</date>
+<date>8/18/13</date>
 
 <name>[COLOR aqua]  Show Time[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/TV%20SHOWS.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/shows_zps719051e4.jpg</thumbnail>
-<date>8/16/13</date>
+<date>8/18/13</date>
 
 <name>[COLOR aqua]  1080P[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/4%201080P.xml</link>
@@ -32,14 +32,17 @@
 <name>[COLOR aqua]  HD[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/5%20HD.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/hd_zps36daf4f0.jpg</thumbnail>
-<date>8/16/13</date>
+<date>8/18/13</date>
 
 <name>[COLOR aqua]  Stories[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/STORIES.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/stories_zps4ed828c4.png</thumbnail>
 <date>8/16/13</date>
 
----------------
+<name>[COLOR aqua]  Collections[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Collections/XX%20COLLECTIONS%20XX.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/collections_zps3d211cd3.png</thumbnail>
+<date>8/18/13</date>
 
 <name>[COLOR aqua]  Documentary[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Misc/7%20DOCUMENTARY.xml</link>
