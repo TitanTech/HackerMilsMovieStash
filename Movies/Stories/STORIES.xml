@@ -16,6 +16,13 @@
 ##############################################################################################################################
 
 
+
+<dir>
+<name>The Kick-Ass Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Kick%20ass.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/cuaQdL5V5n5oSPQDkVxVGDbTj2x.jpg</thumbnail>
+</dir>
+
 <dir>
 <name>The X-men Story</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/X-men.xml</link>
