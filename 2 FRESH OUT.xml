@@ -59,21 +59,9 @@
 </dir>
 
 <dir>
-<name>[COLOR red]*New*[/COLOR] [COLOR blue]Stories[/COLOR] The Red Story</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/red.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/7ydQ2v1iwiBRuJJLCPyTx5Hu8J5.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>[COLOR red]*New*[/COLOR] [COLOR blue]Stories[/COLOR] The Kick-Ass Story</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Kick%20ass.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/cuaQdL5V5n5oSPQDkVxVGDbTj2x.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]*New*[/COLOR] [COLOR blue]Stories[/COLOR] The G.I. Joe Story</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/gi%20joe.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/sr11gsWzqGyYE9Kl8nCcVz5dGB7.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -85,6 +73,12 @@
 
 ########################################################################################
 
+
+<item>
+<title>Kick-Ass 2 (2013) [COLOR yellow]CAM[/COLOR] [COLOR blue]NV 8/19[/COLOR]</title>
+<link>http://www.putlocker.com/file/73C973D229527B05</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/tFhrRNMIuzmtjWOrtVXNSq5xFsG.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR blue]New Episode[/COLOR] Breaking Bad S05E10 [COLOR blue]8/18[/COLOR]</title>
@@ -144,12 +138,6 @@
 <title>The Heat (2013) [COLOR red]HD[/COLOR] [COLOR blue]NV 8/18[/COLOR]</title>
 <link>http://billionuploads.com/5kxtgb7jjv20</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BNDEwMTg2OTI5MF5BMl5BanBnXkFtZTcwNjgyNjkzOQ@@._V1._SX640_SY946_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Kick-Ass 2 (2013) [COLOR yellow]CAM[/COLOR] [COLOR blue]8/18[/COLOR]</title>
-<link>http://billionuploads.com/yhu1x0wywo5h</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/tFhrRNMIuzmtjWOrtVXNSq5xFsG.jpg</thumbnail>
 </item>
 
 <item>
