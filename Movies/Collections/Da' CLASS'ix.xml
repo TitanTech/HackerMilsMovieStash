@@ -5,7 +5,12 @@
 
 
 <info>
-<message>[COLOR red]**[/COLOR] [COLOR aqua]IN HIGHEST RATED ORDER[/COLOR] [COLOR red]**[/COLOR]</message>
+  <message>[COLOR red]**[/COLOR] [COLOR aqua]IN A-Z ORDER TO AVOID RATING, SEQUELS ON TOP[/COLOR] [COLOR red]**[/COLOR]</message>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/hackermilx_zps059b3b44.png</thumbnail>
+</info>
+
+<info>
+  <message>[COLOR red]You Know The Drill, Give Me Time To Fill[/COLOR]</message>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/hackermilx_zps059b3b44.png</thumbnail>
 </info>
 
@@ -13,46 +18,61 @@
 ##############################################################################################################
 
 
+<dir>
+<name>Back To The Future Trilogy</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Back%20To%20The%20Future.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/1CjWuJic3ZNdyMI4VR1A608L1UA.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Godfather Trilogy</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Godfather.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/aINbpu25xO8INlFaIyUIS6Qcbb5.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Rocky Saga</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Rocky.xml%20(Wont%20work%20till%20update)</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/O66XFv0mU6JKfmrgkoTQLwbFDG.jpg</thumbnail>
+</dir>
+
+#################################################################################################
+
+
 <item>
-<title>Heat (1995)</title>
-<link>http://veehd.com/video/4662498_Heat-1995-BRRip</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/qiOwtkfRrB1tNdb1ZzJa89m7YEf.jpg</thumbnail>
+<title>A Bronx Tale (1993)</title>
+<link>http://billionuploads.com/anin9q9se2bf</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/5oeURxVMbbbAj0SraXGXIlcnDOy.jpg</thumbnail>
 </item>
 
 <item>
-<title>Scarface (1983)</title>
-<link>http://billionuploads.com/4swmfgk6ltye</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/zr2p353wrd6j3wjLgDT4TcaestB.jpg</thumbnail>
+<title>American History X (1998)</title>
+<link>http://billionuploads.com/rwms91ifkc00</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/fXepRAYOx1qC3wju7XdDGx60775.jpg</thumbnail>
 </item>
 
 <item>
-<title>Once Upon A Time In America (1984)</title>
-<link>http://billionuploads.com/hvq8omxq1qu9</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/fqP3Q7DWMFqW7mh11hWXbNwN9rz.jpg</thumbnail>
+<title>Casino (1995)</title>
+<link>http://billionuploads.com/30ntm6rxmkqq</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/6rRqNMDjYdJhtIgYSwiX91QgBTq.jpg</thumbnail>
 </item>
 
 <item>
-<title>Full Metal Jacket (1987)</title>
-<link>http://85.12.8.11/index.php?file=1280&start=0&hd=0&auth=0&type=flv&tv=0</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BNDAzMjU3NzE0Nl5BMl5BanBnXkFtZTcwNTk1ODg3OA@@._V1._SX372_SY500_.jpg</thumbnail>
+<title>City Of God (2002)</title>
+<link>http://movreel.com/jredgkh5q2tc</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/sxmY85UrSYN4y8sZSzO9LKpPgSA.jpg</thumbnail>
 </item>
 
 <item>
-<title>New Jack City (1991)</title>
-<link>http://billionuploads.com/5npvlxhs770n</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjAzNTQzMjkwNl5BMl5BanBnXkFtZTYwODA3NjM5._V1._SX344_SY475_.jpg</thumbnail>
+<title>Eyes Wide Shut (1999)</title>
+<link>http://billionuploads.com/upvqz1lyrbsj</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/1rre3m7WsI2QavNZD4aUa8LzzcK.jpg</thumbnail>
 </item>
 
 <item>
-<title>Menace To Society (1993)</title>
-<link>http://85.12.8.11/index.php?file=1280&start=0&hd=0&auth=0&type=flv&tv=0</link>
-<thumbnail>http://www.screenatlas.com/sites/default/files/menace-ii-society-poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>Schindler's List (1993)</title>
-<link>http://billionuploads.com/kluiclek7x2d</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/tvOvW7Qjj63zbQW5TZ8CjPThAUd.jpg</thumbnail>
+<title>Fight Club (1999)</title>
+<link>http://movreel.com/jpzk6afm5kyi</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/q5rbkd4MY4J8AZEz0NxYWnWyzYD.jpg</thumbnail>
 </item>
 
 <item>
@@ -62,9 +82,21 @@
 </item>
 
 <item>
-<title>Pulp Fiction (1994)</title>
-<link>http://billionuploads.com/t20w5n54iojn</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4._V1._SX334_SY475_.jpg</thumbnail>
+<title>Full Metal Jacket (1987)</title>
+<link>http://85.12.8.11/index.php?file=1280&start=0&hd=0&auth=0&type=flv&tv=0</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BNDAzMjU3NzE0Nl5BMl5BanBnXkFtZTcwNTk1ODg3OA@@._V1._SX372_SY500_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Goodfellas (1990)</title>
+<link>http://veehd.com/video/4698418_Goodfellas-1990-BRRip</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/vTIBXvb6hNZk41lLJPzzVFVHm6q.jpg</thumbnail>
+</item>
+
+<item>
+<title>Heat (1995)</title>
+<link>http://veehd.com/video/4662498_Heat-1995-BRRip</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/qiOwtkfRrB1tNdb1ZzJa89m7YEf.jpg</thumbnail>
 </item>
 
 <item>
@@ -80,10 +112,100 @@
 </item>
 
 <item>
+<title>Menace To Society (1993)</title>
+<link>http://85.12.8.11/index.php?file=1280&start=0&hd=0&auth=0&type=flv&tv=0</link>
+<thumbnail>http://www.screenatlas.com/sites/default/files/menace-ii-society-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>New Jack City (1991)</title>
+<link>http://billionuploads.com/5npvlxhs770n</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjAzNTQzMjkwNl5BMl5BanBnXkFtZTYwODA3NjM5._V1._SX344_SY475_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Once Upon A Time In America (1984)</title>
+<link>http://billionuploads.com/hvq8omxq1qu9</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/fqP3Q7DWMFqW7mh11hWXbNwN9rz.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pulp Fiction (1994)</title>
+<link>http://billionuploads.com/t20w5n54iojn</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4._V1._SX334_SY475_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Saving Private Ryan (1998)</title>
+<link>http://www.putlocker.com/file/5F7A6D810FBE30E0</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/gc7IN6bWNaWXv4vI6cxSmeB7PeO.jpg</thumbnail>
+</item>
+
+<item>
+<title>Scarface (1983)</title>
+<link>http://billionuploads.com/4swmfgk6ltye</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/zr2p353wrd6j3wjLgDT4TcaestB.jpg</thumbnail>
+</item>
+
+<item>
+<title>Schindler's List (1993)</title>
+<link>http://billionuploads.com/kluiclek7x2d</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/tvOvW7Qjj63zbQW5TZ8CjPThAUd.jpg</thumbnail>
+</item>
+
+<item>
+<title>Se7en (1995)</title>
+<link>http://180upload.com/lgjn1leid0kr</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/mhFXxB76LVgJBIfJM1sAuVBtVKv.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Game (1997)</title>
+<link>http://veehd.com/video/4656905_The-Game-1997-BRRip</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/qunJC1qPxc8NDV3BmUfaSA2vyGa.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Pianist (2002)</title>
+<link>http://movreel.com/rm7imiqwl6ru</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/gYOGIlpvC1iCBHas91uEPGAPk4y.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Shawshank Redemption (1994)</title>
+<link>http://billionuploads.com/t6vqbua3pp51</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc3NjM4MTY3MV5BMl5BanBnXkFtZTcwODk4Mzg3OA@@._V1._SX352_SY500_.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Shining (1980)</title>
+<link>http://billionuploads.com/qsjdqparhal3</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/70MHVrl1Zb3KXFyHY0hIu8VSoac.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Silence Of The Lambs (1991)</title>
+<link>http://billionuploads.com/vfrqxhq5mom6</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/xDRBmwNpZzhhxZCMr81LbJqBKAa.jpg</thumbnail>
+</item>
+
+item>
 <title>The Usual Suspects (1995)</title>
 <link>http://veehd.com/video/3497516_The-Usual-Suspects-1995-R--JANITOR</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/p4qRczfjaRGdzBHW8wwyVxbqEs.jpg</thumbnail>
 </item>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
