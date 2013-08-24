@@ -17,6 +17,12 @@
 
 
 <dir>
+<name>The Ace Ventura Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Ace%20Ventura.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/1b6XZaWAnX3RonaJbL1jKbRaOy7.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>The Hangover Story</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Hangover.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/aMmNLuyXvdBih1R5RRHtdtNaS6N.jpg</thumbnail>
