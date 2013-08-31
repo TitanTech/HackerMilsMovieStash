@@ -10,11 +10,17 @@
 </info>
 
 <info>
-<message>[COLOR red]Work In Progress Give Me Time To Fill Lots In Store For This Section[/COLOR]</message>
+<message>[COLOR aqua]IN ALPHABETICAL ORDER[/COLOR]</message>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/stories_zps4ed828c4.png</thumbnail>
 </info>
 ##############################################################################################################################
 
+
+<dir>
+<name>The Transformers Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Transformers.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/giURBCO3r4LVbhywEjIuYz92fEv.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>The Ace Ventura Story</name>
