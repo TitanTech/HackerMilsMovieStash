@@ -10,67 +10,7 @@
 </popup>
 
 
-############################## CODES ###########################################
-
-
-- LINK - 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-- MESSAGE -
-<info>
-<message></message>
-<thumbnail></thumbnail>
-</info>
-
-- DIRECTORY- 
-<dir>
-<name></name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-- POP UP -
-<popup>
-<name></name>
-<popImage></popImage>
-<thumbnail></thumbnail>
-</popup>
-
-- MULTI-LINK -
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
--SPECIFIC-                                                                                  REPLACE  
-Vimeo ->plugin://plugin.video.vimeo/?path=/root/search/new/search&action=play_video&videoid=73391453
-
-############################## CODES ###########################################
-
-
-<dir>
-<name>[COLOR red]*New*[/COLOR] [COLOR blue]Series[/COLOR] The Americans (2013)</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20The%20Americans%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/261690-5.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]*New*[/COLOR] [COLOR blue]Main Event Series[/COLOR] All Access Mayweather vs Canelo</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Misc/Dir%20All%20Access%20Dir.xml</link>
-<thumbnail>http://www.fighthype.com/images/content/_adMayweatherAlvarez.jpg</thumbnail>
-</dir>
-
-
-########################################################################################
+#########################################################################
 
 
 <title>[COLOR blue]Event[/COLOR] UFC Fight Night 28 Teixeira vs Bader [COLOR red]HD[/COLOR] [COLOR blue]9/5[/COLOR]</title>
