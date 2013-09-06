@@ -58,6 +58,13 @@ Vimeo ->plugin://plugin.video.vimeo/?path=/root/search/new/search&action=play_vi
 
 
 <dir>
+<name>[COLOR black]Test[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Freshout/Freshout.xml</link>
+<thumbnail>http://4.bp.blogspot.com/-G2fJ1BAr_N8/UP-tL2GtjfI/AAAAAAAAAb4/0aUgIFv0IMc/s320/work-in-progress.gif</thumbnail>
+</dir>
+
+
+<dir>
 <name>[COLOR red]*New*[/COLOR] [COLOR blue]Main Event Series[/COLOR] The Ultimate Fighter [COLOR red]*New*[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Sports/Shows/The%20Ultimate%20Fighter.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/75382-10.jpg</thumbnail>
