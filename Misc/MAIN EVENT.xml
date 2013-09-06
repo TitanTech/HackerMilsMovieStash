@@ -15,10 +15,18 @@
 
 
 <dir>
-<name>All Access Mayweather vs Canelo [COLOR red]*New*[/COLOR]</name>
+<name>The Ultimate Fighter [COLOR red]*New*[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Sports/Shows/The%20Ultimate%20Fighter.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/75382-10.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>All Access Mayweather vs Canelo</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Misc/Dir%20All%20Access%20Dir.xml</link>
 <thumbnail>http://www.fighthype.com/images/content/_adMayweatherAlvarez.jpg</thumbnail>
 </dir>
+
+
 
 ######################################################################################################
 
