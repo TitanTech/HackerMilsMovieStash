@@ -10,51 +10,7 @@
 </popup>
 
 
-############################## CODES ###########################################
-
-
-- LINK - 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-- MESSAGE -
-<info>
-<message></message>
-<thumbnail></thumbnail>
-</info>
-
-- DIRECTORY- 
-<dir>
-<name></name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-- POP UP -
-<popup>
-<name></name>
-<popImage></popImage>
-<thumbnail></thumbnail>
-</popup>
-
-- MULTI-LINK -
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
--SPECIFIC-                                                                                  REPLACE  
-Vimeo ->plugin://plugin.video.vimeo/?path=/root/search/new/search&action=play_video&videoid=73391453
-
-############################## CODES ###########################################
+#########################################################################
 
 
 <title>[COLOR blue]Documentary[/COLOR] Évocateur: The Morton Downey Jr. Movie (2012) [COLOR red]HD[/COLOR] [COLOR blue]9/5[/COLOR]</title>
