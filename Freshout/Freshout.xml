@@ -13,6 +13,43 @@
 #########################################################################
 
 
+<dir>
+<name>[COLOR lime]ALL[/COLOR] [COLOR aqua]New Additions This Week[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Freshout/Directories/All%20New%20Additions%20This%20Week.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/Fresh-Out_zps272d0ac2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]This Week's[/COLOR] [COLOR lime]Movies[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/Fresh-Out_zps272d0ac2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]This Week's[/COLOR] [COLOR lime]Episodes[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Freshout/Directories/This%20Week's%20Episodes.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/Fresh-Out_zps272d0ac2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]This Week's[/COLOR [COLOR lime]Event Replays[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Freshout/Directories/This%20Week's%20Event%20Replays.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/Fresh-Out_zps272d0ac2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]This Week's[/COLOR] [COLOR lime]Standup[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Freshout/Directories/This%20%20Week's%20Standup.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/Fresh-Out_zps272d0ac2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]This Week's[/COLOR] [COLOR lime]Documentary[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Freshout/Directories/This%20Week's%20Documentaries.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/Fresh-Out_zps272d0ac2.jpg</thumbnail>
+</dir>
+
+
 <item>
 <title>[COLOR lime]PICKOFTHEWEEK[/COLOR] The East (2013)</title>
 <link>
@@ -24,41 +61,8 @@
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/4BdJyWnDnDOd3bvixHFJh9txIcm.jpg</thumbnail>
 </item>
 
-<dir>
-<name>[COLOR aqua]ALL New Additions This Week[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Freshout/Directories/All%20New%20Additions%20This%20Week.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/Fresh-Out_zps272d0ac2.jpg</thumbnail>
-</dir>
 
-<dir>
-<name>[COLOR aqua]This Week's Movies[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/Fresh-Out_zps272d0ac2.jpg</thumbnail>
-</dir>
 
-<dir>
-<name>[COLOR aqua]This Week's Episodes[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Freshout/Directories/This%20Week's%20Episodes.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/Fresh-Out_zps272d0ac2.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]This Week's Event Replays[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Freshout/Directories/This%20Week's%20Event%20Replays.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/Fresh-Out_zps272d0ac2.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]This Week's Standup[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Freshout/Directories/This%20%20Week's%20Standup.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/Fresh-Out_zps272d0ac2.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua]This Week's Documentary[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Freshout/Directories/This%20Week's%20Documentaries.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/Fresh-Out_zps272d0ac2.jpg</thumbnail>
-</dir>
 
 
 
