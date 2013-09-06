@@ -54,6 +54,11 @@
 -SPECIFIC-                                                                                  REPLACE  
 Vimeo ->plugin://plugin.video.vimeo/?path=/root/search/new/search&action=play_video&videoid=73391453
 
+
+Static Noobroom ->
+http://185.8.196.237/?1287&s=15
+http://85.12.8.4/index.php?file=1287&start=0&hd=0&auth=0&type=flv&tv=0
+
 #########################################################################
 
 
@@ -304,7 +309,7 @@ http://www.putlocker.com/file/8379D30F16B13351
 
 <item>
 <title>[COLOR red]Being Evaluated [/COLOR]</title>
-<link>nil</link>
+<link>http://movreel.com/gkvlrmu2cfve</link>
 <thumbnail>http://4.bp.blogspot.com/-G2fJ1BAr_N8/UP-tL2GtjfI/AAAAAAAAAb4/0aUgIFv0IMc/s320/work-in-progress.gif</thumbnail>
 </item>
 
