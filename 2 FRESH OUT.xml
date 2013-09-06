@@ -58,9 +58,9 @@ Vimeo ->plugin://plugin.video.vimeo/?path=/root/search/new/search&action=play_vi
 
 
 <dir>
-<name>[COLOR red]*New*[/COLOR] [COLOR blue]Series[/COLOR] The Americans (2013)</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20The%20Americans%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/261690-5.jpg</thumbnail>
+<name>[COLOR red]*New*[/COLOR] [COLOR blue]Main Event Series[/COLOR] The Ultimate Fighter [COLOR red]*New*[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Sports/Shows/The%20Ultimate%20Fighter.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/75382-10.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -71,6 +71,17 @@ Vimeo ->plugin://plugin.video.vimeo/?path=/root/search/new/search&action=play_vi
 
 
 ########################################################################################
+
+
+<item>
+<title>[COLOR blue]Episode[/COLOR] The Ultimate Fighter S18E01 [COLOR red]HD[/COLOR] [COLOR blue]9/5[/COLOR]</title>
+<link>
+<sublink>http://www.putlocker.com/file/68A568FA558C7EFC</sublink>
+<sublink>http://180upload.com/68r76wludisn</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://thetvdb.com/banners/posters/75382-10.jpg</thumbnail>
+</item>
 
 
 <title>[COLOR blue]Event[/COLOR] UFC Fight Night 28 Teixeira vs Bader [COLOR red]HD[/COLOR] [COLOR blue]9/5[/COLOR]</title>
