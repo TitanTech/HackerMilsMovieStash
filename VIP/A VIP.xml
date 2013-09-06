@@ -29,6 +29,12 @@
 </dir>
 
 <dir>
+<name>[COLOR blue] Big Al's Channel[/COLOR] [COLOR lime]LIFTIME MEMBER[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Big%20Al.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR blue] Duddy's Channel[/COLOR] [COLOR red]Due 2/3/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Duddy.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
@@ -37,6 +43,12 @@
 <dir>
 <name>[COLOR blue] Bruce's Channel[/COLOR] [COLOR red]Due 2/2/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Bruce.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR blue] Eskie Mo's Channel[/COLOR] [COLOR red]Due 10/3/13[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Eskie%20Mo.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
 </dir>
 
@@ -50,26 +62,22 @@
 
 ##################################################################################################
 
-<dir>
-<name>[COLOR blue]Story Request[/COLOR] The Friday Story [COLOR red]*!For VIP Eskie Mo!*[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Friday.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/A66Lze4KZb1fgBkB2blv1a4XwDP.jpg</thumbnail>
-</dir>
+
 
 <dir>
-<name>[COLOR blue]Show Request[/COLOR] Law & Order [COLOR red]*!For VIP Jim!*[/COLOR]</name>
+<name>Show Request[/COLOR] Law & Order [COLOR red]*!For VIP James!*[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/Directories/Dir%20Law%20Order%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/72368-1.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR blue]Story Request[/COLOR] The Riddick Story  [COLOR red]*!For VIP Darren!*[/COLOR]</name>
+<name>Story Request[/COLOR] The Riddick Story  [COLOR red]*!For VIP Darren!*[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Riddick.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/4R2zrqk9KzgxU9UDH3yUUsENXR.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR blue]Show Request[/COLOR] Doctor Who [COLOR red]*!For VIP Jon!*[/COLOR]</name>
+<name>Show Request[/COLOR] Doctor Who [COLOR red]*!For VIP Jon!*[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/Directories/Dir%20Doctor%20who%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/78804-34.jpg</thumbnail>
 </dir>
@@ -153,11 +161,7 @@ http://180upload.com/ehcv69pjxkxu
 
 
 
-<item>
-<title>Fruitvale Station [COLOR red]*!For VIP BigAlFromBklyn!*[/COLOR]</title>
-<link>http://www.putlocker.com/file/FD927E516122A007</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/aAKEdeDYxsXgGK24mnSnXguqEDI.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>The Little Rascals [COLOR blue]DVD[/COLOR] (1994) [COLOR red]*!For VIP Gerardo!*[/COLOR]</title>
@@ -165,11 +169,7 @@ http://180upload.com/ehcv69pjxkxu
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ0NjUzMTcyNV5BMl5BanBnXkFtZTcwOTY5MzEyMQ@@._V1._SX348_SY475_.jpg</thumbnail>
 </item>
 
-<item>
-<title>Super Size Me [COLOR red]*!For VIP IJailBreakThis!*[/COLOR]</title>
-<link>http://www.putlocker.com/file/FSE3ERBXWRZ7</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTYyOTk4MjIxOF5BMl5BanBnXkFtZTcwMzk1NTUyMQ@@._V1._SX640_SY909_.jpg</thumbnail>
-</item>
+
 
 
 
@@ -195,23 +195,9 @@ http://180upload.com/ehcv69pjxkxu
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMzkyNDExOTA1Nl5BMl5BanBnXkFtZTcwNjgzODE4OA@@._V1._SX640_SY948_.jpg</thumbnail>
 </item>
 
-<item>
-<title>The Conjuring [COLOR red]*!For VIP IJordan!*[/COLOR]</title>
-<link>http://www.putlocker.com/file/1746500F00CC3EDB</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1._SX640_SY948_.jpg</thumbnail>
-</item>
 
-<item>
-<title>Taxi Driver [COLOR red]*!For VIP BigAlFromBklyn!*[/COLOR]</title>
-<link>http://billionuploads.com/hxdzy9exghes</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ1Nzg3MDQwN15BMl5BanBnXkFtZTcwNDE2NDU2MQ@@._V1._SX368_SY500_.jpg</thumbnail>
-</item>
 
-<item>
-<title>UFC on FOX 8 [COLOR red]*!For VIP Greg!*[/COLOR]</title>
-<link>http://billionuploads.com/tb2rgoge9n0p</link>
-<thumbnail>http://wpmedia.o.canada.com/2013/07/ufc_on_fox_8_poster.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>Blackout [COLOR red]*!For VIP Tommy!*[/COLOR]</title>
@@ -231,11 +217,7 @@ http://180upload.com/ehcv69pjxkxu
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ2MDcyNjcwMl5BMl5BanBnXkFtZTcwMzk0MTYzMQ@@._V1._SX351_SY500_.jpg</thumbnail>
 </item>
 
-<item>
-<title>Blood In, Blood Out [COLOR red]*!For VIP BigAlFromBklyn!*[/COLOR]</title>
-<link>http://www.youtube.com/watch?v=zoz850QyBjE</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTMyMTM5OTMxNF5BMl5BanBnXkFtZTYwODcyNDY5._V1._SX334_SY475_.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>Admission [COLOR red]*!For VIP MannyP!*[/COLOR]</title>
