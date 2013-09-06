@@ -6,6 +6,14 @@
 
 ##############################################################################################################################
 
+
+<popup>
+<name>[COLOR red]CLICK HERE[/COLOR] [COLOR aqua]FOR INFO ON JOINING THE VIP CLUB AND DETAILS[/COLOR]</name>
+<popImage>http://i1367.photobucket.com/albums/r795/HackerMil/Splashes/Mash-Splash_zps10d60b9d.png</popImage>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+</popup>
+
+
 <popup>
 <name>[COLOR red]CLICK HERE[/COLOR] [COLOR aqua]FOR INFO ON JOINING THE VIP CLUB AND DETAILS[/COLOR]</name>
 <popImage>http://i1367.photobucket.com/albums/r795/HackerMil/Splashes/Mash-Splash_zps10d60b9d.png</popImage>
@@ -18,14 +26,36 @@
 </info>
 
 
+
+
 ########################################################################################################################
 
 
 <dir>
-<name>[COLOR red]*New*[/COLOR] Bruce's Channel</name>
+<name>[COLOR blue] Brandon's Channel[/COLOR] [COLOR lime]LIFTIME MEMBER[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Brandon.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR blue] Bruce's Channel[/COLOR] [COLOR red]Due 2/2/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Bruce.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
 </dir>
+
+<dir>
+<name>[COLOR blue] Duddy's Channel[/COLOR] [COLOR red]Due 2/3/14[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Duddy.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+</dir>
+
+
+
+
+
+
+
+##################################################################################################
 
 <dir>
 <name>[COLOR blue]Story Request[/COLOR] The Friday Story [COLOR red]*!For VIP Eskie Mo!*[/COLOR]</name>
@@ -51,57 +81,22 @@
 <thumbnail>http://thetvdb.com/banners/posters/78804-34.jpg</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR blue]Show Request[/COLOR] Salute Your Shorts [COLOR red]*!For VIP Duddy!*[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/Directories/Dir%20Salut%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/76128-1.jpg</thumbnail>
-</dir>
 
-<dir>
-<name>[COLOR blue]Show Request[/COLOR] To Catch A Predator [COLOR red]*!For VIP Duddy!*[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/Directories/Dir%20Predator%20Dir.xml</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjI5MTk0NjMwOF5BMl5BanBnXkFtZTcwMTQ3NjY4Nw@@._V1._SX640_SY990_.jpg</thumbnail>
-</dir>
+
+
 
 
 
 ####################################################################################################################################
 
 
-<item>
-<title>Spring Breakers [COLOR red]*!For VIP Duddy!*[/COLOR]</title>
-<link>
-<sublink>http://tinyurl.com/HMSpringBreakers</sublink>
-<sublink>http://movreel.com/quf6hvapy1j9</sublink>
-<sublink>http://billionuploads.com/g5y36bdm9kbf</sublink>
-<sublink>http://180upload.com/l3f39fi0nluw</sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/2rLddl3j1e9uYXmkyXp6sHumIvz.jpg</thumbnail>
-</item>
 
-<item>
-<title>Monsters University [COLOR red]*!For VIP Brandon!*[/COLOR]</title>
-<link>
-<sublink>http://hugefiles.net/0qgfuxpwa8u4</sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/r5BLUeYAk15TR11Tz8URPROREid.jpg</thumbnail>
-</item>
 
-<item>
-<title>Aziz Ansari: Intimate Moments for a Sensual Evening [COLOR red]*!For VIP Duddy!*[/COLOR]</title>
-<link>http://veehd.com/video/2485005_Aziz-Ansari-Intimate-Moments-For-A-Sensual-Evening</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/s3Dn0eghE6l7aqU1qpb5jQ6phIv.jpg</thumbnail>
-</item>
 
-<item>
-<title>Aziz Ansari: Dangerously Delicious [COLOR red]*!For VIP Duddy!*[/COLOR]</title>
-<link>http://veehd.com/video/4760566_Aziz-Ansari-Dangerously-Delicious-2012-AVI</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/n8xt7bZO5Ls07U95mjDaQJK44Uo.jpg</thumbnail>
-</item>
+
+
+
+
 
 <item>
 <title>Mask [COLOR red]*!For VIP Jim!*[/COLOR]</title>
@@ -151,11 +146,7 @@
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/6IKmjW52qeMXx8xXMdX6RRshmY0.jpg</thumbnail>
 </item>
 
-<item>
-<title>Chasing Mavericks [COLOR red]*!For VIP Brandon!*[/COLOR]</title>
-<link>http://movreel.com/nywjy1kspw29</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/pcVo4WL02L3Ly6cD9aYfPvkqvea.jpg</thumbnail>
-</item>
+
 
 
 <item>
@@ -167,11 +158,7 @@
 http://billionuploads.com/cq4m3vxausfx
 http://180upload.com/ehcv69pjxkxu
 
-<item>
-<title>The Big Lebowski [COLOR red]*!For VIP Brandon!*[/COLOR]</title>
-<link>http://veehd.com/video/4782009_The-Big-Lebowski-1998-Jeff-Bridges-John-Goodman</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/aHaVjVoXeNanfwUwQ92SG7tosFM.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>Fruitvale Station [COLOR red]*!For VIP BigAlFromBklyn!*[/COLOR]</title>
@@ -195,23 +182,9 @@ http://180upload.com/ehcv69pjxkxu
 
 
 
-<item>
-<title>Casa De Mi Padre [COLOR red]*!For VIP Duddy!*[/COLOR]</title>
-<link>http://filenuke.com/28vgc60axbry</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BODE1MDYzNjA0NF5BMl5BanBnXkFtZTcwNjY2MTgyNw@@._V1._SX640_SY923_.jpg</thumbnail>
-</item>
 
-<item>
-<title>Little Giants [COLOR red]*!For VIP Duddy!*[/COLOR]</title>
-<link>http://www.putlocker.com/file/8V5FEBKB9DS0KW8</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg2OTUxODk4MV5BMl5BanBnXkFtZTcwMDYzNDAyMQ@@._V1._SX328_SY475_.jpg</thumbnail>
-</item>
 
-<item>
-<title>Hugo 3D [COLOR red]*!For VIP Duddy!*[/COLOR]</title>
-<link>http://billionuploads.com/kbq3denk7ocw</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjAzNzk5MzgyNF5BMl5BanBnXkFtZTcwOTE4NDU5Ng@@._V1._SX640_SY948_.jpg</thumbnail>
-</item>
+
 
 
 
@@ -283,22 +256,5 @@ http://180upload.com/ehcv69pjxkxu
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc3NjM4MTY3MV5BMl5BanBnXkFtZTcwODk4Mzg3OA@@._V1._SX352_SY500_.jpg</thumbnail>
 </item>
 
-<item>
-<title>Behind the Candelabra [COLOR red]*!For VIP ScoobieDoobie68!*[/COLOR]</title>
-<link>http://180upload.com/k7cb5fus63te</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg0OTY2OTM0OF5BMl5BanBnXkFtZTcwMTk4OTQ1OQ@@._V1._SX509_SY755_.jpg</thumbnail>
-</item>
-
-<item>
-<title>The Mothman Prophecies [COLOR red]*!For VIP ScoobieDoobie68!*[/COLOR]</title>
-<link>http://www.putlocker.com/file/D87DBC5B42148627</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMzg0ODIzMzU2N15BMl5BanBnXkFtZTcwODE3MjgxMQ@@._V1._SX321_SY475_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Dark City [COLOR red]*!For VIP ScoobieDoobie68!*[/COLOR]</title>
-<link>http://180upload.com/gk5k7b0xgty5</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg3MjI3NjYxM15BMl5BanBnXkFtZTcwODIyMzA4MQ@@._V1._SX355_SY500_.jpg</thumbnail>
-</item>
 
 
