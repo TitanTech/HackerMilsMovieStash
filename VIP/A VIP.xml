@@ -4,9 +4,6 @@
 #######################################################################################################################################
 
 
-##############################################################################################################################
-
-
 <popup>
 <name>[COLOR red]CLICK HERE[/COLOR] [COLOR aqua]FOR INFO ON JOINING THE VIP CLUB AND DETAILS[/COLOR]</name>
 <popImage>http://i1367.photobucket.com/albums/r795/HackerMil/Splashes/Mash-Splash_zps10d60b9d.png</popImage>
@@ -35,6 +32,12 @@
 </dir>
 
 <dir>
+<name>[COLOR aqua] Jim's Channel[/COLOR] [COLOR red]Due 2/27/14[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Jim's%20Channel.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua] Duddy's Channel[/COLOR] [COLOR red]Due 2/3/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Duddy.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
@@ -54,21 +57,8 @@
 
 
 
-
-
-
-
-
-
 ##################################################################################################
 
-
-
-<dir>
-<name>Law & Order [COLOR red]*!For VIP James!*[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/Directories/Dir%20Law%20Order%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/72368-1.jpg</thumbnail>
-</dir>
 
 <dir>
 <name>The Riddick Story  [COLOR red]*!For VIP Darren!*[/COLOR]</name>
@@ -81,29 +71,6 @@
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/Directories/Dir%20Doctor%20who%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/78804-34.jpg</thumbnail>
 </dir>
-
-
-
-
-
-
-
-####################################################################################################################################
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>Mask [COLOR red]*!For VIP Jim!*[/COLOR]</title>
-<link>http://veehd.com/video/2067497_Mask-1985</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/aj8m1sAvSTTAsI3Gr686kDoJYzy.jpg</thumbnail>
-</item>
 
 <item>
 <title>Children Who Chase Lost Voices [COLOR red]*!For VIP @LarachiLondoner!*[/COLOR]</title>
@@ -123,11 +90,7 @@
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/j90lLkvlcPNL6VVoLGQ0yzPUfJV.jpg</thumbnail>
 </item>
 
-<item>
-<title>Finder's Fee [COLOR red]*!For VIP Jim!*[/COLOR]</title>
-<link>http://veehd.com/video/4507375_FINDERS-FEE-2001</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/97EdDA5mGyAQgIPvIct5pOrpEmM.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>Finding Nemo [COLOR red]*!For VIP Chris B!*[/COLOR]</title>
@@ -147,9 +110,6 @@
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/6IKmjW52qeMXx8xXMdX6RRshmY0.jpg</thumbnail>
 </item>
 
-
-
-
 <item>
 <title>I Give It A Year [COLOR red]*!For VIP Chris B!*[/COLOR]</title>
 <link>http://movreel.com/oettibtc5eys</link>
@@ -159,29 +119,11 @@
 http://billionuploads.com/cq4m3vxausfx
 http://180upload.com/ehcv69pjxkxu
 
-
-
-
-
 <item>
 <title>The Little Rascals [COLOR aqua]DVD[/COLOR] (1994) [COLOR red]*!For VIP Gerardo!*[/COLOR]</title>
 <link>http://www.putlocker.com/file/D9CA9FE3FB48E52B</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ0NjUzMTcyNV5BMl5BanBnXkFtZTcwOTY5MzEyMQ@@._V1._SX348_SY475_.jpg</thumbnail>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <item>
 <title>Gone in Sixty Seconds [COLOR red]*!For VIP Zach!*[/COLOR]</title>
@@ -194,10 +136,6 @@ http://180upload.com/ehcv69pjxkxu
 <link>http://180upload.com/4tonm1lp77f6</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMzkyNDExOTA1Nl5BMl5BanBnXkFtZTcwNjgzODE4OA@@._V1._SX640_SY948_.jpg</thumbnail>
 </item>
-
-
-
-
 
 <item>
 <title>Blackout [COLOR red]*!For VIP Tommy!*[/COLOR]</title>
@@ -216,8 +154,6 @@ http://180upload.com/ehcv69pjxkxu
 <link>http://www.sockshare.com/file/AC1F0E5E15589BEC</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ2MDcyNjcwMl5BMl5BanBnXkFtZTcwMzk0MTYzMQ@@._V1._SX351_SY500_.jpg</thumbnail>
 </item>
-
-
 
 <item>
 <title>Admission [COLOR red]*!For VIP MannyP!*[/COLOR]</title>
