@@ -11,8 +11,8 @@
 </popup>
 
 <info>
-<message>[COLOR red]*** UNDER CONTRUCTION, HEAVY MAINTENANCE GOING ON :-) ***[/COLOR]</message>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<message>[COLOR red]New Changes ----------------------------------------------------->[/COLOR] [COLOR yellow]INTRODUCING "VIP User Channels! Become a playlist builder! All VIP viewers will now have there own seperate directory to build with their movies. My hardcore VIPs get additional perks, order is based on VIP pass duration from longest to shortest also including due date so if your getting closer to the bottom you'll know when to reload your pass. ENJOY!  H.M.[/COLOR]</message>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Fresh-Out_zps272d0ac2.jpg</thumbnail>
 </info>
 
 
@@ -34,6 +34,12 @@
 <dir>
 <name>[COLOR aqua] Jim's Channel[/COLOR] [COLOR red]Due 2/27/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Jim's%20Channel.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua] CBeast's Channel[/COLOR] [COLOR red]Due 2/27/14[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Cbeast.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
 </dir>
 
@@ -68,6 +74,12 @@
 </dir>
 
 <dir>
+<name>[COLOR aqua] Zach's Channel[/COLOR] [COLOR red]Due 1/3/14[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Zach.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua] Manny's Channel[/COLOR] [COLOR red]Due 1/2/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Manny.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
@@ -82,76 +94,6 @@
 
 
 ##################################################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>Finding Nemo [COLOR red]*!For VIP Chris B!*[/COLOR]</title>
-<link>http://movreel.com/uaflx7vomay2</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/zjqInUwldOBa0q07fOyohYCWxWX.jpg</thumbnail>
-</item>
-
-
-
-<item>
-<title>Entrapment [COLOR red]*!For VIP Zach!*[/COLOR]</title>
-<link>http://veehd.com/video/4567336_Entrapment-1999-blu-Ray</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/6IKmjW52qeMXx8xXMdX6RRshmY0.jpg</thumbnail>
-</item>
-
-<item>
-<title>I Give It A Year [COLOR red]*!For VIP Chris B!*[/COLOR]</title>
-<link>http://movreel.com/oettibtc5eys</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/o5cKKnjBQJuJ4vWw4pnHuKqkHYR.jpg</thumbnail>
-</item>
-
-http://billionuploads.com/cq4m3vxausfx
-http://180upload.com/ehcv69pjxkxu
-
-<item>
-<title>The Little Rascals [COLOR aqua]DVD[/COLOR] (1994) [COLOR red]*!For VIP Gerardo!*[/COLOR]</title>
-<link>http://www.putlocker.com/file/D9CA9FE3FB48E52B</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ0NjUzMTcyNV5BMl5BanBnXkFtZTcwOTY5MzEyMQ@@._V1._SX348_SY475_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Gone in Sixty Seconds [COLOR red]*!For VIP Zach!*[/COLOR]</title>
-<link>http://www.putlocker.com/file/966F45DC90C3965C</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTIwMzExNDEwN15BMl5BanBnXkFtZTYwODMxMzg2._V1._SX500_SY734_.jpg</thumbnail>
-</item>
-
-
-
-<item>
-<title>Blackout [COLOR red]*!For VIP Tommy!*[/COLOR]</title>
-<link>http://billionuploads.com/8b9d0vg7pjdb</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjIyOTQyNTYyOF5BMl5BanBnXkFtZTcwMzI1MTI2OQ@@._V1._SX640_SY959_.jpg</thumbnail>
-</item>
-
-<item>
-<title>UFC 162 [COLOR red]*!For VIP Omar!*[/COLOR]</title>
-<link>http://180upload.com/6t4w26dnbm73</link>
-<thumbnail>https://lh6.googleusercontent.com/-JNVD-e_LIwA/UY0oFy15CKI/AAAAAAAAKNA/Mq0t6tdU1zk/s288/UFC_162_GUIDE_AD_CMYK_FINAL%2525202.jpg</thumbnail>
-</item>
-
-<item>
-<title>Jarhead [COLOR red]*!For VIP Gerry!*[/COLOR]</title>
-<link>http://www.sockshare.com/file/AC1F0E5E15589BEC</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ2MDcyNjcwMl5BMl5BanBnXkFtZTcwMzk0MTYzMQ@@._V1._SX351_SY500_.jpg</thumbnail>
-</item>
-
-
-
-
 
 
 
