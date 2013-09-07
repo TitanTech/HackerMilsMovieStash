@@ -38,6 +38,18 @@
 </dir>
 
 <dir>
+<name>[COLOR aqua] JDeleo's Channel[/COLOR] [COLOR red]Due 2/19/14[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/JDeleo.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua] Khalid's Channel[/COLOR] [COLOR red]Due 2/19/14[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Khalid.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua] Duddy's Channel[/COLOR] [COLOR red]Due 2/3/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Duddy.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
@@ -66,23 +78,11 @@
 ##################################################################################################
 
 
-<dir>
-<name>The Riddick Story  [COLOR red]*!For VIP Darren!*[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Riddick.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/4R2zrqk9KzgxU9UDH3yUUsENXR.jpg</thumbnail>
-</dir>
 
-<dir>
-<name>Doctor Who [COLOR red]*!For VIP Jon!*[/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/Directories/Dir%20Doctor%20who%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/78804-34.jpg</thumbnail>
-</dir>
 
-<item>
-<title>Children Who Chase Lost Voices [COLOR red]*!For VIP @LarachiLondoner!*[/COLOR]</title>
-<link>http://veehd.com/video/4757614_Children-Who-Chase-Lost-Voices-2011-Eng-Dub-720p</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/bV6w9EWU6E3CF0PtGBDBpA4in0f.jpg</thumbnail>
-</item>
+
+
+
 
 <item>
 <title>Rad [COLOR red]*!For VIP Chris K!*[/COLOR]</title>
@@ -90,11 +90,7 @@
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/dlOX2KyIFGpSukmGxmKMw8NPTw9.jpg</thumbnail>
 </item>
 
-<item>
-<title>Beowolf [COLOR red]*!For VIP Jon!*[/COLOR]</title>
-<link>http://veehd.com/video/4752364_Beowulf-2007-HD</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/j90lLkvlcPNL6VVoLGQ0yzPUfJV.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>Finding Nemo [COLOR red]*!For VIP Chris B!*[/COLOR]</title>
@@ -102,11 +98,7 @@
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/zjqInUwldOBa0q07fOyohYCWxWX.jpg</thumbnail>
 </item>
 
-<item>
-<title>Porco Rosso [COLOR red]*!For VIP @LarachLondoner!*[/COLOR]</title>
-<link>http://veehd.com/video/4782084_Porco-Rosso-1992-Eng-Dub-720p</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/sFpe3pY8Y6FNF183jOgXThHvL0G.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>Entrapment [COLOR red]*!For VIP Zach!*[/COLOR]</title>
