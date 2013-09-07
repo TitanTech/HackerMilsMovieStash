@@ -749,7 +749,7 @@ http://180upload.com/2yzy20e7jrv6
 
 <item>
 <title>Ip Man 2 (2010) </title>
-<link>http://85.12.8.159/index.php?file=1748&start=0&hd=0&auth=0&type=flv&tv=0</link>
+<link>http://tinyurl.com/hmipman2</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTM2MjY1NzMxOF5BMl5BanBnXkFtZTcwNzQ1NTcxNA@@._V1._SX472_SY729_.jpg</thumbnail>
 </item>
 
@@ -916,7 +916,7 @@ http://180upload.com/g5dh13gwl990
 
 <item>
 <title>Ip Man (2008)</title>
-<link>http://85.12.8.16/index.php?file=1747&start=0&hd=0&auth=0&type=flv&tv=0</link>
+<link>http://tinyurl.com/hmipman1</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE0NDUzMDcyOF5BMl5BanBnXkFtZTcwNzAxMTA2Mw@@._V1._SX640_SY924_.jpg</thumbnail>
 </item>
 
@@ -1159,11 +1159,16 @@ http://180upload.com/t1iwkccxtds0
 
 <item>
 <title>Heat (1995)</title>
-<link>http://veehd.com/video/4662498_Heat-1995-BRRip</link>
+<link>
+<sublink>http://85.12.8.4/index.php?file=921&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
+<sublink>http://veehd.com/video/4662498_Heat-1995-BRRip</sublink>
+<sublink>http://veehd.com/video/4662498_Heat-1995-BRRip</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/qiOwtkfRrB1tNdb1ZzJa89m7YEf.jpg</thumbnail>
 </item>
-
-http://veehd.com/video/4662498_Heat-1995-BRRip
 
 <item>
 <title>Casino (1995)</title>
