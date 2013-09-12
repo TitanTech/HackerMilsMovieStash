@@ -5,11 +5,6 @@
 
 
 <info>
-<message>[COLOR red]Under Maintenance, Some Links Might Be Down. All Fixed SOON! :-)[/COLOR]</message>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/stories_zps4ed828c4.png</thumbnail>
-</info>
-
-<info>
 <message>[COLOR red]**[/COLOR] [COLOR aqua]WATCH THE FULL STORY OF ALL YOUR FAVORITE MOVIES[/COLOR] [COLOR red]**[/COLOR]</message>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/stories_zps4ed828c4.png</thumbnail>
 </info>
@@ -33,6 +28,12 @@
 <name>The Back To The Future Story</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Back%20To%20The%20Future.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/1CjWuJic3ZNdyMI4VR1A608L1UA.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Dark Knight Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Dark%20Knight.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/bqS2lMgGkuodIXtDILFWTSWDDpa.jpg</thumbnail>
 </dir>
 
 <dir>
