@@ -66,6 +66,12 @@
 ################################################################################################
 
 <dir>
+<name>[COLOR red]TODAY[/COLOR] [COLOR blue]Story[/COLOR] The Die Hard Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Die%20Hard.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/npfRyxyOWS2MRvikw6h400jkqi9.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR red]TODAY[/COLOR] [COLOR blue]Show[/COLOR] Peaky Blinders (2013)  [COLOR lime]Rating: [/COLOR][COLOR red]8.7 [/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Peaky%20Blinders%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/210171-2.jpg</thumbnail>
