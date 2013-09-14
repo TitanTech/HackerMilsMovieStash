@@ -9,11 +9,19 @@
 </info>
 
 <info>
-<message>[COLOR red]9 MOVIES LEFT 9/18 RESET[/COLOR]</message>
+<message>[COLOR red]0 MOVIES LEFT TODAY 9/14[/COLOR]</message>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
 </info>
 
 ################################################################################################################
+
+
+<dir>
+<name>[COLOR blue]Story[/COLOR] The Dark Knight Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Dark%20Knight.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/bqS2lMgGkuodIXtDILFWTSWDDpa.jpg</thumbnail>
+</dir>
+
 
 
 <item>
