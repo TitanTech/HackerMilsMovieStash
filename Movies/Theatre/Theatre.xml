@@ -32,6 +32,12 @@
 </dir>
 
 <dir>
+<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]DVD[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Theatre/Types/DVD.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/New-Theatre.png</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]R6[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Theatre/Types/R6.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/New-Theatre.png</thumbnail>
