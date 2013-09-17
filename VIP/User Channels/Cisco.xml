@@ -8,12 +8,37 @@
 <thumbnail>
 
 <info>
-<message>[COLOR red]9 MOVIES LEFT RESET 9/18[/COLOR]</message>
+<message>[COLOR red]0 MOVIES LEFT TODAY 9/16[/COLOR]</message>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
 </info>
 
 ################################################################################################################
 
+
+
+<item>
+<title>Pinocchio (1940)</title>
+<link>
+<sublink>http://85.12.8.80/index.php?file=1137&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
+<sublink>http://veehd.com/video/2708291_Pinocchio</sublink>
+<sublink>http://veehd.com/video/2069481_Pinocchio-1940</sublink>
+<sublink>http://veehd.com/video/4534053_Disney-Pinocchio-1940</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/eAIJ1RRQRlaeUy2sdxKcRRNBMjC.jpg</thumbnail>
+</item>
+
+<item>
+<title>Drumline (2002)</title>
+<link>
+<sublink>http://85.12.8.80/index.php?file=99&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
+<sublink>http://veehd.com/video/3469241_Drumline-2002</sublink>
+</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/2OoEXWqiGy93g0TREmihJhi2HeY.jpg</thumbnail>
+</item>
 
 <item>
 <title>Airborne (1993)</title>
