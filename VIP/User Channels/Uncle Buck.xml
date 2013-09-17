@@ -9,13 +9,17 @@
 </info>
 
 <info>
-<message>[COLOR red]1 MOVIE LEFT TODAY 9/16[/COLOR]</message>
+<message>[COLOR red]0 MOVIES LEFT TODAY 9/17[/COLOR]</message>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
 </info>
 
 ################################################################################################################
 
-
+<dir>
+<name>[COLOR blue]Show[/COLOR] Roots (1977)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/Directories/Dir%20Roots%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/80280-3.jpg</thumbnail>
+</dir>
 
 
 <item>
