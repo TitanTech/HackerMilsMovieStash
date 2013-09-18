@@ -145,6 +145,12 @@
 </dir>
 
 <dir>
+<name>The Star Wars Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Star%20Wars.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/fdmSovGcTO4qeYH4llwqDsYi5cB.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>The Transformers Story</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Transformers.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/giURBCO3r4LVbhywEjIuYz92fEv.jpg</thumbnail>
