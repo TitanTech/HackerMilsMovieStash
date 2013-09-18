@@ -65,7 +65,11 @@
 
 ################################################################################################
 
-
+<dir>
+<name>[COLOR red]TODAY[/COLOR] [COLOR blue]Story[/COLOR] The Star Wars Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Star%20Wars.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/fdmSovGcTO4qeYH4llwqDsYi5cB.jpg</thumbnail>
+</dir>
 
 <item>
 <title>[COLOR red]TODAY[/COLOR] [COLOR blue]CollectionMovie/ClassOfClassics[/COLOR] Training Day (2001)</title>
