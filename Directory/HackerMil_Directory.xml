@@ -54,10 +54,16 @@
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/stand-up_zps0e01fcb3.jpg</thumbnail>
 <date>Daily</date>
 
-<name>[COLOR aqua]  Fight Club[/COLOR] [COLOR red]Fixed[/COLOR]</name>
+<name>[COLOR aqua]  Fight Club[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Fight%20Club/Fight%20Club.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/fight-club.png</thumbnail>
 <date>Daily</date>
+
+<name>[COLOR aqua]  Workout[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Workouts/Workouts.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/workout-new.png</thumbnail>
+<date>Daily</date>
+
 
 <name>[COLOR yellow] Top Secret[/COLOR]</name>
 <link><vip>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/VIPlus.xml</vip></link>
