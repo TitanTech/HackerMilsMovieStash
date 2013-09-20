@@ -14,6 +14,12 @@
 
 
 <dir>
+<name>[COLOR red]TODAY[/COLOR] [COLOR blue]Story[/COLOR] The Terminator Story HD [COLOR lime]9/20[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Terminator.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/xSTYJFt2lARiVHUa28sZl4FfNQB.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR blue]Story[/COLOR] The Hannibal Story HD [COLOR lime]9/19[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Hannibal.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/rIX6rRzskxOYFzpQi3QK4JlWQ97.jpg</thumbnail>
