@@ -66,6 +66,12 @@
 ################################################################################################
 
 <dir>
+<name>[COLOR red]TODAY[/COLOR] [COLOR blue]Workout[/COLOR] Insanity</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Workouts/Directories/Insanity.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/insanity-jumps.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR red]TODAY[/COLOR] [COLOR blue]Story[/COLOR] The Terminator Story HD</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Terminator.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/xSTYJFt2lARiVHUa28sZl4FfNQB.jpg</thumbnail>
