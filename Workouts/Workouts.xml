@@ -3,14 +3,10 @@
 <fanart>http://www.fullhdwpp.com/wp-content/uploads/Earned-Rest.jpg</fanart>
 #######################################################################################################################################
 
-<popup>
-<name></name>
-<popImage></popImage>
-<thumbnail></thumbnail>
-</popup>
+
 
 <info>
-<message></message>
+<message>[COLOR red]**[/COLOR] [COLOR aqua]GET IN SHAPE WITH HACKERMIL![/COLOR] [COLOR red]**[/COLOR]</message>
 <thumbnail></thumbnail>
 </info>
 
@@ -19,14 +15,14 @@
 
 
 <dir>
-<name></name>
-<link></link>
-<thumbnail></thumbnail>
+<name>Insanity</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Workouts/Directories/Insanity.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/insanity-jumps.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>P90X</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Workouts/Directories/Dir%20P90X%20Dir.xml</link>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Workouts/Directories/P90X.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/p90x-poster.jpg</thumbnail>
 </dir>
 
