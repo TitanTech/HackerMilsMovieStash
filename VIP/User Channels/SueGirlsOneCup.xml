@@ -8,28 +8,16 @@
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
 </info>
 
-<info>
-<message>[COLOR red]0 MOVIES LEFT TODAY 9/14[/COLOR]</message>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
-</info>
+
 
 ################################################################################################################
 
 
-<item>
-<title>Star Wars: Episode IV - A New Hope (1977)</title>
-<link>
-<sublink>http://85.12.8.80/index.php?file=364&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
-<sublink>http://180upload.com/uk8nby74qegx</sublink>
-<sublink>http://180upload.com/x52mrkakvnz3</sublink>
-<sublink>http://billionuploads.com/emtoltlhwxmv</sublink>
-<sublink>http://billionuploads.com/4s8izyock643</sublink>
-<sublink>http://movreel.com/fesh1pujrsgp</sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/oDsJMynKO3PNmA5O79zzBRCwJJz.jpg</thumbnail>
-</item>
+<dir>
+<name>[COLOR blue]Story[/COLOR] The Star Wars Story</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Star%20Wars.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/fdmSovGcTO4qeYH4llwqDsYi5cB.jpg</thumbnail>
+</dir>
 
 <item>
 <title>Old School (2003)</title>
