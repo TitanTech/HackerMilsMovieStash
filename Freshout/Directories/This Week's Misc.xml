@@ -13,10 +13,18 @@
 #########################################################################
 
 
+
+
 <dir>
 <name>[COLOR blue]Story[/COLOR] The Pirates of the Caribbean Story HD [COLOR lime]9/22[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Pirates%20of%20the%20Caribbean.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/4HVsFsm3pb8uBRx9m93UzR8e5hL.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR blue]Story[/COLOR] The Indiana Jones Story HD [COLOR lime]9/22[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Indiana%20Jones.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/jkPiahTpZmZlnD17uDdKbNpfudh.jpg</thumbnail>
 </dir>
 
 <dir>
