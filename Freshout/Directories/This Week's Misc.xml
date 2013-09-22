@@ -13,7 +13,11 @@
 #########################################################################
 
 
-
+<dir>
+<name>[COLOR blue]Story[/COLOR] The Blade Story HD [COLOR lime]9/22[/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Movies/Stories/Blade.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/vTXwJm2UC0Z0HwXTRmsMecGJErc.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>[COLOR blue]Story[/COLOR] The Pirates of the Caribbean Story HD [COLOR lime]9/22[/COLOR]</name>
