@@ -67,10 +67,31 @@
 
 
 <dir>
-<name>[COLOR red]TODDAY[/COLOR] [COLOR blue]Show[/COLOR] True Blood (2008) HD</name>
+<name>[COLOR red]TODDAY[/COLOR] [COLOR lime]SERIESPREMIERE[/COLOR] The Blacklist (2013) HD</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Blacklist%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/266189-3.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR red]TODDAY[/COLOR] [COLOR lime]SERIESPREMIERE[/COLOR] True Blood (2008) HD</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20True%20Blood%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/82283-1.jpg</thumbnail>
 </dir>
+
+<item>
+<title>[COLOR red]TODDAY[/COLOR] [COLOR blue]Episode[/COLOR] The Blacklist S01E01 HD</title>
+<link>
+<sublink>http://billionuploads.com/rb33zs6w0gmk</sublink>
+<sublink>http://hugefiles.net/fddb3kuwx2mc</sublink>
+<sublink>http://180upload.com/ifibqrwfugwn</sublink>
+<sublink>http://epicshare.net/gns6jaoqjdu2</sublink>
+<sublink>http://movreel.com/9px6jq14mfi5</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://thetvdb.com/banners/posters/266189-3.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR red]TODDAY[/COLOR] [COLOR blue]Episode[/COLOR] Sleepy Hollow S01E02 HD</title>
