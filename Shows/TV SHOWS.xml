@@ -3,7 +3,7 @@
 <fanart>http://www.sino-us.com/UploadFiles/2013/5/26/201305262023538299.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR red]** [/COLOR][COLOR aqua]ONLY HIGHLY RATED SHOWS GET ADDED[/COLOR][COLOR red] **[/COLOR]</message>
+<message>[COLOR red]** [/COLOR][COLOR aqua]ALPHABETICAL ORDER, ONLY HIGHLY RATED SHOWS ADDED[/COLOR][COLOR red] **[/COLOR]</message>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/shows_zps719051e4.jpg</thumbnail>
 </info>
 
@@ -12,118 +12,120 @@
 
 
 <dir>
-<name>[COLOR aqua]Latest Episodes[/COLOR] [COLOR red]HD[/COLOR]</name>
+<name>[COLOR aqua]Latest Episodes[/COLOR] [COLOR red]ON AIR[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Latest%20Shows.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/MV5BMTU2MTgzMzQxNV5BMl5BanBnXkFtZTcwODg4NTQ3OQ_V1_zpsb8dd85ab.png</thumbnail>
 </dir>
 
 <dir>
-<name>Dexter (2006)  [COLOR lime]Rating: [/COLOR][COLOR red]9.5 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Dexter%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/79349-27.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Bates Motel (2013)  [COLOR lime]Rating: [/COLOR][COLOR red]9.0 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Bates%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/262414-4.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Homeland (2011)  [COLOR lime]Rating: [/COLOR][COLOR red]9.0 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Homeland%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/247897-5.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Killing (2011)  [COLOR lime]Rating: [/COLOR][COLOR red]9.0 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20The%20Killing%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/210171-2.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>True Blood (2008)  [COLOR lime]Rating: [/COLOR][COLOR red]9.0 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20True%20Blood%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/82283-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Blacklist (2013) [COLOR lime]Rating: [/COLOR][COLOR red]9.0 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Blacklist%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/266189-3.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Peaky Blinders (2013)  [COLOR lime]Rating: [/COLOR][COLOR red]8.7 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Peaky%20Blinders%20Dir.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/MV5BMTQxODYzNTQzOV5BMl5BanBnXkFtZTgwMTI2MDYwMDE_V1_SX600_SY869_.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Hostages (2013)  [COLOR lime]Rating: [/COLOR][COLOR red]8.7 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Hostages%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/269642-4.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Vikings (2013)  [COLOR lime]Rating: [/COLOR][COLOR red]8.6 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Vikings%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/260449-3.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Banshee (2013)  [COLOR lime]Rating: [/COLOR][COLOR red]8.6 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Banshee%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/259765-4.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Americans (2013)  [COLOR lime]Rating: [/COLOR][COLOR red]8.5 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20The%20Americans%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/261690-5.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Newsroom (2012)  [COLOR lime]Rating: [/COLOR][COLOR red]8.5 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20The%20Newsroom%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/256227-7.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>American Horror Story (2011)  [COLOR lime]Rating: [/COLOR][COLOR red]8.3 [/COLOR]</name>
+<name>American Horror Story (2011)</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20American%20Horror%20Story%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/250487-9.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>Ray Donovan (2013)  [COLOR lime]Rating: [/COLOR][COLOR red]8.0 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Ray%20Donovan%20Dir.xml</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE1ODY5Njc0NF5BMl5BanBnXkFtZTcwNTQ5NTU1OQ@@._V1._SX561_SY755_.jpg</thumbnail>
+<name>The Americans (2013)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20The%20Americans%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/261690-5.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>Master Of Sex (2013)  [COLOR lime]Rating: [/COLOR][COLOR red]8.0 [/COLOR]</name>
+<name>Banshee (2013)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Banshee%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/259765-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Bates Motel (2013)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Bates%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/262414-4.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Blacklist (2013) [COLOR lime]Rating: [/COLOR][COLOR red [/COLOR]</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Blacklist%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/266189-3.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Dexter (2006)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Dexter%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/79349-27.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Homeland (2011)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Homeland%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/247897-5.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Hostages (2013)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Hostages%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/269642-4.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Killing (2011)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20The%20Killing%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/210171-2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Master Of Sex (2013)</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Masters%20Of%20Sex%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/261557-2.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>Sleepy Hollow (2013)  [COLOR lime]Rating: [/COLOR][COLOR red]8.0 [/COLOR]</name>
+<name>The Newsroom (2012)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20The%20Newsroom%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/256227-7.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Peaky Blinders (2013)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Peaky%20Blinders%20Dir.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/MV5BMTQxODYzNTQzOV5BMl5BanBnXkFtZTgwMTI2MDYwMDE_V1_SX600_SY869_.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Ray Donovan (2013)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Ray%20Donovan%20Dir.xml</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE1ODY5Njc0NF5BMl5BanBnXkFtZTcwNTQ5NTU1OQ@@._V1._SX561_SY755_.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Sleepy Hollow (2013)</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Sleepy%20Hollow%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/269578-2.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>The White Queen (2013)  [COLOR lime]Rating: [/COLOR][COLOR red]7.5 [/COLOR]</name>
+<name>True Blood (2008)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20True%20Blood%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/82283-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Under The Dome (2013)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Under%20The%20Dome%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/264492-2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Vikings (2013)</name>
+<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Vikings%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/260449-3.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The White Queen (2013)</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20White%20Queen%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/266092-5.jpg</thumbnail>
 </dir>
 
-<dir>
-<name>Under The Dome (2013)  [COLOR lime]Rating: [/COLOR][COLOR red]7.9 [/COLOR]</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Under%20The%20Dome%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/264492-2.jpg</thumbnail>
-</dir>
+
 
 
 
