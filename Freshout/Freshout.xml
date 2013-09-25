@@ -3,16 +3,23 @@
 <fanart>http://i1367.photobucket.com/albums/r795/HackerMil/Fanart/abstract_red_futuristic_desktop_2560x1600_hd-wallpaper-1186854_zpse7b6d2ff.png</fanart>
 #######################################################################################################################################
 
-<popup>
-<name>[COLOR red]CLICK HERE[/COLOR] [COLOR aqua]FOR INFO ON JOINING THE VIP CLUB AND DETAILS[/COLOR]</name>
-<popImage>http://i1367.photobucket.com/albums/r795/HackerMil/Splashes/Mash-Splash_zps10d60b9d.png</popImage>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
-</popup>
+
+
+<info>
+<message>[COLOR aqua]H.M. MESSENGER ------->[/COLOR] [COLOR red]Billion Resolver Down At The Moment, You Know The Drill. Use Other Links In MulitLinks If No Other Inform Me On Twitter @HackerMil And I Will Replace Lightning Fast.   H.M.</message>
+<thumbnail>http://itechbook.net/wp-content/uploads/2013/03/message-icon.png</thumbnail>
+</info>
 
 <info>
 <message>[COLOR red]New Changes ----------------------------------------------------->[/COLOR] [COLOR yellow]Separated all content for your convenience. Alot cleaner and easier to see what's what plus you might have a specific type of content in mind already when you get here and might not want to go through all other content to find. Option to see ALL new content is still available in the FIRST LINK and PICK OF THE WEEK as well as any new STORIES, COLLECTIONS, or MISC content will be added under the list. Clocked alot of hours preparing this for you guys hope you enjoy and much more to come. Will be remaking a few sections for better viewer usability.  H.M.[/COLOR]</message>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/FRESH-NEW.png</thumbnail>
 </info>
+
+<popup>
+<name>[COLOR red]CLICK HERE[/COLOR] [COLOR aqua]FOR INFO ON JOINING THE VIP CLUB AND DETAILS[/COLOR]</name>
+<popImage>http://i1367.photobucket.com/albums/r795/HackerMil/Splashes/Mash-Splash_zps10d60b9d.png</popImage>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+</popup>
 
 
 #########################################################################
