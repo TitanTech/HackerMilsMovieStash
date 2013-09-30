@@ -68,23 +68,20 @@
 ################################################################################################
 
 
-<dir>
-<name>[COLOR red]TODAY[/COLOR] [COLOR blue]Show[/COLOR] The Walking Dead (2010) HD</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Walking%20Dead%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/153021-12.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]TODAY[/COLOR] [COLOR blue]Show[/COLOR] Breaking Bad (2008) HD</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Breaking%20Bad%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/81189-22.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]TODAY[/COLOR] [COLOR blue]Show[/COLOR] Suits (2011) HD</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Suits%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/247808-11.jpg</thumbnail>
-</dir>
+<item>
+<title>[COLOR red]TODAY[/COLOR] [COLOR lime]THEATRE PREMIERE[/COLOR] Prisoners (2013) CAM</title>
+<link>
+<sublink>http://billionuploads.com/ouznrk9jzzgg</sublink>
+<sublink>http://mightyupload.com/bugk8w41cai3/Prisoners.2013.CAM.X264-PLAYNOW.mkv.html</sublink>
+<sublink>http://180upload.com/kqq8pa8zuezu</sublink>
+<sublink>http://www.movshare.net/video/jspa8kuh3tavj</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/vEQ5tCZISFk8YtMkc3B6r2KJnQo.jpg</thumbnail>
+</item>
 
 
 
@@ -115,5 +112,4 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
-1 brooklyn nine nine
 
