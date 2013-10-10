@@ -6,7 +6,7 @@
 
 
 <info>
-<message>[COLOR lime]H.M. Messenger:[/COLOR] [COLOR red]New format on "TODAY" list now content is seperated for your convenience here also :) at quick glance just look for the green list means there is active content in that list added today red obviously means empty. I know these are small things but these are the things I consider to make viewing and browsing even faster and easier ;) its the little things all put together that count. Enjoy   H.M.[/COLOR]</message>
+<message>[COLOR lime]H.M. Messenger:[/COLOR] [COLOR red]New Section called "Section Fillers" content here will contain content that has been added to fill sections and might not be NEW content. Will be labeled with which section it was placed in and will ONLY display here in the TODAY section. After day it was added it will only show in the section it was added and not in "THIS WEEK'S" to avoid mixing with NEW content. Enjoy   H.M.[/COLOR]</message>
 <thumbnail>http://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/128/Messages-icon.png</thumbnail>
 </info>
 
