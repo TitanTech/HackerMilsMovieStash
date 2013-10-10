@@ -69,7 +69,7 @@
 
 
 <dir>
-<name>[COLOR lime]------------------------------- New Show ----------------------------[/COLOR]</name>
+<name>[COLOR lime]------------------------------ New Show ------------------------------[/COLOR]</name>
 <link>nill</link>
 <thumbnail>nill</thumbnail>
 </dir>
@@ -94,14 +94,14 @@
 
 
 <item>
-<title>[COLOR red]-------------------------------- Movies ----------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Movies ------------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime]------------------------------- Episodes ---------------------------[/COLOR]</title>
+<title>[COLOR lime]------------------------------ Episodes -----------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
@@ -130,20 +130,20 @@
 </item>
 
 <item>
-<title>[COLOR red]-------------------------------- Fights -----------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Fights -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                            >
 <thumbnail>nill</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR red]------------------------------ Stand Up ----------------------------[/COLOR]</title>
+<title>[COLOR red]----------------------------- Stand Up ------------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]--------------------------- Documentaries -------------------------[/COLOR]</title>
+<title>[COLOR red]-------------------------- Documentaries ---------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
