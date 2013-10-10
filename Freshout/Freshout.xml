@@ -69,75 +69,37 @@
 
 
 <dir>
-<name>[COLOR lime]------------------------------ New Show ------------------------------[/COLOR]</name>
+<name>[COLOR red]------------------------------ New Show ------------------------------[/COLOR]</name>
 <link>nill</link>
 <thumbnail>nill</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR red]TODAY[/COLOR] The Tomorrow People (2013) HD</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Tomorrow%20People%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/268591-2.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]TODAY[/COLOR] East Bound & Down (2009) HD</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20East%20Bound%20and%20Down.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/82467-6.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]TODAY[/COLOR] HBO: 24/7 Bradley Vs Marquez</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Fight%20Club/Directories/Shows/HBO%2024.7%20Bradley%20Marquez.xml</link>
-<thumbnail>https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash4/p480x480/1238926_10153304689240354_1823428888_n.jpg</thumbnail>
-</dir>
 
 
 <item>
-<title>[COLOR red]------------------------------- Movies ------------------------------[/COLOR]</title>
-<link>nill</link>                                                                         >                  
-<thumbnail>nill</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime]------------------------------ Episodes -----------------------------[/COLOR]</title>
+<title>[COLOR lime]------------------------------- Movies ------------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]TODAY[/COLOR] American Horror Story S03E01 HD</title>
+<title>[COLOR red]TODAY[/COLOR] White House Down (2013) HD</title>
 <link>
-<sublink>http://hugefiles.net/hnmf00to85z7</sublink>
-<sublink>http://180upload.com/ot9rrx0ikjsb</sublink>
-<sublink>http://epicshare.net/ob9n89rwly4x</sublink>  
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/250487-15.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] The Tomorrow People S01E01 HD</title>
-<link>
-<sublink>http://billionuploads.com/k84iauguj5gt</sublink>
-<sublink>http://hugefiles.net/nj2q51dv0hlt</sublink>
-<sublink>http://180upload.com/pn72bi8sioij</sublink>
-<sublink>http://epicshare.net/8kr85ww7f79s</sublink>
+<sublink>http://billionuploads.com/vgvufvrvsvrh</sublink>
+<sublink>http://180upload.com/a3hj8yqwte9d</sublink>
+<sublink>http://movreel.com/todbweved55n</sublink>
 </link>
-<thumbnail>http://thetvdb.com/banners/posters/268591-2.jpg</thumbnail>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/6A3qvJtwbLq59YfD0WqLhQOF3Qs.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR red]TODAY[/COLOR] 24/7 Bradley Vs Marquez Part 1 HD</title>
-<link>http://www.youtube.com/watch?v=LsY9CxkuIY4</link>
-<thumbnail>https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash4/p480x480/1238926_10153304689240354_1823428888_n.jpg</thumbnail>
-</item>
 
 <item>
-<title>[COLOR red]TODAY[/COLOR] 24/7 Bradley Vs Marquez Part 2 HD</title>
-<link>http://www.putlocker.com/file/B4A834E3158B875B</link>
-<thumbnail>https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash4/p480x480/1238926_10153304689240354_1823428888_n.jpg</thumbnail>
+<title>[COLOR red]------------------------------ Episodes -----------------------------[/COLOR]</title>
+<link>nill</link>                                                                         >                  
+<thumbnail>nill</thumbnail>
 </item>
+
+
 
 <item>
 <title>[COLOR red]------------------------------- Fights -------------------------------[/COLOR]</title>
