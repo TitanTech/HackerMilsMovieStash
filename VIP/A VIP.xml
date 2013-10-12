@@ -1,19 +1,16 @@
 #######################################################################################################################################
 <poster>HackerMil</poster>
-<fanart>http://i1367.photobucket.com/albums/r795/HackerMil/Fanart/VIP-Fanart_zps661cd758.jpg</fanart>
+<fanart>http://farm8.staticflickr.com/7327/10217643886_9aab8db89f_o.jpg</fanart>
 #######################################################################################################################################
 
 
 <popup>
 <name>[COLOR red]CLICK HERE[/COLOR] [COLOR aqua]FOR INFO ON JOINING THE VIP CLUB AND DETAILS[/COLOR]</name>
 <popImage>http://i1367.photobucket.com/albums/r795/HackerMil/Splashes/Mash-Splash_zps10d60b9d.png</popImage>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm3.staticflickr.com/2851/10218170123_bb90f51c7e_o.png</thumbnail>
 </popup>
 
-<info>
-<message>[COLOR red]New Changes ----------------------------------------------------->[/COLOR] [COLOR yellow]INTRODUCING "VIP User Channels! Become a playlist builder! All VIP viewers will now have there own seperate directory to build with their movies. My hardcore VIPs get additional perks, order is based on VIP pass duration from longest to shortest also including due date so if your getting closer to the bottom you'll know when to reload your pass. ENJOY!  H.M.[/COLOR]</message>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIPNEW.png</thumbnail>
-</info>
+
 
 
 ########################################################################################################################
@@ -22,231 +19,211 @@
 <dir>
 <name>[COLOR aqua] Uncle Buck's Channel[/COLOR] [COLOR lime]LIFETIME MEMBER[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Uncle%20Buck.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] XBattleSnake's Channel[/COLOR] [COLOR lime]LIFETIME MEMBER[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/xBattleSnake.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Power T's Channel[/COLOR] [COLOR lime]LIFETIME MEMBER[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Power%20T.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Brandon's Channel[/COLOR] [COLOR lime]LIFTIME MEMBER[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Brandon.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] CraigM1975's Channel[/COLOR] [COLOR lime]LIFTIME MEMBER[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/CraigM1975.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Big Al's Channel[/COLOR] [COLOR lime]LIFTIME MEMBER[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Big%20Al.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Hella's Channel[/COLOR] [COLOR lime]LIFTIME MEMBER[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Hellas.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] SteelersNationNetwork Channel[/COLOR] [COLOR lime]LIFTIME MEMBER[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/SteelersNationNetwork.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Blu Arrow's Channel[/COLOR] [COLOR red]Due 9/29/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Blue%20Arrow.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] The Darksyde's Channel[/COLOR] [COLOR red]Due 9/14/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Darksyde.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Matt B's Channel[/COLOR] [COLOR red]Due 9/5/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Matt%20B.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Fr0ozt's Channel[/COLOR] [COLOR red]Due 4/7/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Fr0ozt.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Runk Pocker's Channel[/COLOR] [COLOR red]Due 4/3/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/RunkPocker.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Andrew's Channel[/COLOR] [COLOR red]Due 4/1/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Andrew.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Photo Mike's Channel[/COLOR] [COLOR red]Due 3/25/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/PhotoMike.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] DirtyBirdz's Channel[/COLOR] [COLOR red]Due 3/13/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/DirtyBirdz.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Mak's Channel[/COLOR] [COLOR red]Due 3/13/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Mak.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] SueGirlsOneCup's Channel[/COLOR] [COLOR red]Due 3/9/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/SueGirlsOneCup.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Maso's Channel[/COLOR] [COLOR red]Due 3/8/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Maso.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Cisco's Channel[/COLOR] [COLOR red]Due 3/7/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Cisco.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Ste's Channel[/COLOR] [COLOR red]Due 3/6/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Ste.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] XbmcNederland's Channel[/COLOR] [COLOR red]Due 3/3/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/XbmcNederland.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Age's Channel[/COLOR] [COLOR red]Due 3/2/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Ages.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Cousy's Channel[/COLOR] [COLOR red]Due 2/27/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Cousy.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] CBeast's Channel[/COLOR] [COLOR red]Due 2/27/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Cbeast.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Ckugo's Channel[/COLOR] [COLOR red]Due 2/23/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Ckugo.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] JDeleo's Channel[/COLOR] [COLOR red]Due 2/19/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/JDeleo.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Mack Daddy K's Channel[/COLOR] [COLOR red]Due 2/19/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Mack%20Daddy%20K.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Duddy's Channel[/COLOR] [COLOR red]Due 2/3/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Duddy.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Bruce's Channel[/COLOR] [COLOR red]Due 2/2/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Bruce.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Zach's Channel[/COLOR] [COLOR red]Due 1/31/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Zach.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Team Sullivan's Channel[/COLOR] [COLOR red]Due 1/19/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/TeamSullivan.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Snavej's Channel[/COLOR] [COLOR red]Due 1/14/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Snavej.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Manny's Channel[/COLOR] [COLOR red]Due 1/2/14[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Manny.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua] Shockwave's Channel[/COLOR] [COLOR red]Due 11/3/13[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/VIP/User%20Channels/Shockwave.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/VIP-thumb_zpsf38de121.jpg</thumbnail>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
-
-
-
-
-
-
-
-
-
-
-
-
-##################################################################################################
-
-
-<item>
-<title>[COLOR yellow]Special Request For[/COLOR] [COLOR aqua]Ijailbreakthis[/COLOR] Four Lions (2010)</title>
-<link>http://www.putlocker.com/file/6BF70A2E58784DC7</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/mjdVAt2s56q1gH6FO7KZoLa8D5O.jpg</thumbnail>
-</item>
 
 
