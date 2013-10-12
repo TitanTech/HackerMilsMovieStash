@@ -18,6 +18,12 @@
 </dir>
 
 <dir>
+<name>[COLOR aqua]Shows[/COLOR] [COLOR red]Coming Soon[/COLOR]</name>
+<link>nill</link>
+<thumbnail>http://www.nothinggreatiseasy.com/wp-content/uploads/2012/09/coming_soon.png</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua]Stand-Up[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Comedy%20Central/Directories/Stand-Up.xml</link>
 <thumbnail>http://imageshack.us/a/img407/5223/sgra.png</thumbnail>
