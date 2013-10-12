@@ -1,16 +1,14 @@
 #######################################################################################################################################
 <poster>HackerMil</poster>
-<fanart>http://bjjfighter.com/blog/wp-content/uploads/2013/05/Olympic_Boxing.jpg</fanart>
+<fanart>http://farm4.staticflickr.com/3724/10218872476_63a1eca0c3_o.jpg</fanart>
 #######################################################################################################################################
-<info>
-<message>[COLOR red]** [/COLOR][COLOR aqua]THE FIGHT FANATIC'S PARADISE![/COLOR][COLOR red] **[/COLOR]</message>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/fight-club.png</thumbnail>
-</info>
 
 <info>
-<message>[COLOR red]New Changes ----------------------------------------------------->[/COLOR] [COLOR yellow]Introducing FIGHT CLUB! Decided to make the Main Event Section a bit broader. Main Event Replays still available through first link, with additional SHOWS section, RING WARS, and soon to come CAGE WARS. Get clicking and browse around ;) Enjoy.  H.M.[/COLOR]</message>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/fight-club-new.png</thumbnail>
+<message>[COLOR red]** [/COLOR][COLOR aqua]THE FIGHT FANATIC'S PARADISE![/COLOR][COLOR red] **[/COLOR]</message>
+<thumbnail>http://farm8.staticflickr.com/7437/10217529816_0ac3a20c6f_o.png</thumbnail>
 </info>
+
+
 
 
 ##############################################################################################################################
@@ -19,13 +17,13 @@
 <dir>
 <name>[COLOR aqua]Main Event[/COLOR] [COLOR red]HD[/COLOR] [COLOR aqua]Replays[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Fight%20Club/Directories/Main%20Event%20Replays%20HD.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/icon-template_zpsa5acdec1.png</thumbnail>
+<thumbnail>http://farm8.staticflickr.com/7437/10217529816_0ac3a20c6f_o.png</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua]Ring Wars[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Fight%20Club/Directories/Ring%20Wars.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/ring-wars.png</thumbnail>
+<thumbnail>http://farm8.staticflickr.com/7437/10217529816_0ac3a20c6f_o.png</thumbnail>
 </dir>
 
 <dir>
@@ -37,7 +35,7 @@
 <dir>
 <name>[COLOR aqua]Shows[/COLOR] [COLOR red]HD[/COLOR]</name>
 <link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Fight%20Club/Directories/Shows.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/FIGHT-SHOWS.png</thumbnail>
+<thumbnail>http://farm8.staticflickr.com/7437/10217529816_0ac3a20c6f_o.png</thumbnail>
 </dir>
 
 
