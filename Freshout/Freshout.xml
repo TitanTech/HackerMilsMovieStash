@@ -4,6 +4,11 @@
 #######################################################################################################################################
 
 
+<popup>
+<name>[COLOR red]CLICK HERE[/COLOR] [COLOR aqua]FOR INFO ON JOINING THE VIP CLUB AND DETAILS[/COLOR]</name>
+<popImage>http://farm3.staticflickr.com/2851/10218170123_bb90f51c7e_o.png</popImage>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
+</popup>
 
 <info>
 <message>[COLOR lime]H.M. Messenger:[/COLOR] [COLOR red]LINK NEWS: HUGEFILES resolver is down. STASH NEWS: New Section called "Section Fillers" content here will contain content that has been added to fill sections and might not be NEW content. Will be labeled with which section it was placed in and will ONLY display here in the TODAY section. After day it was added it will only show in the section it was added and not in "THIS WEEK'S" to avoid mixing with NEW content. Enjoy   H.M.[/COLOR]</message>
