@@ -74,29 +74,11 @@
 
 
 <dir>
-<name>[COLOR lime]------------------------------ New Show ------------------------------[/COLOR]</name>
+<name>[COLOR red]------------------------------ New Show ------------------------------[/COLOR]</name>
 <link>nill</link>
 <thumbnail>nill</thumbnail>
 </dir>
 
-
-<dir>
-<name>[COLOR red]TODAY[/COLOR] Lost (2004) HD</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Lost%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/73739-11.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]TODAY[/COLOR] Supernatural (2005) HD</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20Supernatural%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/78901-2.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]TODAY[/COLOR] Witches of East End (2013) HD</name>
-<link>https://github.com/HackerMil/HackerMilsMovieStash/raw/master/Shows/Dir%20WitchesofEastend%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/267259-3.jpg</thumbnail>
-</dir>
 
 
 <item>
@@ -133,91 +115,14 @@
 </item>
 
 
-<item>
-<title>[COLOR red]TODAY[/COLOR] [COLOR lime]Theatre Premiere[/COLOR] Gravity (2013) CAM</title>
-<link>
-<sublink>http://www.putlocker.com/file/0E88A23C533B4B4D</sublink>
-<sublink>http://mightyupload.com/93cku4oeytgi/Gravity_2013_CAM_XviD.avi.html</sublink>
-<sublink>http://180upload.com/d3hqrei8xadu</sublink>
-<sublink>http://movreel.com/yjvqeebugovv</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/2gPjLWIyrWlAn2DgKMOKTBnZYyO.jpg</thumbnail>
-</item>
 
 
 <item>
-<title>[COLOR lime]------------------------------ Episodes ------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------ Episodes ------------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
 
-<item>
-<title>[COLOR red]TODAY[/COLOR] Sons of Anarchy S06E06 HD</title>
-<link>
-<sublink>http://billionuploads.com/8mxjt5pen61h</sublink>
-<sublink>http://hugefiles.net/l9z4m9ggakv0</sublink>
-<sublink>http://180upload.com/l7qtccgjeh2w</sublink>
-<sublink>http://epicshare.net/zdmo5g489zso</sublink>
-<sublink>http://lemuploads.com/zdmo5g489zso</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/82696-4.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] Agents of S.H.I.E.L.D. S01E04 HD</title>
-<link>
-<sublink>http://billionuploads.com/oanfg0iz5b13</sublink>
-<sublink>http://hugefiles.net/wxf6pry5wkak</sublink>
-<sublink>http://180upload.com/ue16omutfax3</sublink>
-<sublink>http://epicshare.net/vbbqprxgvknz</sublink>
-<sublink>http://movreel.com/26mn4j43r0gr</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/263365-3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] Supernatural S09E02 HD</title>
-<link>
-<sublink>http://billionuploads.com/spyn29otgtj8</sublink>
-<sublink>http://180upload.com/fnz65zg2c20s</sublink>
-<sublink>http://epicshare.net/1ebj0rdhr8gu</sublink>
-<sublink>http://lemuploads.com/1ebj0rdhr8gu</sublink>  
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/78901-2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] The Blacklist S01E04 HD</title>
-<link>
-<sublink>http://billionuploads.com/ch6vnkgbhddq</sublink>
-<sublink>http://hugefiles.net/ygurd4onx151</sublink>
-<sublink>http://180upload.com/vj2xvrl71a27</sublink>
-<sublink>http://epicshare.net/kfcvaf2q222h</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/266189-3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] Hostages S01E04 HD</title>
-<link>
-<sublink>http://billionuploads.com/xrkvp39da6ns</sublink>
-<sublink>http://hugefiles.net/g5hadgseina9</sublink>
-<sublink>http://180upload.com/vn69r555zig6</sublink>
-<sublink>http://epicshare.net/1fkgoh5749vm</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/269642-4.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] Sleepy Hollow S01E05 HD</title>
-<link>
-<sublink>http://billionuploads.com/48zszeb2lowc</sublink>
-<sublink>http://hugefiles.net/3w539bd0ssif</sublink>
-<sublink>http://180upload.com/zpg2pb07kt5e</sublink>
-<sublink>http://epicshare.net/cplkt7qblqcr</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/269578-2.jpg</thumbnail>
-</item>
 
 
 
@@ -232,7 +137,7 @@
 
 <item>
 <title>[COLOR red]------------------------------ Comedy -------------------------------[/COLOR]</title>
-<link>nill</link>                                                                         >                  
+<link>nill</link>                                                                          >                  
 <thumbnail>nill</thumbnail>
 </item>
 
@@ -248,9 +153,20 @@
 <thumbnail>nill</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime]------------------------------ Specials ------------------------------[/COLOR]</title>
+<link>nill</link>                                                                         >                  
+<thumbnail>nill</thumbnail>
+</item>
 
-
-
+<item>
+<title>BET AWARDS 2013 HDTV</title>
+<link>
+<sublink>http://www.putlocker.com/file/963C4150D17226F2</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://verysmartbrothas.com/images/bet-awards-2013.jpg?9fe95b</thumbnail>
+</item>
 
 
 
