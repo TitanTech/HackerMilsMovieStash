@@ -1,16 +1,11 @@
 <?xml version="1.0"?>
 <rss version="2.0">
-  <channel>
-    <title>John Smith News</title>
-    <link>http://JohnSmithHomepage.com/</link>
-    <description>Latest stories form John Smith</description>
-    <language>en-us</language>
-    
-    <item>
-      <title>My First Article</title>
-      <link>http://JohnSmithHomepage,com/Article1.html</link>
-      <description>It's my first article. Hello World!</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>HackerMil Stash Feed</title>
+		<link>http://www.twitter.com/hackermil</link>
+		<description>New Content</description>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>Jitbit RSS Feed Creator</generator>
+		<pubDate>Thu, 17 Oct 2013 05:55:30 -0400</pubDate>
+		<item><title>Man Of Steel (2013) 1080P</title><description>In Freshout/Theatre/1080P</description><link>http://www.imdb.com/title/tt0770828/?ref_=nv_sr_1</link><pubDate>Thu, 17 Oct 2013 06:00:07 -0400</pubDate></item></channel>
 </rss>
