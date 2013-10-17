@@ -4,20 +4,20 @@
 #######################################################################################################################################
 
 
-<dir>
-<name>[COLOR aqua]Documentary[/COLOR]</name>
+<item>
+<title>[COLOR aqua]Documentary[/COLOR]</title>
 <link>http://www.youtube.com/watch?v=jiXZvwg6D6Q</link>
 <thumbnail>http://pullfocusfilmschool.com/sites/default/files/content_images/hh.jpg</thumbnail>
-</dir>
+</item>
 
-<dir>
-<name>First Fight</name>
+<item>
+<title>First Fight</title>
 <link>http://www.youtube.com/watch?v=1pB6sgVOADY</link>
 <thumbnail>http://www.boxing.com/images/sized/images/articles/Leonard-Hearns_(1)-530x317.jpg</thumbnail>
-</dir>
+</item>
 
-<dir>
-<name>Rematch</name>
+<item>
+<title>Rematch</title>
 <link>http://www.youtube.com/watch?v=zqzvXIsnj7s</link>
 <thumbnail>http://www.boxing.com/images/sized/images/articles/Leonard-Hearns_(1)-530x317.jpg</thumbnail>
-</dir>
+</item>
