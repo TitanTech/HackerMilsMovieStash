@@ -1,0 +1,17 @@
+    
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>John Smith News</title>
+    <link>http://JohnSmithHomepage.com/</link>
+    <description>Latest stories form John Smith</description>
+    <language>en-us</language>
+   
+    <item>
+      <title>My First Article</title>
+      <link>http://JohnSmithHomepage,com/Article1.html</link>
+      <description>It's my first article. Hello World!</description>
+    </item>
+       
+  </channel>
+</rss>
