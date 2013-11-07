@@ -80,6 +80,12 @@
 </dir>
 
 <dir>
+<name>[COLOR red]TODAY[/COLOR] The Lord of the Rings Story [COLOR blue]Story[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Lord%20of%20the%20rings.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/p4UokEk2XnjjRTdXGe6DLYXlbI1.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR red]TODAY[/COLOR] Shameless (US) [COLOR blue]Show[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Shameless%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/161511-6.jpg</thumbnail>
@@ -345,7 +351,7 @@
 
 
 <item>
-<title>..</title>
+<title></title>
 <link>http://billionuploads.com/hxaakru805y2</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
