@@ -86,6 +86,12 @@
 </dir>
 
 <dir>
+<name>The Harry Potter Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Harry%20Potter.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/rIX6rRzskxOYFzpQi3QK4JlWQ97.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>The Indiana Jones Story</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Indiana%20Jones.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/jkPiahTpZmZlnD17uDdKbNpfudh.jpg</thumbnail>
