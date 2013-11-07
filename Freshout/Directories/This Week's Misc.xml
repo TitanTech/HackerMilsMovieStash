@@ -20,6 +20,12 @@
 
 
 <dir>
+<name>[COLOR blue]Story[/COLOR] The Harry Potter Story [COLOR lime]11/7[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Harry%20Potter.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/Ae2x0UWz8xdNo2we6R4pcEkS6j.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR blue]Story[/COLOR] The Lord of the Rings Story [COLOR lime]11/7[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Lord%20of%20the%20rings.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/p4UokEk2XnjjRTdXGe6DLYXlbI1.jpg</thumbnail>
