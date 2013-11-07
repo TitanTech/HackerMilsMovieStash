@@ -11,13 +11,19 @@
 
 
 #########################################################################
-
+[COLOR blue]Story[/COLOR] 
 [COLOR blue]Show[/COLOR] 
 [COLOR blue]Ring Wars[/COLOR] 
  [COLOR lime][/COLOR]
 
 #########################################################################
 
+
+<dir>
+<name>[COLOR blue]Story[/COLOR] The Lord of the Rings Story [COLOR lime]11/7[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Lord%20of%20the%20rings.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/p4UokEk2XnjjRTdXGe6DLYXlbI1.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>[COLOR blue]Show[/COLOR] Shameless (US) [COLOR lime]11/7[/COLOR]</name>
