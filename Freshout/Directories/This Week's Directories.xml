@@ -20,6 +20,12 @@
 
 
 <dir>
+<name>[COLOR blue]Story[/COLOR] The Austin Powers Story [COLOR lime]11/8[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Austin%20Powers.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/mMSKOz2gGGLEyid0Bererj8LJZ2.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR blue]Story[/COLOR] The Harry Potter Story [COLOR lime]11/7[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Harry%20Potter.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/Ae2x0UWz8xdNo2we6R4pcEkS6j.jpg</thumbnail>
