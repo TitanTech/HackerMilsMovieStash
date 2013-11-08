@@ -74,8 +74,8 @@
 
 
 <dir>
-<name>[COLOR yellow]---------------------------- ADDED TODAY -------------------------------[/COLOR]</name>
-<link>nill</link>                                                   
+<name>[COLOR yellow]**************************** ADDED TODAY *******************************[/COLOR]</name>
+<link>nill</link>                                                      
 <thumbnail>nill</thumbnail>
 </dir>
 
@@ -90,7 +90,7 @@
 
 
 <item>
-<title>[COLOR red]------------------------------- Movies -------------------------------[/COLOR]</title>
+<title>[COLOR lime]------------------------------- Movies -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
