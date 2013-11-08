@@ -73,164 +73,46 @@
 ################################################################################################
 
 
+<item>
+<title>[COLOR yellow]---------------------------- ADDED TODAY -------------------------------[/COLOR]</title>
+<link>nill</link>                                                   
+<thumbnail>nill</thumbnail>
+</item>
+
 <dir>
-<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>nill</link>                             Directories
 <thumbnail>nill</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR red]TODAY[/COLOR] The Harry Potter Story [COLOR blue]Story[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Harry%20Potter.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/Ae2x0UWz8xdNo2we6R4pcEkS6j.jpg</thumbnail>
-</dir>
 
-<dir>
-<name>[COLOR red]TODAY[/COLOR] The Lord of the Rings Story [COLOR blue]Story[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Lord%20of%20the%20rings.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/p4UokEk2XnjjRTdXGe6DLYXlbI1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]TODAY[/COLOR] Shameless (US) [COLOR blue]Show[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Shameless%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/161511-6.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR red]TODAY[/COLOR] HBO: 24/7 Pacquiao vs Rios [COLOR blue]Show[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Fight%20Club/Directories/Shows/HBO-24%20Pacquiao%20vs%20Rios</link>
-<thumbnail>http://allboxing.ru/sites/allboxing.ru/files/images/faceofflogo.png</thumbnail>
-</dir>
 
 
 
 <item>
-<title>[COLOR lime]------------------------------- Movies -------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Movies -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]TODAY[/COLOR] The Wolverine (2013) 1080P</title>
+<title>[COLOR red]TODAY[/COLOR] Twelve Years a Slave (2013) CAM</title>
 <link>
-<sublink>http://hugefiles.net/6rl61qicnnpl</sublink>
-<sublink>http://180upload.com/9yk4r1zbqqch</sublink>
-<sublink>http://epicshare.net/b9aa7qqg4fkx</sublink>
-<sublink>http://www.putlocker.com/file/379517DBD6041258</sublink>
+<sublink>http://billionuploads.com/vhvfedirpfat</sublink>
+<sublink>http://www.putlocker.com/file/29320A009A7F4093</sublink>
+<sublink>http://180upload.com/qz5eilhnkig4</sublink>
+<sublink>http://mightyupload.com/veo688qaqwm8/12YaS-2LOW.avi.html</sublink>
 </link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1._SX640_SY949_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] The Wolverine (2013) HD</title>
-<link>
-<sublink>http://billionuploads.com/gfed6mu83sgr/The.Wolverine.2013.EXTENDED.720p.BluRay-Yify.mp4</sublink>
-<sublink>http://billionuploads.com/6d5gajvsf40c</sublink>
-<sublink>http://billionuploads.com/i9m9z7zm1gg4</sublink>
-<sublink>http://billionuploads.com/0b8z16ilysgl</sublink>
-<sublink>http://billionuploads.com/maz4vnbxwien</sublink>
-<sublink>http://hugefiles.net/1qksnozpntsk</sublink>
-<sublink>http://hugefiles.net/et669bt90elb</sublink>
-<sublink>http://hugefiles.net/k8oc336kk0i7</sublink>
-<sublink>http://180upload.com/4dw6j1rff78r</sublink>
-<sublink>http://180upload.com/el2s9czy04zg</sublink>
-<sublink>http://180upload.com/jm95hoeo04t2</sublink>
-</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1._SX640_SY949_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] Paranoia (2013) HD</title>
-<link>
-<sublink>http://billionuploads.com/phe60yqepz22</sublink>
-<sublink>http://hugefiles.net/i1dnwugi7zyo</sublink>
-<sublink>http://hugefiles.net/61vitzwmpyoc</sublink>
-<sublink>http://180upload.com/yf03ojqy01s0</sublink>
-<sublink>http://180upload.com/aho1bpx2ygtv</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/vTCTzqZJ2DYlDckCC1uKkGQB0UU.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] The Worl'd End (2013) 1080P</title>
-<link>
-<sublink>http://billionuploads.com/xjt7rwierv07/The.Worlds.End.2013.BluRay.1080p.5.1CH.x264-Ganool.mkv</sublink>
-<sublink>http://hugefiles.net/w4gyjg8n5ti7</sublink>
-<sublink>http://180upload.com/3btfnopulwvs</sublink>
-<sublink>http://mightyupload.com/akod2dzz40bj/The.Worlds.End.2013.BluRay.1080p.5.1CH.x264-Ganool.mkv.html</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/86f1SPPZQnjU9XtlwHE65WGMLlE.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] The Worl'd End (2013) HD</title>
-<link>
-<sublink>http://billionuploads.com/57z2tdhawj43</sublink>
-<sublink>http://billionuploads.com/bci40n5q5sp9</sublink>
-<sublink>http://billionuploads.com/9k4g75ybmgue</sublink>
-<sublink>http://hugefiles.net/8de9wivn9yoj</sublink>
-<sublink>http://hugefiles.net/wvw6pksk0xpm</sublink>
-<sublink>http://hugefiles.net/ywz471n6xa11</sublink>
-<sublink>http://180upload.com/7ygvemmfwhd9</sublink>
-<sublink>http://180upload.com/r87fsrfc8a9w</sublink>
-<sublink>http://180upload.com/fja9tf9bxppf</sublink>
-<sublink>http://epicshare.net/1ha988hqhjnb</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/86f1SPPZQnjU9XtlwHE65WGMLlE.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] Thor: The Dark World (2013) CAM [COLOR lime]NEW VERSION[/COLOR]</title>
-<link>
-<sublink>http://billionuploads.com/hxaakru805y2</sublink>
-<sublink>http://hugefiles.net/ly70fznvr6cc</sublink>
-<sublink>http://180upload.com/tjwahzpc9xyo</sublink>
-<sublink>http://mightyupload.com/32gcz3j28zxc/Thor.The.Dark.World.2013.CAM.NEW.SOURCE.FULL.XViD-FANTA.avi.html</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/uZUHjpFiBuS5q4piT7l91nOhHK3.jpg</thumbnail>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/xosImeLYPS0Q1I2OOKXh1pjmnGQ.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime]------------------------------ Episodes ------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------ Episodes ------------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
 
-<item>
-<title>[COLOR red]TODAY[/COLOR] The Ultimate Fighter S18E10</title>
-<link>
-<sublink>http://billionuploads.com/jgjuvmnlotk4</sublink>
-<sublink>http://hugefiles.net/tzj6q8aj83ve</sublink>
-<sublink>http://180upload.com/uutgihcyf5ie</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/75382-10.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] American Horror Story S03E05 HD</title>
-<link>
-<sublink>http://BillionUploads.com/8vf8946sruyy</sublink>
-<sublink>http://hugefiles.net/532v53jzvfvq</sublink>
-<sublink>http://180upload.com/rba4kwgulajm</sublink>
-<sublink>http://billionuploads.com/rsry3ls9yv1d</sublink>
-<sublink>http://hugefiles.net/8xc66ixg04d9</sublink>
-<sublink>http://180upload.com/c16lzjfqosu7</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/250487-15.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] The Tomorrow People S01E05 HD</title>
-<link>
-<sublink>http://billionuploads.com/j4x4hkk3uwhi</sublink>
-<sublink>http://hugefiles.net/rxzh88xo8ez9</sublink>
-<sublink>http://180upload.com/td3ongsnjpgy</sublink>
-<sublink>http://180upload.com/fkuao2ypuyhm</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/268591-2.jpg</thumbnail>
-</item>
 
 
 
@@ -239,24 +121,6 @@
 <link>nill</link>                                                                            >
 <thumbnail>nill</thumbnail>
 </item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] UFC Fight Night Kennedy vs Natal</title>
-<link>
-<sublink>http://billionuploads.com/dme53fxaax69</sublink>
-<sublink>http://hugefiles.net/s55sa34hqsne</sublink>
-<sublink>http://180upload.com/030pqrwvw49o</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/4b/UFC_Fight_Night_31.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]TODAY[/COLOR] HBO Face Off: Pacquiao vs Rios HD</title>
-<link>https://www.youtube.com/watch?v=8ZYRBFofpUw</link>
-<thumbnail>http://www.toprank.com/uploaded_files/images/events/i_d27f461964c6d9a59ba6894cb0c0dce9PacRios_TR_Events.jpg</thumbnail>
-</item>
-
 
 
 <item>
@@ -276,75 +140,12 @@
 
 
 <item>
-<title>[COLOR lime]--------------------------- Section Fillers ----------------------------[/COLOR]</title>
+<title>[COLOR red]--------------------------- Section Fillers ----------------------------[/COLOR]</title>
 <link>nill</link>                                                                                   >                  
 <thumbnail>nill</thumbnail>
 </item>
 
-<item>
-<title>[COLOR blue]HD|Class Of Classics[/COLOR] American Gangster (2007)</title>
-<link>
-<sublink>http://85.12.8.80/index.php?file=1013&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/xd1jbr0mhv85</sublink>
-<sublink>http://hugefiles.net/x7lsjm8r2x80</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/tBcUIbC38e43ZKlZxqQRx9WUIsW.jpg</thumbnail>
-</item>
 
-
-<item>
-<title>[COLOR blue]1080P[/COLOR] Django Unchained (2012)</title>
-<link>
-<sublink>http://hugefiles.net/e32wq4npklrg</sublink>
-<sublink>http://180upload.com/5n6o4uh95baj</sublink>
-<sublink>http://mightyupload.com/44n9xfm4onux/Django.Unchained.2012.BluRay.1080p.5.1CH.x264-Ganool.mkv.html</sublink>  
-</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1._SX640_SY948_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]1080P[/COLOR] The Hunger Games (2012)</title>
-<link>
-<sublink>http://billionuploads.com/qrmdu0f2x5jf/The.Hunger.Games.2012.BluRay.1080p.5.1CH.x264-Ganool.mkv</sublink>
-<sublink>http://hugefiles.net/pcn8xk31dug8</sublink>
-<sublink>http://180upload.com/s59ah96lvn2i</sublink>
-<sublink>http://mightyupload.com/dxbqmz4j5ctr/The.Hunger.Games.2012.BluRay.1080p.5.1CH.x264-Ganool.mkv.html</sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/rwUrxznyaRa06sPhdwnpOyZudWR.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] The Hunger Games (2012)</title>
-<link>
-<sublink>http://85.12.8.80/index.php?file=636&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/71b32zeioyms</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/rwUrxznyaRa06sPhdwnpOyZudWR.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]1080P[/COLOR] Parker (2013)</title>
-<link>
-<sublink>http://billionuploads.com/4o70i6xtaw9w/Parker.2013.BluRay.1080p.5.1CH.x264-Ganool.mkv</sublink>
-<sublink>http://hugefiles.net/gbrxd0qvkdn5</sublink>
-<sublink>http://180upload.com/cxxu0x7stunw</sublink>
-<sublink>http://mightyupload.com/l690futj610p/Parker.2013.BluRay.1080p.5.1CH.x264-Ganool.mkv.html</sublink>
-</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTk4MzM2NTQ1Nl5BMl5BanBnXkFtZTcwODIyODY1OA@@._V1._SX640_SY948_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]1080P[/COLOR] Bullet To The Head (2013)</title>
-<link>
-<sublink>http://billionuploads.com/33w4nu3j7euh/Bullet.To.The.Head.2013.BluRay.1080p.5.1CH.x264-Ganool.mkv</sublink>
-<sublink>http://hugefiles.net/qs61qjs652rd</sublink>
-<sublink>http://180upload.com/nsg22j7yiog7</sublink>
-</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTM4NzUyMjk2NV5BMl5BanBnXkFtZTcwOTUxNDc5OA@@._V1._SX640_SY927_.jpg</thumbnail>
-</item>
 
 
 
