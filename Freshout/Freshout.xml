@@ -73,11 +73,11 @@
 ################################################################################################
 
 
-<item>
-<title>[COLOR yellow]---------------------------- ADDED TODAY -------------------------------[/COLOR]</title>
+<dir>
+<name>[COLOR yellow]---------------------------- ADDED TODAY -------------------------------[/COLOR]</name>
 <link>nill</link>                                                   
 <thumbnail>nill</thumbnail>
-</item>
+</dir>
 
 <dir>
 <name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
