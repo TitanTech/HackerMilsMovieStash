@@ -86,12 +86,16 @@
 </dir>
 
 <dir>
-<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>nill</link>                             Directories
 <thumbnail>nill</thumbnail>
 </dir>
 
-
+<dir>
+<name>[COLOR lime]TODAY[/COLOR] Orange Is The New Black (2013)[COLOR lime]Series Premiere[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Orange%20Is%20The%20New%20Black%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/264586-2.jpg</thumbnail>
+</dir>
 
 
 <item>
