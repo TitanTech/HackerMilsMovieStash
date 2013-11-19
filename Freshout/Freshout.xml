@@ -79,11 +79,7 @@
 <thumbnail>nill</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] Almost Human (2013) [COLOR lime]SERIES PREMIERE[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Almost%20Human%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/267702-4.jpg</thumbnail>
-</dir>
+
 
 <dir>
 <name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
@@ -92,9 +88,15 @@
 </dir>
 
 <dir>
-<name>[COLOR lime]TODAY[/COLOR] Orange Is The New Black (2013)[COLOR lime]Series Premiere[/COLOR]</name>
+<name>[COLOR lime]TODAY[/COLOR] Orange Is The New Black (2013) [COLOR lime]Series Premiere[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Orange%20Is%20The%20New%20Black%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/264586-2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]TODAY[/COLOR] Being Mike Tyson (2013) [COLOR lime]Mini-Series/Documentary[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Being%20Mike%20Tyson%20Dir.xml</link>
+<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
 </dir>
 
 
@@ -141,6 +143,69 @@
 <title>[COLOR lime]TODAY[/COLOR] Mike Tyson: Undisputed Truth (2013) HD</title>
 <link>http://www.youtube.com/watch?v=I0GUx0os42g</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/kzyBUpStHNylUOd6VHDFnCgUmPM.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Being Mike Tyson: Part 1</title>
+<link>
+<sublink>http://180upload.com/m70qfzvoit0n</sublink>
+<sublink>http://flashx.tv/video/528SS7GABN2D/</sublink>
+</link>
+<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Being Mike Tyson: Part 2</title>
+<link>
+<sublink>http://movreel.com/4w1zybg19383.html</sublink>
+<sublink>http://www.movshare.net/video/5ngqpn6liqkyc</sublink>
+<sublink>http://flashx.tv/video/5NH4G1KHAG37/beingmiketysonp2</sublink>
+</link>
+<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Being Mike Tyson: Part 3</title>
+<link>
+<sublink>http://180upload.com/drkvidp97y9w</sublink>
+<sublink>http://movreel.com/7xgux6gt4bbw.html</sublink>
+<sublink>http://www.movshare.net/video/38ebsotp5qf7m</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Being Mike Tyson: Part 4</title>
+<link>
+<sublink>http://180upload.com/yfmyrnjxafi6</sublink>
+<sublink>http://movreel.com/unr4i0e1891p.html</sublink>
+<sublink>http://www.movshare.net/video/pn28bp9yvc4b3</sublink>
+<sublink>http://flashx.tv/video/B482U669XS5M/beingmiketysonp4</sublink>
+</link>
+<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Being Mike Tyson: Part 5</title>
+<link>
+<sublink>http://movreel.com/hjicp86ff7t4.html</sublink>
+<sublink>http://www.movshare.net/video/rfb2ux3ethvwn</sublink>
+<sublink>http://flashx.tv/video/Y7D8X1ABO2R9/beingmiketysonp5</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Being Mike Tyson: Part 6</title>
+<link>
+<sublink>http://movreel.com/w9xiknmz4avo.html</sublink>
+<sublink>http://www.movshare.net/video/6dohkt36vrhdm</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
 </item>
 
 
