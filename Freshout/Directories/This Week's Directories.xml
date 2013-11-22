@@ -26,7 +26,7 @@
 </dir>
 
 <dir>
-<name>[COLOR blue]Show[/COLOR] Being Mike Tyson (2013) [COLOR lime]11/18[/COLOR]</name>
+<name>[COLOR blue]Show[/COLOR] Being Mike Tyson (2013) [COLOR lime]11/18[/COLOR] (Being Fixed)</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Being%20Mike%20Tyson%20Dir.xml</link>
 <thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
 </dir>
@@ -35,40 +35,4 @@
 <name>[COLOR blue]Show[/COLOR] Almost Human (2013) [COLOR lime]11/17[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Almost%20Human%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/267702-4.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR blue]Show[/COLOR] Weeds (2005) [COLOR lime]11/8[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Weeds%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/74845-3.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR blue]Story[/COLOR] The Austin Powers Story [COLOR lime]11/8[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Austin%20Powers.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/mMSKOz2gGGLEyid0Bererj8LJZ2.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR blue]Story[/COLOR] The Harry Potter Story [COLOR lime]11/7[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Harry%20Potter.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/Ae2x0UWz8xdNo2we6R4pcEkS6j.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR blue]Story[/COLOR] The Lord of the Rings Story [COLOR lime]11/7[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Lord%20of%20the%20rings.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/p4UokEk2XnjjRTdXGe6DLYXlbI1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR blue]Show[/COLOR] Shameless (US) [COLOR lime]11/7[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Shameless%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/161511-6.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR blue]Show[/COLOR] HBO: 24/7 Pacquiao vs Rios [COLOR lime]11/6[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Fight%20Club/Directories/Shows/HBO-24%20Pacquiao%20vs%20Rios</link>
-<thumbnail>http://allboxing.ru/sites/allboxing.ru/files/images/faceofflogo.png</thumbnail>
 </dir>
