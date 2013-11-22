@@ -20,16 +20,18 @@
 
 
 <dir>
+<name>[COLOR blue]Show[/COLOR] Being Mike Tyson (2013) [COLOR lime]11/22[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Being%20Mike%20Tyson%20Dir.xml</link>
+<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
+</dir>
+
+
+<dir>
 <name>[COLOR blue]Show[/COLOR] Orange Is The New Black (2013) [COLOR lime]11/18[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Orange%20Is%20The%20New%20Black%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/264586-2.jpg</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR blue]Show[/COLOR] Being Mike Tyson (2013) [COLOR lime]11/18[/COLOR] (Being Fixed)</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Being%20Mike%20Tyson%20Dir.xml</link>
-<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
-</dir>
 
 <dir>
 <name>[COLOR blue]Show[/COLOR] Almost Human (2013) [COLOR lime]11/17[/COLOR]</name>
