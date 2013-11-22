@@ -82,16 +82,12 @@
 
 
 <dir>
-<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>nill</link>                             Directories
 <thumbnail>nill</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR aqua]Coming Soon[/COLOR]  [COLOR red]TRAILERS[/COLOR] [COLOR blue]ShowtimeHD Section[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/TRAILERS%20COMING%20SOON.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/259632-3.jpg</thumbnail>
-</dir>
+
 
 
 <item>
