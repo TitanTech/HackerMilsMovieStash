@@ -82,7 +82,7 @@
 
 
 <dir>
-<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>nill</link>                             Directories
 <thumbnail>nill</thumbnail>
 </dir>
@@ -131,9 +131,15 @@
 </item>
 
 <item>
-<title>[COLOR red]------------------------------ Episodes ------------------------------[/COLOR]</title>
+<title>[COLOR lime]------------------------------ Episodes ------------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]TODAY[/COLOR] HBO: 24/7 Pacquiao vs Rios E03</title>
+<link>http://www.youtube.com/watch?v=XQbez5ZOjSU</link>
+<thumbnail>http://farm6.staticflickr.com/5496/10788585715_e4091b0b55_o.png</thumbnail>
 </item>
 
 <item>
