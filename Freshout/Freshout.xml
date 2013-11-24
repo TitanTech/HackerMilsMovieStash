@@ -11,7 +11,7 @@
 </popup>
 
 <info>
-<message>[COLOR aqua]H.M. Messenger:[/COLOR] [COLOR lime]11/16[/COLOR] [COLOR red]STASH NEWS:[/COLOR] [COLOR yellow]New "Fixes" Sub-Section in "TODAY" list incase something you've tried was down and you didn't notify me, now ALL will be updated so you always know whats going on .. even though I really PLEAD with you guys to notify me of every dead link etc yourself right on the spot.[/COLOR] [COLOR red]LINK NEWS:[/COLOR] [COLOR yellow]Bypass Billion Upload Errors: Billion working for the most part again for those of you still getting errors here and there just reclick the same link after error, usually works on 2nd click :) VeeHD is back, working fine now. New servers are up and running just going to be another 2 days for all movies to be copied over MEANING .. are beloved STATIC links heavily featured in KidsPlaceHD as well as scattered throughout HD section and others are mostly all working if you come across 1 or 2 that dont play its ok in 2 days all will be working remember its not broken so dont let it discourage you from trying other STATIC links as some work and some dont :)     H.M.[/COLOR]</message>
+<message>[COLOR aqua]H.M. Messenger:[/COLOR] [COLOR lime]11/24[/COLOR] [COLOR red]LINK NEWS:[/COLOR] [COLOR yellow]ALRIGHT THINGS GETTING BACK TO NORMAL LINK WISE RMEMBER BILLION UPLOAD LINKS WORK IF YOU GET ERROR JUST CLICK AGAIN ON 2ND OR 3RD TRY IT'LL PLAY, STATIC ABOUT 99% BACK TO NORMAL SO THOSE SHOULD PLAY FINE     H.M.[/COLOR]</message>
 <thumbnail>http://farm6.staticflickr.com/5341/10218059344_b5e64e2da5_o.png</thumbnail>
 </info>
 
@@ -82,77 +82,37 @@
 
 
 <dir>
-<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>nill</link>                             Directories
 <thumbnail>nill</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] Coming Soon Trailers [COLOR blue]ShowtimeHD[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/TRAILERS%20COMING%20SOON.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5472/10994284403_f3f39b829e_o.png</thumbnail>
-</dir>
 
 
 <item>
-<title>[COLOR lime]------------------------------ Trailers ------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------ Trailers ------------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
 
 
-<item>
-<title>[COLOR blue]Coming Soon[/COLOR] Mob City (2013) [COLOR red]Arriving Dec. 4, 2013</title>
-<link>http://www.youtube.com/watch?v=6Ut04TPYnZE</link>
-<thumbnail>http://thetvdb.com/banners/posters/259632-3.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR blue]Coming Soon[/COLOR] Bonnie & Clyde (2013) [COLOR red]Arriving Dec. 8, 2013</title>
-<link>http://www.youtube.com/watch?v=DukFGUZY0t4</link>
-<thumbnail>http://thetvdb.com/banners/posters/270110-2.jpg</thumbnail>
-</item>
 
 
 <item>
-<title>[COLOR lime]------------------------------- Movies -------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Movies -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Gravity (2013) CAM [COLOR lime]NEW VERSION[/COLOR]</title>
-<link>
-<sublink>http://billionuploads.com/xl96riy7nida</sublink>
-<sublink>http://www.putlocker.com/file/623E6FA6D993C52F</sublink>
-<sublink>http://180upload.com/egioh1kwu572</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/2gPjLWIyrWlAn2DgKMOKTBnZYyO.jpg</thumbnail>
-</item>
+
 
 <item>
-<title>[COLOR lime]------------------------------ Episodes ------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------ Episodes ------------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] HBO: 24/7 Pacquiao vs Rios E03</title>
-<link>http://www.youtube.com/watch?v=XQbez5ZOjSU</link>
-<thumbnail>http://farm6.staticflickr.com/5496/10788585715_e4091b0b55_o.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Ultimate Fighter S18E12 HD</title>
-<link>
-<sublink>http://billionuploads.com/ldhz2nb6xqzv</sublink>
-<sublink>http://180upload.com/8scascv2cd8d</sublink>
-<sublink>http://hugefiles.net/rra17lul9htk</sublink>
-<sublink>http://billionuploads.com/a90bgqpqmtpz</sublink>
-<sublink>http://180upload.com/ijo7rso4r9xx</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/75382-10.jpg</thumbnail>
-</item>
 
 
 <item>
@@ -178,20 +138,12 @@
 </item>
 
 <item>
-<title>[COLOR lime]--------------------------- Section Fillers -----------------------------[/COLOR]</title>
+<title>[COLOR red]--------------------------- Section Fillers -----------------------------[/COLOR]</title>
 <link>nill</link>                                                                        >                  
 <thumbnail>nill</thumbnail>
 </item>
 
-<item>
-<title>[COLOR blue]HD[/COLOR] The Legend Is Born: Ip Man (2010)</title>
-<link>
-<sublink>http://85.12.8.80/index.php?file=1749&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
-<sublink>http://veehd.com/video/4641811_IP-MAN-The-Legend-is-Born-2010-DVDRip-BBa-avi</sublink>
-<sublink>http://veehd.com/video/4641812_IP-MAN-The-Legend-is-Born-2010-DVDRip-BBa-avi</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/jwNmm6xdPowcx26PVgeG1I6VodQ.jpg</thumbnail>
-</item>
+
 
 
 <item>
@@ -203,111 +155,11 @@
 
 
 <item>
-<title>[COLOR lime]------------------------------- Fixes --------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Fixes --------------------------------[/COLOR]</title>
 <link>nill</link>                                                                            >
 <thumbnail>nill</thumbnail>
 </item>
 
-<item>
-<title>Mike Tyson: Undisputed Truth (2013) HD</title>
-<link>
-<sublink>https://archive.org/download/ZvxrGlfbaHaqvfchgrqGehgu720/Zvxr%20Glfba%20Haqvfchgrq%20Gehgu%20720.divx</sublink>
-<sublink>http://hugefiles.net/yt8p9qa1ymyy</sublink>
-<sublink>http://www.putlocker.com/file/A35078A607B7E73C</sublink>  
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/kzyBUpStHNylUOd6VHDFnCgUmPM.jpg</thumbnail>
-</item>
-
-<item>
-<title>Being Mike Tyson: Part 1 HD</title>
-<link>
-<sublink>http://BillionUploads.com/vm601u170jr9</sublink>
-<sublink>http://www.putlocker.com/file/A0DDC966724336B1</sublink>
-<sublink>http://180upload.com/vp1p6g14737y</sublink>
-</link>
-<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>Being Mike Tyson: Part 2 HD</title>
-<link>
-<sublink>http://BillionUploads.com/ie7mry84fza4</sublink>
-<sublink>http://www.putlocker.com/file/29D1A55E754CBC63</sublink>
-<sublink>http://180upload.com/fbubwzc5vehw</sublink>
-</link>
-<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>Being Mike Tyson: Part 3 HD</title>
-<link>
-<sublink>http://BillionUploads.com/smg7ppzj5s77</sublink>
-<sublink>http://www.putlocker.com/file/869CDE6720B771CA</sublink>
-<sublink>http://180upload.com/pmhxdic4wm6k</sublink>
-</link>
-<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>Being Mike Tyson: Part 4 HD</title>
-<link>
-<sublink>http://BillionUploads.com/d5bxdhmtm0s8</sublink>
-<sublink>http://www.putlocker.com/file/C34E2DA1C9CD5514</sublink>
-<sublink>http://180upload.com/kekc848k5by4</sublink>
-</link>
-<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>Being Mike Tyson: Part 5 HD</title>
-<link>
-<sublink>http://BillionUploads.com/ci9rph1gcn85</sublink>
-<sublink>http://www.putlocker.com/file/140A47F983F077C2</sublink>
-<sublink>http://180upload.com/ngy40n4o4ys7</sublink>
-</link>
-<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>Being Mike Tyson: Part 6 HD</title>
-<link>
-<sublink>http://BillionUploads.com/m88wqrb0qxqh</sublink>
-<sublink>http://www.putlocker.com/file/3C7204C4706FD817</sublink>
-<sublink>http://180upload.com/t87blix5p6de</sublink>
-</link>
-<thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>Ip Man (2008)</title>
-<link>
-<sublink>http://85.12.8.80/index.php?file=1747&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/ejvhbipzz1fi</sublink>
-<sublink>http://180upload.com/hbho6uhd0nep</sublink>
-</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE0NDUzMDcyOF5BMl5BanBnXkFtZTcwNzAxMTA2Mw@@._V1._SX640_SY924_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Ip Man 2 (2010)</title>
-<link>
-<sublink>http://85.12.8.80/index.php?file=1748&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
-<sublink>http://180upload.com/ld8l163m6zq8</sublink>
-<sublink>http://movreel.com/w91rm2k42eiw</sublink>
-</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTM2MjY1NzMxOF5BMl5BanBnXkFtZTcwNzQ1NTcxNA@@._V1._SX472_SY729_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Ip Man: The Final Fight (2013)</title>
-<link>
-<sublink>http://billionuploads.com/axp2ermsckmj</sublink>
-<sublink>http://billionuploads.com/tz9acks51nnp</sublink>
-<sublink>http://180upload.com/g3mcth8nhm3h</sublink>
-<sublink>http://www.putlocker.com/file/F70F016FFA684E88</sublink>  
-</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/IpMan-TheFinalFight2013_zps2d81a0e1.jpg</thumbnail>
-</item>
 
 
 
