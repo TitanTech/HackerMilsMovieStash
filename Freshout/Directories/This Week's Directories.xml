@@ -20,6 +20,12 @@
 
 
 <dir>
+<name>[COLOR blue]Story[/COLOR] The Sherlock Holmes Story [COLOR lime]11/27[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Sherlock%20Holmes.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/bsUN9Ph1nUituteKWOhPQGguNXt.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR blue]Story[/COLOR] The Lara Croft Story [COLOR lime]11/27[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Lara%20Corft.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/sgaP4WtVlKzz8FIcjbkevOycJiq.jpg</thumbnail>
