@@ -20,6 +20,12 @@
 
 
 <dir>
+<name>[COLOR blue]Story[/COLOR] TThe American Pie Story [COLOR lime]11/27[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/American%20Pie.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/1PIAbXf7tWuUULSRG0kUkeDH3ev.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR blue]Story[/COLOR] The Hulk Story [COLOR lime]11/27[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Hulk.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/81I8fm5ua0CjCHQgf0LKlY8N70w.jpg</thumbnail>
