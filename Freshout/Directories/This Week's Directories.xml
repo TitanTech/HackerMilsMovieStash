@@ -20,21 +20,25 @@
 
 
 <dir>
+<name>[COLOR blue]Story[/COLOR] The Lara Croft Story [COLOR lime]11/27[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Lara%20Corft.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/sgaP4WtVlKzz8FIcjbkevOycJiq.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR blue]Story[/COLOR] The Spider Man Story [COLOR lime]11/26[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Spider%20Man.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/aNknE3vw8QC5gDHBRYpOz9gzuPc.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR blue]Story[/COLOR] The Da Vinci Code Story [COLOR lime]11/26[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Da%20Vinci%20Code.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/aVaFEjuUWx90gDMyiihTzE4cQS0.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR blue]Show[/COLOR] Being Mike Tyson (2013) [COLOR lime]11/22[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Being%20Mike%20Tyson%20Dir.xml</link>
 <thumbnail>http://farm3.staticflickr.com/2830/10935951344_7744206576_o.jpg</thumbnail>
-</dir>
-
-
-<dir>
-<name>[COLOR blue]Show[/COLOR] Orange Is The New Black (2013) [COLOR lime]11/18[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Orange%20Is%20The%20New%20Black%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/264586-2.jpg</thumbnail>
-</dir>
-
-
-<dir>
-<name>[COLOR blue]Show[/COLOR] Almost Human (2013) [COLOR lime]11/17[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Almost%20Human%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/267702-4.jpg</thumbnail>
 </dir>
