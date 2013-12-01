@@ -20,6 +20,12 @@
 
 
 <dir>
+<name>[COLOR blue]Story[/COLOR] The Harold & Kumar Story [COLOR lime]11/30[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Harold%20&%20Kumar.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/9OBP4MQBAXnBZ1uXLZykIWRGnBb.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR blue]Show[/COLOR] The Office (2005) [COLOR lime]11/29[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20The%20Office%20US%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/73244-6.jpg</thumbnail>
