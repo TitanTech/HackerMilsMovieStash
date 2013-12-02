@@ -79,17 +79,7 @@
 <thumbnail>nill</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] The Office (2005) [COLOR blue]Show[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20The%20Office%20US%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/73244-6.jpg</thumbnail>
-</dir>
 
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] The Harold & Kumar Story [COLOR blue]Story[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Harold%20&%20Kumar.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/9OBP4MQBAXnBZ1uXLZykIWRGnBb.jpg</thumbnail>
-</dir>
 
 
 <item>
@@ -103,55 +93,10 @@
 
 
 <item>
-<title>[COLOR lime]------------------------------- Movies -------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Movies -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Riddick (2013) SD</title>
-<link>
-<sublink>http://billionuploads.com/zxxplw004dwd</sublink>
-<sublink>http://hugefiles.net/e3b9cfcxvcbe</sublink>
-<sublink>http://180upload.com/etxtijxyffew</sublink>
-<sublink>http://180upload.com/m4vn3sq8423c</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/o0ZtQ7G2b3qVaqY0CKYRXBUulQd.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Escape Plan (2013) R6</title>
-<link>
-<sublink>http://billionuploads.com/a1p59fovpbrl</sublink>
-<sublink>http://hugefiles.net/r4lhksfbhydv</sublink>
-<sublink>http://180upload.com/odv7n2crnya9</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/6tWNWbSv4pmPzJQV25XHGeV6kQX.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Captain Phillips (2013) R6</title>
-<link>
-<sublink>http://billionuploads.com/009nc6h7pcem</sublink>
-<sublink>http://www.putlocker.com/file/02F914D0F74EC06A</sublink>
-<sublink>http://180upload.com/qji2t6n5z941</sublink>
-<sublink>http://billionuploads.com/isy995og0xfn</sublink>
-<sublink>http://hugefiles.net/ufz0l95h24e5</sublink>
-<sublink>http://180upload.com/7r0y08sdlmwt</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/lILIOfZkVlpx7m503z8t0oPhjCa.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Best Man Holiday (2013) R6 [COLOR lime]NV[/COLOR]</title>
-<link>
-<sublink>http://www.putlocker.com/file/C66014AFBC8DC0EC</sublink>
-<sublink>http://180upload.com/xe5qq34yi721</sublink>
-<sublink>http://movreel.com/ane9uu77wpnx.html</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/1JAWHObAVzVLUmsDggIsew54dUr.jpg</thumbnail>
-</item>
-
 
 
 
@@ -180,6 +125,17 @@
 <title>[COLOR lime]-------------------------------- Kids ---------------------------------[/COLOR]</title>
 <link>nill</link>                                                                            >
 <thumbnail>nill</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Hotel Transylvania (2012) HD</title>
+<link>
+<sublink>http://37.58.68.221/index.php?file=654&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
+<sublink>http://billionuploads.com/nfb1tmsq75mb</sublink>
+<sublink>http://180upload.com/23js11mfcgcv</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/fHntg68hzEtpDuvx8PWTHoPsED2.jpg</thumbnail>
 </item>
 
 <item>
@@ -216,74 +172,17 @@
 <thumbnail>nill</thumbnail>
 </item>
 
-<item>Comedy || HD
-<title>[COLOR blue]ComedyCentral || HD[/COLOR] Freddy Got Fingered (2001)</title>
-<link>
-<sublink>http://hugefiles.net/er21emwehjxs</sublink>
-<sublink>http://www.putlocker.com/file/83DDC9E0AA9B9C3A</sublink>
-<sublink>http://180upload.com/p01d0ie38srd</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/j9OW0LoLHxTokSssf1gGe5P1GUY.jpg</thumbnail>
-</item>2001-04-18
+<item>COC HD
+<title>[COLOR blue]Class Of Classics || HD[/COLOR] Taxi Driver (1976)</title>
+<link>http://37.58.68.221/index.php?file=1284&start=0&hd=0&auth=0&type=flv&tv=0</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/yxq4pk1xGmro8tQABuQIrWrvdaE.jpg</thumbnail>
+</item>1976-02-08
 
-<item>Comedy || HD
-<title>[COLOR blue]ComedyCentral || HD[/COLOR] Here Comes the Boom (2012)</title>
-<link>
-<sublink>http://37.58.68.221/index.php?file=706&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/lmavw1a840wj</sublink>
-<sublink>http://billionuploads.com/mduv6yztkch0</sublink>
-<sublink>http://billionuploads.com/aerfh9c6mlw9</sublink>
-<sublink>http://hugefiles.net/a81iip3jrbfx</sublink>
-<sublink>http://180upload.com/k0mojmkqp0ly</sublink>
-<sublink>http://180upload.com/4dnrxhhomx4f</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/agIDCekE8390PnKoAxCeMnBn37X.jpg</thumbnail>
-</item>2012-10-12
-
-<item>Comedy || HD
-<title>[COLOR blue]ComedyCentral || HD[/COLOR] 50 First Dates (2004)</title>
-<link>
-<sublink>http://37.58.68.221/index.php?file=411&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/1ypt2blwlp6c</sublink>
-<sublink>http://hugefiles.net/0oe9c8s3zjia</sublink>
-<sublink>http://180upload.com/rj63tkhcj1ei</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/kIvolfg9RRZxwuAqRZ1K9BYSe3V.jpg</thumbnail>
-</item>2004-02-13
-
-<item>
-<title>[COLOR blue]ComedyCentral || Stories || HD[/COLOR] Harold & Kumar Go to White Castle (2004)</title>
-<link>
-<sublink>http://37.58.68.221/index.php?file=790&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/trqnp3gz4ulh</sublink>
-<sublink>http://hugefiles.net/dvxr3xbswi89</sublink>
-<sublink>http://180upload.com/d3n5k0s72i4j</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/1YwdPBFdDHUNtqizm7cojoZdys9.jpg</thumbnail>
-</item>2004-05-30
-
-<item>
-<title>[COLOR blue]ComedyCentral || Stories || HD[/COLOR] Harold & Kumar Escape from Guantanamo Bay (2008)</title>
-<link>
-<sublink>http://37.58.68.221/index.php?file=791&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/1joodjp8a722</sublink>
-<sublink>http://hugefiles.net/zisqbobz1269</sublink>
-<sublink>http://180upload.com/buernin0gnhn</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/z4lpTfIhZAhjDofn0poJk8EUuyg.jpg</thumbnail>
-</item>2008-04-25
-
-<item>
-<title>[COLOR blue]ComedyCentral || Stories || HD[/COLOR] A Very Harold & Kumar Christmas (2011)</title>
-<link>
-<sublink>http://37.58.68.221/index.php?file=792&start=0&hd=0&auth=0&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/yjdd6r4psn84</sublink>
-<sublink>http://hugefiles.net/rwxnbg8ghv6y</sublink>
-<sublink>http://180upload.com/cl5mgu3f044x</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/8zdGMb5lfq2JB5OpipASK85URHC.jpg</thumbnail>
-</item>2011-11-04
+<item>COC HD
+<title>[COLOR blue]Class Of Classics || HD[/COLOR] Raging Bull (1980)</title>
+<link>http://37.58.68.221/index.php?file=1574&start=0&hd=0&auth=0&type=flv&tv=0</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/tKS38vUE3HBcLdKrwLUjjUctmgS.jpg</thumbnail>
+</item>1980-11-14
 
 
 <item>
@@ -333,8 +232,8 @@
 </item>
 
 <item>
-<title></title>
-<link>http://billionuploads.com/i9i3ut8xjz0l</link>
+<title>..</title>
+<link>http://veehd.com/video/4698402_Four-Christmases-2008-Merry-Christmas</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
