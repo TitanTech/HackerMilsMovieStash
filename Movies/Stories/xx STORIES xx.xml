@@ -48,6 +48,11 @@
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/vTXwJm2UC0Z0HwXTRmsMecGJErc.jpg</thumbnail>
 </dir>
 
+<dir>
+<name>The Bourne Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Bourne.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/iKDVFvEqp5mu5hc6ziBOZXPH4un.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>The Dark Knight Story</name>
@@ -77,6 +82,12 @@
 <name>The Fast and Furious Story</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Fast%20and%20Furious.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/hCZbA0puDW5PespEMVDmcbpilmk.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Final Destination Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Final%20Destination.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/ImnmSDVPK8Ds5LhVFdox6idAbN.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -182,6 +193,12 @@
 </dir>
 
 <dir>
+<name>The Mission Impossible Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Mission%20Impossible.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/gwyJPIhCK4Xz2WogeBnhCSQfUek.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>The Oceans Story</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Oceans.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/9QH2rtmDZyYVzZDb4t6RTB2aQmL.jpg</thumbnail>
@@ -227,6 +244,12 @@
 <name>The Saw Story</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Saw.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/4b638y4m7sxIZCywmKuf0Dj5bwR.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Scream Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Scream.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/3DjOcwfd8cTcKBkWTcNntAZajEg.jpg</thumbnail>
 </dir>
 
 <dir>
