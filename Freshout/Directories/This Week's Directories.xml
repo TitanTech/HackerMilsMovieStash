@@ -20,6 +20,36 @@
 
 
 <dir>
+<name>The Bourne Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Bourne.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/iKDVFvEqp5mu5hc6ziBOZXPH4un.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Mission Impossible Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Mission%20Impossible.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/gwyJPIhCK4Xz2WogeBnhCSQfUek.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Final Destination Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Final%20Destination.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/ImnmSDVPK8Ds5LhVFdox6idAbN.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Scream Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Scream.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/3DjOcwfd8cTcKBkWTcNntAZajEg.jpg</thumbnail>
+</dir>
+
+
+
+
+
+
+
+<dir>
 <name>[COLOR blue]Story[/COLOR] The Deuce Bigalow Story [COLOR lime]12/2[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Deuce%20Bigalow.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/bTCwiAT3g33QBEDNfrAep7wK6x4.jpg</thumbnail>
