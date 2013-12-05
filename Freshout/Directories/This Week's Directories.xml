@@ -20,25 +20,31 @@
 
 
 <dir>
-<name>The Bourne Story</name>
+<name>[COLOR blue]Show[/COLOR] Mob City (2013 [COLOR lime]12/3[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Mob%20City%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/261557-2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR blue]Story[/COLOR] The Bourne Story [COLOR lime]12/3[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Bourne.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/iKDVFvEqp5mu5hc6ziBOZXPH4un.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>The Mission Impossible Story</name>
+<name>[COLOR blue]Story[/COLOR] The Mission Impossible Story [COLOR lime]12/3[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Mission%20Impossible.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/gwyJPIhCK4Xz2WogeBnhCSQfUek.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>The Final Destination Story</name>
+<name>[COLOR blue]Story[/COLOR] The Final Destination Story [COLOR lime]12/3[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Final%20Destination.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/ImnmSDVPK8Ds5LhVFdox6idAbN.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>The Scream Story</name>
+<name>[COLOR blue]Story[/COLOR] The Scream Story [COLOR lime]12/3[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Scream.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/3DjOcwfd8cTcKBkWTcNntAZajEg.jpg</thumbnail>
 </dir>
