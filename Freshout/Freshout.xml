@@ -80,7 +80,13 @@
 </dir>
 
 <dir>
-<name>Bonnie and Clyde (2013)</name>
+<name>[COLOR lime]TODAY[/COLOR] The Smokin' Aces Story [COLOR blue]Story[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Smokin%20Aces.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/dDbbvWjpEkI7I8FLyqFg8jHaK6.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]TODAY[/COLOR] Bonnie and Clyde (2013) [COLOR blue]Show[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Bonnie%20and%20Clyde%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/270110-2.jpg</thumbnail>
 </dir>
@@ -226,11 +232,33 @@
 
 
 <item>
-<title>[COLOR red]--------------------------- Section Fillers -----------------------------[/COLOR]</title>
+<title>[COLOR lime]--------------------------- Section Fillers -----------------------------[/COLOR]</title>
 <link>nill</link>                                                                        >                  
 <thumbnail>nill</thumbnail>
 </item>
 
+
+<item>
+<title>[COLOR blue]Stories || HD[/COLOR] Smokin' Aces (2006)</title>
+<link>
+<sublink>http://hugefiles.net/tzbitv9youek</sublink>
+<sublink>http://180upload.com/h9jslafsaho9</sublink>
+<sublink>http://movreel.com/5fjcddfcu4xe.html</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/lt5V18wPTSqSBR8j6ZRLWi2yiul.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Stories || HD[/COLOR] Smokin' Aces 2: Assassins' Ball (2010)</title>
+<link>
+<sublink>http://hugefiles.net/2snm8ysl7op3</sublink>
+<sublink>http://180upload.com/9kzpdss1d6gh</sublink>
+<sublink>http://movreel.com/5w1k6zrxc55y.html</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/w3iHLjVxPoIObYXURHJLyhN6aqz.jpg</thumbnail>
+</item>
 
 
 
