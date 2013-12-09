@@ -74,12 +74,16 @@
 
 
 <dir>
-<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>nill</link>                             Directories
 <thumbnail>nill</thumbnail>
 </dir>
 
-
+<dir>
+<name>Bonnie and Clyde (2013)</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Bonnie%20and%20Clyde%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/270110-2.jpg</thumbnail>
+</dir>
 
 <item>
 <title>[COLOR red]------------------------------- Trailers ------------------------------[/COLOR]</title>
