@@ -20,6 +20,12 @@
 
 
 <dir>
+<name>[COLOR blue]Story[/COLOR] The Titans Story [COLOR lime]12/15[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Titans.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/5Pbo8FfL3QRBSjNi6Yh1sz6zX8g.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR blue]Show[/COLOR] SHOWTIME: All Access Broner vs Maidana [COLOR lime]12/9[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Fight%20Club/Directories/Shows/All%20Access%20Broner%20Maidana.xml</link>
 <thumbnail>http://farm6.staticflickr.com/5545/11292163305_530d5cf4e6_o.png</thumbnail>
