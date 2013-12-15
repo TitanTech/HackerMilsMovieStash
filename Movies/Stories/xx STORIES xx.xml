@@ -289,6 +289,12 @@
 </dir>
 
 <dir>
+<name>The Titans Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Titans.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/5Pbo8FfL3QRBSjNi6Yh1sz6zX8g.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>The Transformers Story</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Transformers.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/giURBCO3r4LVbhywEjIuYz92fEv.jpg</thumbnail>
