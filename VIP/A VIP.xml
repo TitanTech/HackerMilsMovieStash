@@ -233,8 +233,14 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua] HouDiniTv's Channel[/COLOR] [COLOR red]Due 6/13/14[/COLOR]</name>
+<name>[COLOR aqua] HouDiniTv's Channel[/COLOR] [COLOR red]Due 6/15/14[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/VIP/User%20Channels/HouDiniTv.xml</link>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua] BillyBob's Channel[/COLOR] [COLOR red]Due 6/15/14[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/VIP/User%20Channels/BillyBob.xml</link>
 <thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
