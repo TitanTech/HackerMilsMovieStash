@@ -28,10 +28,7 @@
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 <date>HM</date>
 
-<name>[COLOR aqua]  Show Time[/COLOR] [COLOR red]HD[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/TV%20SHOWS.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5344/10217616193_f5737a9046_o.jpg</thumbnail>
-<date>HM</date>
+
 
 <name>[COLOR aqua]  1080P[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/4%201080P.xml</link>
@@ -43,6 +40,11 @@
 <thumbnail>http://farm8.staticflickr.com/7440/10217500385_9838d2412a_o.jpg</thumbnail>
 <date>HM</date>
 
+<name>[COLOR aqua]  All-Timers[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Comedy%20Central/Comedy%20Central.xml</link>
+<thumbnail>http://farm8.staticflickr.com/7370/11429670234_73ea26abb2_o.png</thumbnail>
+<date>HM</date>
+
 <name>[COLOR aqua]  Comedy Central[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Comedy%20Central/Comedy%20Central.xml</link>
 <thumbnail>http://farm3.staticflickr.com/2889/10216924165_c04bca89c0_o.png</thumbnail>
@@ -51,6 +53,11 @@
 <name>[COLOR aqua]  Stories[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/xx%20STORIES%20xx.xml</link>
 <thumbnail>http://farm8.staticflickr.com/7393/10217616233_62e5bf7e35_o.png</thumbnail>
+<date>HM</date>
+
+<name>[COLOR aqua]  Show Time[/COLOR] [COLOR red]HD[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/TV%20SHOWS.xml</link>
+<thumbnail>http://farm6.staticflickr.com/5344/10217616193_f5737a9046_o.jpg</thumbnail>
 <date>HM</date>
 
 <name>[COLOR aqua]  Collections[/COLOR]</name>
