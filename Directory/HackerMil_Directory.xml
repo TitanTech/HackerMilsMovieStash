@@ -3,12 +3,18 @@
 <fanart>http://farm6.staticflickr.com/5460/10217454264_7eda59c6f3_o.png</fanart>
 #######################################################################################################################################
 
+hack1 hack2
 
+-----------------------------------------------
+<notify>
+<new>hack1</new>
+<message1>hey sockshare down</message1>
+<message2>hackermill stash</message2>
+<message3>testing third line</message3>
+<old>hack2</old>
+</notify>
 
-
-
-
-
+#####################################################################################################################
 
 <name>[COLOR yellow]  VIP[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/VIP/A%20VIP.xml</link>
