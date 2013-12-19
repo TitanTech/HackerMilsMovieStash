@@ -8,9 +8,9 @@ hack1 hack2
 -----------------------------------------------
 <notify>
 <new>hack1</new>
-<message1>hey sockshare down</message1>
-<message2>hackermill stash</message2>
-<message3>testing third line</message3>
+<message1></message1>
+<message2></message2>
+<message3></message3>
 <old>hack2</old>
 </notify>
 
