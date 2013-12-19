@@ -15,13 +15,6 @@
 
 ####################################################################################################################
 
-
-<dir>
-<name>Class Of Classics</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Collections/Class%20of%20Classics.xml</link>
-<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/CLASSICS_zps2cb5a92f.png</thumbnail>
-</dir>
-
 <dir>
 <name>Ferrel Flicks</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Collections/Ferrell%20Flicks.xml</link>
@@ -33,3 +26,4 @@
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Collections/Toast%20To%20Tarantino.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/tarantino_zps2bf8dca2.png</thumbnail>
 </dir>
+
