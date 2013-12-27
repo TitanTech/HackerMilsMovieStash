@@ -81,11 +81,7 @@
 
 
 
-<item>
-<title>[COLOR red]------------------------------- Trailers ---------------------------------[/COLOR]</title>
-<link>nill</link>                                                                         >                  
-<thumbnail>nill</thumbnail>
-</item>
+
 
 
 
@@ -130,16 +126,6 @@
 <thumbnail>nill</thumbnail>
 </item>
 
-<item>
-<title>[COLOR red]-------------------------------- Kids ------------------------------------[/COLOR]</title>
-<link>nill</link>                                                                            >
-<thumbnail>nill</thumbnail>
-</item>
-
-
-
-
-
 
 <item>
 <title>[COLOR red]------------------------------ Comedy ----------------------------------[/COLOR]</title>
@@ -162,28 +148,33 @@
 <thumbnail>nill</thumbnail>
 </item>
 
+
+
+
+
+##################################################################################################################
+
+[COLOR red]------------------------------- Fixes ------------------------------------[/COLOR]
+
 <item>
-<title>[COLOR red]------------------------------- Fixes ------------------------------------[/COLOR]</title>
-<link>nill</link>                                                                            >
+<title></title>
+<link>nill</link>             
 <thumbnail>nill</thumbnail>
 </item>
 
 
 
 
+
+[COLOR red]------------------------------ Special -----------------------------------[/COLOR]
+
 <item>
-<title>[COLOR red]------------------------------ Special -----------------------------------[/COLOR]</title>
-<link>nill</link>                                                                         >                  
+<title></title>
+<link>nill</link>                                                                                         
 <thumbnail>nill</thumbnail>
 </item>
 
-
-
-
-
-
-
-################################################################################################
+##################################################################################################################
 
 
 
