@@ -18,13 +18,13 @@
 
 
 <dir>
-<name>[COLOR aqua]Coming Soon[/COLOR]  [COLOR red]Trailers[/COLOR]</name>
+<name>[COLOR yellow]Coming Soon[/COLOR]  [COLOR red]Trailers[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/TRAILERS%20COMING%20SOON.xml</link>
 <thumbnail>http://farm6.staticflickr.com/5472/10994284403_f3f39b829e_o.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Latest Episodes[/COLOR]  [COLOR red]ON AIR[/COLOR]</name>
+<name>[COLOR yellow]Latest Episodes[/COLOR]  [COLOR red]ON AIR[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Latest%20Shows.xml</link>
 <thumbnail>http://farm8.staticflickr.com/7448/10218393905_aae5b09e1e_o.png</thumbnail>
 </dir>
