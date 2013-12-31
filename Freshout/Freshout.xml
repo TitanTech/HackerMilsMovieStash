@@ -93,7 +93,7 @@
 
 <item>
 <title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
-<link>nill</link>                                                                         >                  
+<link>nill</link>                                  Shows                                        >                  
 <thumbnail>nill</thumbnail>
 </item>
 
@@ -290,12 +290,16 @@
 
 
 <item>
-<title>[COLOR red]------------------------------ Episodes ---------------------------------[/COLOR]</title>
-<link>nill</link>                                                                         >                  
+<title>[COLOR lime]------------------------------- Shows ------------------------------------[/COLOR]</title>
+<link>nill</link>                                 
 <thumbnail>nill</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR lime]TRAILER[/COLOR] House Of Lies [COLOR aqua]Season 3 Airing:[/COLOR] [COLOR red]Jan. 12, 2014[/COLOR]</title>
+<link>http://www.youtube.com/watch?v=0H0i-Bq4Wto</link>
+<thumbnail>http://thetvdb.com/banners/posters/247909-3.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR red]------------------------------- Fights -----------------------------------[/COLOR]</title>
@@ -398,7 +402,7 @@
 
 <item>
 <title>[COLOR lime]------------------------------- Fixes ------------------------------------[/COLOR]</title>
-<link>nill</link>             
+<link>nill</link>                                  Shows
 <thumbnail>nill</thumbnail>
 </item>
 
