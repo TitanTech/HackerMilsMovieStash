@@ -74,12 +74,16 @@
 
 
 <dir>
-<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
-<link>nill</link>                             Directories
+<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
+<link>nill</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
 
-
+<dir>
+<name>[COLOR lime]LATEST[/COLOR] House Of Lies (2012) [COLOR blue]Show[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20House%20Of%20Lies%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/247909-2.jpg</thumbnail>
+</dir>
 
 
 
