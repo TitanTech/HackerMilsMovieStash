@@ -5,13 +5,18 @@
 
 
 <item>
-<title>[COLOR aqua]Season 2 Premiering:[/COLOR] [COLOR red]TBA[/COLOR]</title>
-<link>nil</link>
+<title>[COLOR aqua]Season 2 Airing:[/COLOR] [COLOR red]Jan. 10, 2014[/COLOR] [COLOR aqua]Watch Trailer[/COLOR]</title>
+<link>http://www.youtube.com/watch?v=xzPy9AC82rw</link>
 <thumbnail>http://www.nextepisodeonline.com/images/next-episode-logo.jpg</thumbnail>
 </item>
 
 ####################################################################
 
+<item>
+<title>[COLOR yellow]Season 1[/COLOR]</title>
+<link>nill</link>                                
+<thumbnail>http://thetvdb.com/banners/posters/259765-1.jpg</thumbnail>
+</item>
 
 <item>
 <title>Banshee S01E01</title>
@@ -71,4 +76,10 @@
 <title>Banshee S01E10</title>
 <link>http://www.putlocker.com/file/174CDFEF7039A210</link> 
 <thumbnail>http://thetvdb.com/banners/posters/259765-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Season 2[/COLOR] [COLOR aqua]Airing:[/COLOR] [COLOR red]Jan. 10, 2014[/COLOR]</title>
+<link>http://www.youtube.com/watch?v=xzPy9AC82rw</link>
+<thumbnail>http://thetvdb.com/banners/posters/259765-4.jpg</thumbnail>
 </item>
