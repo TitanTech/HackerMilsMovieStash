@@ -13,11 +13,11 @@
 ####################################################################
 
 
-<dir>
-<name>[COLOR yellow]Season 1[/COLOR]</name>
+<item>
+<title>[COLOR yellow]Season 1[/COLOR]</title>
 <link>nill</link>                                
 <thumbnail>nill</thumbnail>
-</dir>
+</item>
 
 
 <item>
@@ -126,6 +126,12 @@
 <sublink>http://180upload.com/3iinvp35tphl</sublink>
 </link> 
 <thumbnail>http://thetvdb.com/banners/posters/247909-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Season 2[/COLOR]</title>
+<link>nill</link>                                
+<thumbnail>nill</thumbnail>
 </item>
 
 <item>
