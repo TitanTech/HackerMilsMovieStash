@@ -6,9 +6,9 @@
 ------------------------------------------------------
 <notify>
 <new>2</new>
-<message1>w</message1>
-<message2>o</message2>
-<message3>w</message3>
+<message1></message1>
+<message2></message2>
+<message3></message3>
 <old>1</old>
 </notify>
 
