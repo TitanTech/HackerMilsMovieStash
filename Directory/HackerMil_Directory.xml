@@ -3,13 +3,13 @@
 <fanart>http://farm6.staticflickr.com/5460/10217454264_7eda59c6f3_o.png</fanart>
 #######################################################################################################################################
 
-------------------------------------------------------
-<notify>
-<new>2</new>
-<message1>Announcement Pop Up Length Test 1234567891011121314151617181920212223242526</message1>
-<message2> </message2>
-<message3> </message3>
-<old>1</old>
+          --------------------------------------------------
+<notify>                                                                     
+<new>1</new>                                                                    
+<message1>               Billions Site Is Down</message1>     
+<message2>          Please Use Other links For Now</message2>
+<message3>For New On This & More HackermilBlog.Blogspot.com</message3></message3>
+<old>2</old>
 </notify>
 
 #####################################################################################################################
