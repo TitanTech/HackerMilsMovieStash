@@ -79,6 +79,9 @@
 <thumbnail>nill</thumbnail>
 </dir>
 
+[COLOR lime]TODAY[/COLOR] 
+ [COLOR blue][/COLOR] 
+
 
 
 
@@ -87,6 +90,8 @@
 <link>nill</link>                                                                          >                  
 <thumbnail>nill</thumbnail>
 </item>
+
+[COLOR lime]TODAY[/COLOR] 
 
 <item>
 <title>[COLOR lime]TODAY[/COLOR] Ender's Game (2013) HD</title>
@@ -105,12 +110,16 @@
 <thumbnail>nill</thumbnail>
 </item>
 
+[COLOR lime]TODAY[/COLOR] 
+
 
 <item>
 <title>[COLOR lime]------------------------------- Fights -----------------------------------[/COLOR]</title>
 <link>nill</link>                                                                            >
 <thumbnail>nill</thumbnail>
 </item>
+
+[COLOR lime]TODAY[/COLOR] 
 
 <item>
 <title>[COLOR lime]TODAY[/COLOR] UFC Fight Night: 35 Ruckhold vs Philippou HD</title>
@@ -131,6 +140,8 @@
 <thumbnail>nill</thumbnail>
 </item>
 
+[COLOR lime]TODAY[/COLOR] 
+
 
 
 <item>
@@ -138,6 +149,8 @@
 <link>nill</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
+
+[COLOR lime]TODAY[/COLOR] 
 
 
 <item>
@@ -147,6 +160,16 @@
 </item>
 
 [COLOR blue]|| HD ||[/COLOR] 
+
+<item>
+<title>[COLOR blue]All Timers || HD ||[/COLOR] The Departed (2006)</title>
+<link>
+<sublink>http://75.126.196.132/index.php?file=943&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
+<sublink>http://hugefiles.net/9gyv1phg35kk</sublink>
+<sublink>http://180upload.com/b6h105wvm94c</sublink>
+</link>
+<thumbnail>http://image.tmdb.org/t/p/original/tGLO9zw5ZtCeyyEWgbYGgsFxC6i.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR blue]HD ||[/COLOR] Constantine (2005)</title>
