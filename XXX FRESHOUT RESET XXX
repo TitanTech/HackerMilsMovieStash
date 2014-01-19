@@ -3,21 +3,14 @@
 <fanart>http://farm6.staticflickr.com/5460/10217454264_7eda59c6f3_o.png</fanart>
 #######################################################################################################################################
 
-
-<popup>
-<name>[COLOR red]CLICK HERE[/COLOR] [COLOR aqua]FOR INFO ON JOINING THE VIP CLUB AND DETAILS[/COLOR]</name>
-<popImage>http://farm3.staticflickr.com/2851/10218170123_bb90f51c7e_o.png</popImage>
-<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
-</popup>
-
 <info>
-<message>[COLOR aqua]H.M. Messenger:[/COLOR] [COLOR red]NEWS LAST:[/COLOR] [COLOR yellow]No More HM Messenger for news as all can be found on Hackermilblog.blogspot.com please visit to keep up to date with us .        H.M.[/COLOR]</message>
-<thumbnail>http://farm6.staticflickr.com/5341/10218059344_b5e64e2da5_o.png</thumbnail>
+<message></message>
+<thumbnail></thumbnail>
 </info>
 
 
 
-#########################################################################
+#######################################################################################################################################
 
 
 <dir>
@@ -79,16 +72,23 @@
 <thumbnail>nill</thumbnail>
 </dir>
 
+[COLOR lime]TODAY[/COLOR] 
+ [COLOR blue][/COLOR] 
+ 
+
 
 
 
 <item>
 <title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
-<link>nill</link>                                  Shows                                        >                  
+<link>nill</link>                                                                          >                  
 <thumbnail>nill</thumbnail>
 </item>
 
-
+[COLOR lime]TODAY[/COLOR] 
+ [COLOR lime]THEATRE PREMIERE[/COLOR]
+ [COLOR lime]PRE-RELEASE[/COLOR]
+  
 
 
 <item>
@@ -96,6 +96,10 @@
 <link>nill</link>                                 
 <thumbnail>nill</thumbnail>
 </item>
+
+[COLOR lime]TODAY[/COLOR] 
+
+
 
 
 
@@ -106,6 +110,9 @@
 <thumbnail>nill</thumbnail>
 </item>
 
+[COLOR lime]TODAY[/COLOR] 
+
+
 
 
 <item>
@@ -113,6 +120,8 @@
 <link>nill</link>                                                                          >                  
 <thumbnail>nill</thumbnail>
 </item>
+
+[COLOR lime]TODAY[/COLOR] 
 
 
 
@@ -122,6 +131,8 @@
 <thumbnail>nill</thumbnail>
 </item>
 
+[COLOR lime]TODAY[/COLOR] 
+
 
 <item>
 <title>[COLOR red]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
@@ -129,14 +140,15 @@
 <thumbnail>nill</thumbnail>
 </item>
 
-[COLOR blue][/COLOR] 
+[COLOR blue]|| HD ||[/COLOR] 
 
 
-##################################################################################################################
+
+#######################################################################################################################################
 
 <item>
 <title>[COLOR red]------------------------------- Fixes ------------------------------------[/COLOR]</title>
-<link>nill</link>                                  Shows
+<link>nill</link>                              
 <thumbnail>nill</thumbnail>
 </item>
 
@@ -151,21 +163,19 @@
 <thumbnail>nill</thumbnail>
 </item>
 
-##################################################################################################################
+#######################################################################################################################################
 
 
 
 <item>
 <title></title>
-<link>http://media-b612.putlocker.com/download/7/17/0aacea334710c5441a91ebe75be16d7f?h=FAEzYHYBk9BqgBNnRNsSCA&e=1389092796&f=Love.and.Hip.Hop.S04E09.HDTV.x264.mp4&domain=putlocker.com</link>
+<link>http://project-free-upload.com/879febrhwhbb</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
 <item>
 <title></title>
-<link>
-<sublink>http://veehd.com/video/4790829_Planet-Terror-2007-Unrated-Action-Horror-gift-mp4</sublink>
-</link>
+<link>http://yify.tv/lords-london/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
