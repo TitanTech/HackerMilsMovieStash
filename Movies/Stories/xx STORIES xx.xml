@@ -145,6 +145,12 @@
 </dir>
 
 <dir>
+<name>The Hunger Games Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Hunger%20Games.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/9HLDWKOdVQn8ll8wcRqRIR8i8Q5.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>The Indiana Jones Story</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Indiana%20Jones.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/jkPiahTpZmZlnD17uDdKbNpfudh.jpg</thumbnail>
