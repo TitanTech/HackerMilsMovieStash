@@ -67,16 +67,20 @@
 
 
 <dir>
-<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>nill</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
 
 [COLOR lime]TODAY[/COLOR] 
- [COLOR blue][/COLOR] 
+ [COLOR blue][/COLOR]
  
 
-
+<dir>
+<name>[COLOR lime]TODAY[/COLOR] The Hunger Games Story [COLOR blue]Story[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Hunger%20Games.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/9HLDWKOdVQn8ll8wcRqRIR8i8Q5.jpg</thumbnail>
+</dir>
 
 
 <item>
