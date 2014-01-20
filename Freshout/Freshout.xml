@@ -67,24 +67,20 @@
 
 
 <dir>
-<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>nill</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
 
 [COLOR lime]TODAY[/COLOR] 
- [COLOR blue][/COLOR]
+ [COLOR blue][/COLOR] 
  
 
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] The Hunger Games Story [COLOR blue]Story[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Hunger%20Games.xml</link>
-<thumbnail>http://image.tmdb.org/t/p/original/9HLDWKOdVQn8ll8wcRqRIR8i8Q5.jpg</thumbnail>
-</dir>
+
 
 
 <item>
-<title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
 <link>nill</link>                                                                          >                  
 <thumbnail>nill</thumbnail>
 </item>
@@ -92,21 +88,24 @@
 [COLOR lime]TODAY[/COLOR] 
  [COLOR lime]THEATRE PREMIERE[/COLOR]
  [COLOR lime]PRE-RELEASE[/COLOR]
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] After the Dark (2014) HD [COLOR lime]PRE-RELEASE[/COLOR]</title>
-<link>
-<sublink>http://megarelease.org/gsad1vibnlpi</sublink>
-<sublink>http://hugefiles.net/9ttcfcg5cxpb</sublink>
-<sublink>http://billionuploads.com/okjzqdrttfzp</sublink>
-<sublink>http://180upload.com/v3tv1jmbmsln</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/lx4Tf6Cjrryve24xWJYSDWr0xB7.jpg</thumbnail>
-</item>
  
+<item>
+<title>[COLOR lime]TODAY[/COLOR] The Hunger Games: Catching Fire (2013) 1080P</title>
+<link>
+<sublink>http://hugefiles.net/2x03ij2zyx9p</sublink>
+<sublink>http://billionuploads.com/yjnzaxud8jab</sublink>
+<sublink>http://180upload.nl/5b9hrz9kecf8/The.Hunger.Games.Catching.Fire.2013.1080p.BluRay.x264.YIFY.mp4.html</sublink>
+<sublink>http://hugefiles.net/8h7of8t8zpq7</sublink>
+<sublink>http://billionuploads.com/dnhxe6f5giwl</sublink>
+<sublink>http://180upload.com/q2jini4bjsnd</sublink>
+</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/zkrTbOKUt7w7x8TkLvR2qXZAKd3.jpg</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime]TODAY[/COLOR] The Hunger Games: Catching Fire (2013) HD</title>
 <link>
+<sublink>http://75.126.196.132/index.php?file=2814&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
 <sublink>http://hugefiles.net/o7scyrfkbpem</sublink>
 <sublink>http://billionuploads.com/l41s0h0wg0s7</sublink>
 <sublink>http://180upload.com/ql0xph22qjmy</sublink>
@@ -114,104 +113,16 @@
 </link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/zkrTbOKUt7w7x8TkLvR2qXZAKd3.jpg</thumbnail>
 </item>
- 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Legend of Hercules (2014) CAM [COLOR lime]THEATRE PREMIERE[/COLOR]</title>
-<link>
-<sublink>http://billionuploads.com/zbooyefarhr0</sublink>
-<sublink>http://www.putlocker.com/file/09186DFD451725EA</sublink>
-<sublink>http://www.putlocker.com/file/83290B1A9E683989</sublink>
-<sublink>http://sharesix.com/4vn8awikz81a</sublink>
-<sublink>http://www.movshare.net/video/59666e51fe7fd</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/lAW2TKVI1W2SksalbEJgCJS7nWq.jpg</thumbnail>
-</item>
-
- 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Delivery Man (2013) CAM [COLOR lime]THEATRE PREMIERE[/COLOR]</title>
-<link>
-<sublink>http://hugefiles.net/yrnm11wgmzjn</sublink>
-<sublink>http://billionuploads.com/w9y4klklfuw0</sublink>
-<sublink>http://billionuploads.com/slm3efxmbtrr/Delivery.Man.2013.Cam.XviD-Booda225.avi</sublink>
-<sublink>http://movreel.com/1rcyxf2j7v3t.html</sublink>
-<sublink>http://www.putlocker.com/file/9A777DE8E94EA223</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/2l4qtlW6UDnfpD7Iy2XyZHedZ7S.jpg</thumbnail>
-</item>
   
 
 
-
-
-
-
-
-
-
-
 <item>
-<title>[COLOR lime]TODAY[/COLOR] Baggage Claim (2013) HD</title>
-<link>
-<sublink>http://hugefiles.net/7zpp2rutdf9a</sublink>
-<sublink>http://billionuploads.com/bwplk16jajsa</sublink>
-<sublink>http://180upload.com/62kr53q4g20h</sublink>
-<sublink>http://movreel.com/f0l519noabnz</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/vk6MnZgFdIJIxlOwDvdcPqd54lw.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime]------------------------------- Shows ------------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Shows ------------------------------------[/COLOR]</title>
 <link>nill</link>                                 
 <thumbnail>nill</thumbnail>
 </item>
 
 [COLOR lime]TODAY[/COLOR] 
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] House Of Lies S03E02 HD</title>
-<link>
-<sublink>http://megarelease.org/c40leaeqjqek</sublink>
-<sublink>http://epicshare.net/c40leaeqjqek</sublink>
-<sublink>http://lemuploads.com/c40leaeqjqek</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/247909-2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Following S02E01 HD [COLOR lime]Season Premiere[/COLOR]</title>
-<link>
-<sublink>http://hugefiles.net/2m3ah8z0v3m1</sublink>
-<sublink>http://billionuploads.com/sjxij61tvphi</sublink>
-<sublink>http://180upload.com/dhclgfeqvd8v</sublink>
-<sublink>http://movreel.com/4iqyqzjld2v5</sublink>  
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/258744-7.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] True Detective S01E02 HD</title>
-<link>
-<sublink>http://hugefiles.net/0r4bayniq2oc</sublink>
-<sublink>http://billionuploads.com/do97xeo3qm4r</sublink>
-<sublink>http://180upload.com/07d8olf3ufcw</sublink>
-<sublink>http://movreel.com/g40zqhtdzfnb</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/270633-4.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Shameless (US) S04E02 HD</title>
-<link>
-<sublink>http://hugefiles.net/ghbxms6ls5ib</sublink>
-<sublink>http://billionuploads.com/clusojr5s9hn</sublink>
-<sublink>http://180upload.com/mtnzalsxnl16</sublink>
-<sublink>http://movreel.com/eje9al2a7ibr</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/161511-6.jpg</thumbnail>
-</item>
 
 
 
@@ -249,50 +160,41 @@
 
 
 <item>
-<title>[COLOR lime]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
+<title>[COLOR red]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                        >                  
 <thumbnail>nill</thumbnail>
 </item>
 
 [COLOR blue]|| HD ||[/COLOR] 
 
-<item>
-<title>[COLOR blue]ComedyCentral || HD[/COLOR] Baggage Claim (2013)</title>
-<link>
-<sublink>http://hugefiles.net/7zpp2rutdf9a</sublink>
-<sublink>http://billionuploads.com/bwplk16jajsa</sublink>
-<sublink>http://180upload.com/62kr53q4g20h</sublink>
-<sublink>http://movreel.com/f0l519noabnz</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/vk6MnZgFdIJIxlOwDvdcPqd54lw.jpg</thumbnail>
-</item>
 
 
 #######################################################################################################################################
 
 <item>
-<title></title>
+<title>[COLOR red]------------------------------- Fixes ------------------------------------[/COLOR]</title>
 <link>nill</link>                              
 <thumbnail>nill</thumbnail>
 </item>
 
-[COLOR lime]------------------------------- Fixes ------------------------------------[/COLOR]
 
-[COLOR lime]------------------------------ Special -----------------------------------[/COLOR]
-                                           
+
+
+[COLOR red]------------------------------ Special -----------------------------------[/COLOR]
+
+<item>
+<title></title>
+<link>nill</link>                                                                                         
+<thumbnail>nill</thumbnail>
+</item>
 
 #######################################################################################################################################
 
 
-<item>
-<title>[COLOR red]-----------------------------------------------------------------------------[/COLOR]</title>
-<link>nill</link>                              
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
-</item>
 
 <item>
 <title></title>
-<link>http://megarelease.org/gsad1vibnlpi</link>
+<link>http://project-free-upload.com/879febrhwhbb</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
