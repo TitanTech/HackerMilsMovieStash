@@ -88,20 +88,7 @@
 [COLOR lime]TODAY[/COLOR] 
  [COLOR lime]THEATRE PREMIERE[/COLOR]
  [COLOR lime]PRE-RELEASE[/COLOR]
-  
-
-
-<item>
-<title>[COLOR red]------------------------------- Shows ------------------------------------[/COLOR]</title>
-<link>nill</link>                                 
-<thumbnail>nill</thumbnail>
-</item>
-
-[COLOR lime]TODAY[/COLOR] 
-
-
-
-
+ 
 
 
 <item>
@@ -140,7 +127,7 @@
 <thumbnail>nill</thumbnail>
 </item>
 
-[COLOR blue]|| HD ||[/COLOR] 
+[COLOR blue]|| HD[/COLOR] 
 
 
 
@@ -152,6 +139,8 @@
 <thumbnail>nill</thumbnail>
 </item>
 
+[COLOR blue]HD[/COLOR] 
+[COLOR blue]1080P[/COLOR] 
 
 
 
@@ -169,13 +158,17 @@
 
 <item>
 <title></title>
-<link>http://project-free-upload.com/879febrhwhbb</link>
+<link>http://megarelease.org/lt206qskhhx4</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
 <item>
 <title></title>
-<link>http://yify.tv/lords-london/</link>
+<link>
+<sublink>http://megarelease.org/lt206qskhhx4</sublink>
+<sublink>http://epicshare.net/lt206qskhhx4</sublink>
+<sublink>http://lemuploads.com/lt206qskhhx4</sublink> 
+</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
