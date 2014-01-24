@@ -68,7 +68,7 @@
 
 <dir>
 <name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
-<link>nill</link>                                
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
 
@@ -86,7 +86,7 @@
 
 <item>
 <title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
-<link>nill</link>                                                                          >                  
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
 
@@ -97,7 +97,7 @@
  
 <item>
 <title>[COLOR red]------------------------------- Shows ------------------------------------[/COLOR]</title>
-<link>nill</link>                                 
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Episodes.xml</link>                                 
 <thumbnail>nill</thumbnail>
 </item>
 
@@ -106,7 +106,7 @@
 
 <item>
 <title>[COLOR red]------------------------------- Fights -----------------------------------[/COLOR]</title>
-<link>nill</link>                                                                            >
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Fights.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
 
@@ -117,7 +117,7 @@
 
 <item>
 <title>[COLOR red]------------------------------ Comedy ----------------------------------[/COLOR]</title>
-<link>nill</link>                                                                          >                  
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20%20Week's%20Comedy.xml</link>                                                                          >                  
 <thumbnail>nill</thumbnail>
 </item>
 
@@ -127,7 +127,7 @@
 
 <item>
 <title>[COLOR red]--------------------------- Documentaries ------------------------------[/COLOR]</title>
-<link>nill</link>                                                                         >                  
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Documentaries.xml</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
 
