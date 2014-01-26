@@ -5,12 +5,15 @@
 
           --------------------------------------------------
 <notify>
-<new>2</new>
-<message1>If you are experiencing ALOT of buffering</message1>
-<message2>and even kickouts. Reset your modem, reboot your</message2>
-<message3>device and try again.</message3>
-<old>1</old>
+<new>1</new>
+<message1>WE ARE LIVE! GUYS! Visit MashupXbmc.Com NOW!</message1>
+<message2>Register and Get The Biggest MashUp Update To Date!</message2>
+<message3>v1.4.0 Before Our Official Release!</message3>
+<old>2</old>
 </notify>
+
+
+
 
 #####################################################################################################################
 
