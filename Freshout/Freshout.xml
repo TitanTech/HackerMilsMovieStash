@@ -117,13 +117,22 @@
 
 
 <item>
-<title>[COLOR red]------------------------------- Fights -----------------------------------[/COLOR]</title>
+<title>[COLOR lime]------------------------------- Fights -----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Fights.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
 
 [COLOR lime]TODAY[/COLOR] 
 
+
+<item>
+<title>[COLOR lime]TODAY[/COLOR] UFC on FOX 10: Henderson vs Thomson HD</title>
+<link>
+<sublink>http://megarelease.org/aag5zjt2bsba</sublink>
+<sublink>http://epicshare.net/aag5zjt2bsba</sublink>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/UFC_on_FOX_10.jpg</thumbnail>
+</item>
 
 
 
