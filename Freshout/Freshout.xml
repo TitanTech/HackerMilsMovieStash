@@ -91,7 +91,7 @@
 
 
 <item>
-<title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
+<title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
@@ -256,9 +256,13 @@
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/4ctv9pxKpwjTFevWQbvaqXkXbPF.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime]------------------------------ Special -----------------------------------[/COLOR]</title>
+<link>nill</link>                              
+<thumbnail>nill</thumbnail>
+</item>
 
 
-[COLOR lime]------------------------------ Special -----------------------------------[/COLOR]
 
 [COLOR blue]2 WEEK STICK[/COLOR] 
 
