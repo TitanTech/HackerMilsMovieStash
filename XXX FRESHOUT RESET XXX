@@ -68,7 +68,7 @@
 
 <dir>
 <name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
-<link>nill</link>                                
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
 
@@ -76,12 +76,14 @@
  [COLOR blue][/COLOR] 
  
 
+ 
+
 
 
 
 <item>
 <title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
-<link>nill</link>                                                                          >                  
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
 
@@ -89,19 +91,14 @@
  [COLOR lime]THEATRE PREMIERE[/COLOR]
  [COLOR lime]PRE-RELEASE[/COLOR]
  
- 
+
+
+
+
+
 <item>
 <title>[COLOR red]------------------------------- Shows ------------------------------------[/COLOR]</title>
-<link>nill</link>                                 
-<thumbnail>nill</thumbnail>
-</item>
-
-[COLOR lime]TODAY[/COLOR]  
-
-
-<item>
-<title>[COLOR red]------------------------------- Fights -----------------------------------[/COLOR]</title>
-<link>nill</link>                                                                            >
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Episodes.xml</link>                                 
 <thumbnail>nill</thumbnail>
 </item>
 
@@ -110,9 +107,25 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR red]------------------------------- Fights -----------------------------------[/COLOR]</title>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Fights.xml</link>
+<thumbnail>nill</thumbnail>
+</item>
+
+[COLOR lime]TODAY[/COLOR] 
+
+
+
+
+
+
 <item>
 <title>[COLOR red]------------------------------ Comedy ----------------------------------[/COLOR]</title>
-<link>nill</link>                                                                          >                  
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20%20Week's%20Comedy.xml</link>                                                                          >                  
 <thumbnail>nill</thumbnail>
 </item>
 
@@ -122,7 +135,7 @@
 
 <item>
 <title>[COLOR red]--------------------------- Documentaries ------------------------------[/COLOR]</title>
-<link>nill</link>                                                                         >                  
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Documentaries.xml</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
 
@@ -139,6 +152,10 @@
 
 
 
+
+
+
+
 #######################################################################################################################################
 
 <item>
@@ -151,13 +168,20 @@
 [COLOR blue]1080P[/COLOR] 
 
 
+<item>
+<title>[COLOR lime]------------------------------ Special -----------------------------------[/COLOR]</title>
+<link>nill</link>                              
+<thumbnail>nill</thumbnail>
+</item>
 
-[COLOR red]------------------------------ Special -----------------------------------[/COLOR]
+
+
+[COLOR blue]2 WEEK STICK[/COLOR] 
 
 <item>
-<title></title>
-<link>nill</link>                                                                                         
-<thumbnail>nill</thumbnail>
+<title>[COLOR blue]2 WEEK STICK[/COLOR] The 56th Annual Grammy Awards (2014) HD</title>
+<link>http://megarelease.org/eu3z652g9tge</link>
+<thumbnail>http://m5.paperblog.com/i/77/779072/grammy-awards-2014-favourites-playlist-L-O7AH2V.jpeg</thumbnail>
 </item>
 
 #######################################################################################################################################
@@ -166,7 +190,7 @@
 
 <item>
 <title></title>
-<link>http://megarelease.org/lt206qskhhx4</link>
+<link>http://yify.tv/frozen/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
