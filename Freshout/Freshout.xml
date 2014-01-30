@@ -82,7 +82,7 @@
 
 
 <item>
-<title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
+<title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
@@ -91,13 +91,23 @@
  [COLOR lime]THEATRE PREMIERE[/COLOR]
  [COLOR lime]PRE-RELEASE[/COLOR]
  
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Sunshine on Leith (2013) HD</title>
+<link>
+<sublink>http://yify.tv/sunshine-leith/</sublink>
+<sublink>http://megarelease.org/ac40kl47oseh</sublink>
+<sublink>http://epicshare.net/ac40kl47oseh</sublink>
+<sublink>http://180upload.com/yncshmgsjzqq</sublink>
+</link>
+<thumbnail>http://image.tmdb.org/t/p/original/86nReS5Ax4bqvsRM0fZIDraCpQi.jpg</thumbnail>
+</item>
 
 
 
 
 
 <item>
-<title>[COLOR lime]------------------------------- Shows ------------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Shows ------------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Episodes.xml</link>                                 
 <thumbnail>nill</thumbnail>
 </item>
@@ -105,17 +115,6 @@
 [COLOR lime]TODAY[/COLOR] 
 
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] American Horror Story S03E13 HD</title>
-<link>http://megarelease.org/m7xcqxb3e4pa</link> 
-<thumbnail>http://thetvdb.com/banners/posters/250487-15.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Tomorrow People S01E12 HD</title>
-<link>http://megarelease.org/e5nomdl9fmwt</link>
-<thumbnail>http://thetvdb.com/banners/posters/268591-2.jpg</thumbnail>
-</item>
 
 
 
@@ -170,7 +169,7 @@
 #######################################################################################################################################
 
 <item>
-<title>[COLOR lime]------------------------------- Fixes ------------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Fixes ------------------------------------[/COLOR]</title>
 <link>nill</link>                              
 <thumbnail>nill</thumbnail>
 </item>
@@ -178,11 +177,6 @@
 [COLOR blue]HD[/COLOR] 
 [COLOR blue]1080P[/COLOR] 
 
-<item>
-<title>The Ultimate Fighter Live Finale Maynard vs. Diaz 3 Nov. 3, 2013</title>
-<link>http://megarelease.org/n5lu9z24zqqf</link>
-<thumbnail>http://31.media.tumblr.com/78bf3127ff67f6d6b27247ce82b27eb2/tumblr_mwtvnstIMr1qic19lo1_500.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime]------------------------------ Special -----------------------------------[/COLOR]</title>
