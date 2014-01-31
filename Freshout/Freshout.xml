@@ -67,7 +67,7 @@
 
 
 <dir>
-<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
@@ -76,7 +76,11 @@
  [COLOR blue][/COLOR] 
  
 
- 
+<dir>
+<name>[COLOR lime]TODAY[/COLOR] T25 [COLOR blue]Workout[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Workouts/Directories/T25.xml</link>
+<thumbnail>http://destinationripped.com/wp-content/uploads/2013/03/Adult-Fitness-Focus-T25.jpg</thumbnail>
+</dir>
 
 
 
