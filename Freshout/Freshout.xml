@@ -67,7 +67,7 @@
 
 
 <dir>
-<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
@@ -76,11 +76,7 @@
  [COLOR blue][/COLOR] 
  
 
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] T25 [COLOR blue]Workout[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Workouts/Directories/T25.xml</link>
-<thumbnail>http://destinationripped.com/wp-content/uploads/2013/03/Adult-Fitness-Focus-T25.jpg</thumbnail>
-</dir>
+ 
 
 
 
@@ -94,33 +90,31 @@
 [COLOR lime]TODAY[/COLOR] 
  [COLOR lime]THEATRE PREMIERE[/COLOR]
  [COLOR lime]PRE-RELEASE[/COLOR]
- 
+
+
 <item>
-<title>[COLOR lime]TODAY[/COLOR] Thor: The Dark World (2013) HD</title>
+<title>[COLOR lime]TODAY[/COLOR] Ride Along (2014) HDR6</title>
 <link>
-<sublink>http://megarelease.org/puxdgdz3qdtt</sublink>
-<sublink>http://epicshare.net/puxdgdz3qdtt</sublink>
+<sublink>http://75.126.196.132/index.php?file=2897&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
+<sublink>http://megarelease.org/ip6d5gkdwifj</sublink>
+<sublink>http://epicshare.net/ip6d5gkdwifj</sublink>
 </link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/uZUHjpFiBuS5q4piT7l91nOhHK3.jpg</thumbnail>
-</item>
- 
+<thumbnail>http://image.tmdb.org/t/p/original/avWkbgz4vFbW2aqAT1kjc7e6kHy.jpg</thumbnail>
+</item> 
+
 <item>
-<title>[COLOR lime]TODAY[/COLOR] Sunshine on Leith (2013) HD</title>
+<title>[COLOR lime]TODAY[/COLOR] Homefront (2013) HD</title>
 <link>
-<sublink>http://yify.tv/sunshine-leith/</sublink>
-<sublink>http://megarelease.org/ac40kl47oseh</sublink>
-<sublink>http://epicshare.net/ac40kl47oseh</sublink>
-<sublink>http://180upload.com/yncshmgsjzqq</sublink>
+<sublink>http://megarelease.org/67uqtacv0uhp</sublink>
+<sublink>http://epicshare.net/67uqtacv0uhp</sublink>
 </link>
-<thumbnail>http://image.tmdb.org/t/p/original/86nReS5Ax4bqvsRM0fZIDraCpQi.jpg</thumbnail>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/6ymSuhG28tF2lnDxVTNibzlYzn0.jpg</thumbnail>
 </item>
 
 
 
-
-
 <item>
-<title>[COLOR red]------------------------------- Shows ------------------------------------[/COLOR]</title>
+<title>[COLOR lime]------------------------------- Shows ------------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Episodes.xml</link>                                 
 <thumbnail>nill</thumbnail>
 </item>
@@ -128,7 +122,17 @@
 [COLOR lime]TODAY[/COLOR] 
 
 
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Black Sails S01E02 HD</title>
+<link>http://megarelease.org/y62bz1un1a39</link>
+<thumbnail>http://thetvdb.com/banners/posters/262407-1.jpg</thumbnail>
+</item>
 
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Banshee S02E04 HD</title>
+<link>http://megarelease.org/0hmqwmoe7vhd</link> 
+<thumbnail>http://thetvdb.com/banners/posters/259765-1.jpg</thumbnail>
+</item>
 
 
 
@@ -157,16 +161,24 @@
 
 
 <item>
-<title>[COLOR red]--------------------------- Documentaries ------------------------------[/COLOR]</title>
+<title>[COLOR lime]--------------------------- Documentaries ------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Documentaries.xml</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
 
 [COLOR lime]TODAY[/COLOR] 
 
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Mitt (2014)</title>
+<link>
+<sublink>http://billionuploads.com/mytpnhz6acr0</sublink>
+<sublink>http://180upload.com/j1npqki7ubwn</sublink>
+</link>
+<thumbnail>http://image.tmdb.org/t/p/original/oCTS3A6koRyL3vUcDkEg5TS5MmP.jpg</thumbnail>
+</item>
 
 <item>
-<title>[COLOR lime]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
+<title>[COLOR red]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                        >                  
 <thumbnail>nill</thumbnail>
 </item>
@@ -174,56 +186,6 @@
 [COLOR blue]|| HD[/COLOR] 
 
 
-<item>
-<title>[COLOR blue]All-Timers || HD[/COLOR] Eternal Sunshine of the Spotless Mind (2004)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=928&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://hugefiles.net/qjj1cmynpx0r</sublink>
-<sublink>http://180upload.com/c5hyg3w5vwn2</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/gutwXkVChJkpIrclokNESybj0GC.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR blue]HD[/COLOR] The Day After Tomorrow (2004)</title>
-<link>
-<sublink>http://yify.tv/the-day-after-tomorrow/</sublink>
-<sublink>http://75.126.196.132/index.php?file=683&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/3602ITRFeDh6d3WvitRsgfthmN0.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] Lord of War (2005)</title>
-<link>
-<sublink>http://yify.tv/lord-of-war/</sublink>
-<sublink>http://75.126.196.132/index.php?file=304&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://hugefiles.net/glzxf4wpprmh</sublink>
-<sublink>http://180upload.com/w25vy8giv9e0</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/1jiV3XQW5ayrdw72WpIwxc0PO1R.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] Limitless (2011)</title>
-<link>
-<sublink>http://yify.tv/limitless/</sublink>
-<sublink>http://75.126.196.132/index.php?file=153&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://hugefiles.net/zwzfre8hapz6</sublink>
-<sublink>http://180upload.com/vqun6salimd7</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/bQfOFEeXxi51ijQrbQY9qvMtYhZ.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]All-Timers|| HD[/COLOR] The Sixth Sense (1999)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=863&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://180upload.com/3qq353d7mtfe</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/mPT3wHK3A2r5NihctjWo6IV1j4E.jpg</thumbnail>
-</item>
 
 
 
@@ -232,7 +194,7 @@
 #######################################################################################################################################
 
 <item>
-<title>[COLOR lime]------------------------------- Fixes ------------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Fixes ------------------------------------[/COLOR]</title>
 <link>nill</link>                              
 <thumbnail>nill</thumbnail>
 </item>
@@ -240,16 +202,6 @@
 [COLOR blue]HD[/COLOR] 
 [COLOR blue]1080P[/COLOR] 
 
-
-<item>
-<title>[COLOR blue]HD[/COLOR] 2012 (2009)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=631&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://hugefiles.net/mqpcwjuaeeko</sublink>
-<sublink>http://180upload.com/wdo54oqtqoz3</sublink>  
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/5tIW9nTuxxy8iXSvsKJqFDVZpyg.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime]------------------------------ Special -----------------------------------[/COLOR]</title>
@@ -272,17 +224,17 @@
 
 
 <item>
-<title>.</title>
-<link>http://megarelease.org/ip6d5gkdwifj</link>
+<title></title>
+<link>http://yify.tv/frozen/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
 <item>
 <title></title>
 <link>
-<sublink>http://megarelease.org/k98fq4bo1ub1</sublink>
-<sublink>http://megarelease.org/95mcqdgemgsu</sublink>
-<sublink>http://epicshare.net/k98fq4bo1ub1</sublink>
+<sublink>http://megarelease.org/lt206qskhhx4</sublink>
+<sublink>http://epicshare.net/lt206qskhhx4</sublink>
+<sublink>http://lemuploads.com/lt206qskhhx4</sublink> 
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
