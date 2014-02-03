@@ -82,7 +82,7 @@
 
 
 <item>
-<title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
@@ -90,26 +90,9 @@
 [COLOR lime]TODAY[/COLOR] 
  [COLOR lime]THEATRE PREMIERE[/COLOR]
  [COLOR lime]PRE-RELEASE[/COLOR]
+ 
 
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Ride Along (2014) HDR6</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=2897&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://megarelease.org/ip6d5gkdwifj</sublink>
-<sublink>http://epicshare.net/ip6d5gkdwifj</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/avWkbgz4vFbW2aqAT1kjc7e6kHy.jpg</thumbnail>
-</item> 
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Homefront (2013) HD</title>
-<link>
-<sublink>http://megarelease.org/67uqtacv0uhp</sublink>
-<sublink>http://epicshare.net/67uqtacv0uhp</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/6ymSuhG28tF2lnDxVTNibzlYzn0.jpg</thumbnail>
-</item>
 
 
 
@@ -123,43 +106,30 @@
 
 
 <item>
-<title>[COLOR lime]TODAY[/COLOR] Black Sails S01E02 HD</title>
-<link>http://megarelease.org/y62bz1un1a39</link>
-<thumbnail>http://thetvdb.com/banners/posters/262407-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Banshee S02E04 HD</title>
-<link>http://megarelease.org/0hmqwmoe7vhd</link> 
-<thumbnail>http://thetvdb.com/banners/posters/259765-1.jpg</thumbnail>
+<title>[COLOR lime]TODAY[/COLOR] Shameless (US) S04E04 HD</title>
+<link>
+<sublink>http://project-free-upload.com/01rgefav3aal</sublink>
+<sublink>http://megarelease.org/nsqv1fafrwnp</sublink> 
+</link> 
+<thumbnail>http://thetvdb.com/banners/posters/161511-6.jpg</thumbnail>
 </item>
 
 
 
 
+
 <item>
-<title>[COLOR lime]------------------------------- Fights -----------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Fights -----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Fights.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
 
 [COLOR lime]TODAY[/COLOR] 
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] UFC 169: Barao vs. Faber II HD</title>
-<link>
-<sublink>http://megarelease.org/8ta5cggdnlh4</sublink>
-<sublink>http://epicshare.net/8ta5cggdnlh4</sublink>
-<sublink>http://lemuploads.com/8ta5cggdnlh4</sublink>
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/18/UFC_169_2_poster.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] UFC 169: Barao vs. Faber II SD</title>
-<link>http://megarelease.org/d3d72vyo5l75</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/18/UFC_169_2_poster.jpg</thumbnail>
-</item>
+
+
+
 
 <item>
 <title>[COLOR red]------------------------------ Comedy ----------------------------------[/COLOR]</title>
@@ -172,21 +142,13 @@
 
 
 <item>
-<title>[COLOR lime]--------------------------- Documentaries ------------------------------[/COLOR]</title>
+<title>[COLOR red]--------------------------- Documentaries ------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Documentaries.xml</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
 
 [COLOR lime]TODAY[/COLOR] 
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Mitt (2014)</title>
-<link>
-<sublink>http://billionuploads.com/mytpnhz6acr0</sublink>
-<sublink>http://180upload.com/j1npqki7ubwn</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/oCTS3A6koRyL3vUcDkEg5TS5MmP.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR red]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
@@ -236,26 +198,19 @@
 
 <item>
 <title></title>
-<link>http://megarelease.org/zvwnzm54pmt0</link>
+<link>http://yify.tv/frozen/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
 <item>
-<title>...</title>
+<title></title>
 <link>
-<sublink>http://192.96.204.197:182/d/xr74ey5oeukopnepqa7vbleveu64pjfaeph3tynbcqj3l6kmyf6ghgdn/SxHxAxMx4%20(4).mkv</sublink>
-<sublink>http://project-free-upload.com/4vr5r6lwps9s</sublink>
-<sublink>http://project-free-upload.com/5fwqojlkikf0</sublink>
-<sublink>http://project-free-upload.com/twmcdlraqomn</sublink>
-<sublink>http://project-free-upload.com/01rgefav3aal</sublink>
+<sublink>http://megarelease.org/lt206qskhhx4</sublink>
+<sublink>http://epicshare.net/lt206qskhhx4</sublink>
+<sublink>http://lemuploads.com/lt206qskhhx4</sublink> 
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
-project 
-static
-mkv
-mp4
-avi
-divx
+
 
