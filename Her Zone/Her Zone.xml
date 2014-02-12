@@ -23,20 +23,7 @@
 </dir>
 
 <dir>
-<name>[COLOR pink]Movies[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Her%20Zone/Movies.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5549/11045753623_d61d7d6ea1_o.png</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR purple]Movies[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Her%20Zone/Movies.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5549/11045753623_d61d7d6ea1_o.png</thumbnail>
-</dir>
-
-
-<dir>
-<name>[COLOR aqua]Shows[/COLOR] [COLOR red](Coming Soon)[/COLOR]</name>
+<name>[COLOR pink]Shows[/COLOR] [COLOR red](Coming Soon)[/COLOR]</name>
 <link>nill</link>
 <thumbnail>http://farm8.staticflickr.com/7436/12471162563_b6dfce48df_o.png</thumbnail>
 </dir>
