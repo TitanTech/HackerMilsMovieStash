@@ -17,13 +17,13 @@
 
 
 <dir>
-<name>Movies</name>
-<link></link>
+<name>[COLOR aqua]Movies[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Her%20Zone/Movies.xml</link>
 <thumbnail>http://farm6.staticflickr.com/5549/11045753623_d61d7d6ea1_o.png</thumbnail>
 </dir>
 
 <dir>
-<name>Shows (Coming Soon)</name>
-<link></link>
-<thumbnail>http://farm6.staticflickr.com/5549/11045753623_d61d7d6ea1_o.png</thumbnail>
+<name>[COLOR aqua]Shows[/COLOR] [COLOR red](Coming Soon)[/COLOR]</name>
+<link>nill</link>
+<thumbnail>http://farm8.staticflickr.com/7436/12471162563_b6dfce48df_o.png</thumbnail>
 </dir>
