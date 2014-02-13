@@ -67,7 +67,7 @@
 
 
 <dir>
-<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
@@ -76,238 +76,52 @@
  [COLOR blue][/COLOR] 
  
 
- 
+<dir>
+<name>[COLOR lime]TODAY[/COLOR] The Twilight Story [COLOR blue]Story[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Twilight.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/w8MxptOcpq9nyyurDTPqAZbuaiJ.jpg</thumbnail>
+</dir>
 
 
 
 
 <item>
-<title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
+<thumbnail>nill</thumbnail>
 </item>
 
 [COLOR lime]TODAY[/COLOR] 
  [COLOR lime]THEATRE PREMIERE[/COLOR]
  [COLOR lime]PRE-RELEASE[/COLOR]
+ 
 
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Life of a King (2013) HD</title>
-<link>
-<sublink>http://yify.tv/life-king/</sublink>
-<sublink>http://billionuploads.com/dgb83z3te4j2</sublink>
-<sublink>http://hugefiles.net/bmp6j54lk4ao</sublink>
-<sublink>http://megarelease.org/jg5z7pvr8wop</sublink>
-<sublink>http://180upload.com/2u5ymfdvdm5n</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/4RNcO5hfhbJb5j7KubJIlFduq2d.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The LEGO Movie (2014) CAM [COLOR lime]THEATRE PREMIERE[/COLOR]</title>
-<link>
-<sublink>http://billionuploads.com/34r78byoe955</sublink>
-<sublink>http://www.putlocker.com/file/8656B97A1FFA8339</sublink>
-<sublink>http://sharesix.com/k8xd3ukatw66</sublink>
-<sublink>http://180upload.com/6ezcl9djrwzr</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/lykpfC5Kx7HIZvubjcooqJBR1t6.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] I, Frankenstein (2014) R6</title>
-<link>
-<sublink>http://billionuploads.com/vf0wesguyn3k/I.Frankenstein.2014.R6.HDCAM.AAC.x264-SSDD.mp4</sublink>
-<sublink>http://hugefiles.net/rpu1pjmue16e</sublink>
-<sublink>http://180upload.com/nryve0ykkwq0</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/wYivfYTgFjU9Xifqs2U38RY5dJs.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Art of the Steal (2014) HD [COLOR lime]PRE-RELEASE[/COLOR]</title>
-<link>
-<sublink>http://yify.tv/the-art-of-the-steal/</sublink>
-<sublink>http://billionuploads.com/ktvqlsekjnly</sublink>
-<sublink>http://hugefiles.net/r65anl668itn</sublink>
-<sublink>http://180upload.com/pu2s445mx44c</sublink>
-<sublink>http://movreel.com/cwnced518x11</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/d5rwz73cKCgaBF5aSYsTeJkCVQ5.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Devil's Due (2014) CAM [COLOR lime]THEATRE PREMIERE[/COLOR]</title>
-<link>
-<sublink>http://billionuploads.com/1aaie1pnbki3</sublink>
-<sublink>http://www.nowvideo.ch/video/f009e573565b2</sublink>
-<sublink>http://sharesix.com/2h9qifjzf8k9</sublink>
-<sublink>http://www.putlocker.com/file/8FEAD14428A5264B#</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/f5C2Tzvz8JZ6GMhINPQ3IcvCSav.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Gravity (2013) 1080P</title>
-<link>
-<sublink>http://billionuploads.com/vxjyz0qd4hbc</sublink>
-<sublink>http://hugefiles.net/slz83zu8sjvj</sublink>
-<sublink>http://180upload.com/ff1q9fcn9eih</sublink>
-<sublink>http://www.putlocker.com/file/CD46F2CE5B8177D4</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/2gPjLWIyrWlAn2DgKMOKTBnZYyO.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Gravity (2013) HD</title>
-<link>
-<sublink>http://billionuploads.com/m4v5slwusxqt</sublink>
-<sublink>http://hugefiles.net/03ixyoauizqg</sublink>
-<sublink>http://180upload.com/fx14n73ypwm5</sublink>
-<sublink>http://movreel.com/hv4wimw1y5ev</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/2gPjLWIyrWlAn2DgKMOKTBnZYyO.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Philomena (2013) DVDScr [COLOR lime]THEATRE PREMIERE[/COLOR]</title>
-<link>
-<sublink>http://megarelease.org/edbkru0w1onr</sublink>
-<sublink>http://billionuploads.com/4nghmthysd1u</sublink>
-<sublink>http://hugefiles.net/rtaojtnu99t0</sublink>
-<sublink>http://180upload.com/ykymoa5skutf</sublink>
-<sublink>http://movreel.com/l017ek8rzhpv</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/t0lmgwu12ryZvmNCcL6QKDsGYwG.jpg</thumbnail>
-</item>
 
 
 
 
 <item>
-<title>[COLOR lime]------------------------------- Shows ------------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Shows ------------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Episodes.xml</link>                                 
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
+<thumbnail>nill</thumbnail>
 </item>
 
 [COLOR lime]TODAY[/COLOR] 
 
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Following S02E04 HD</title>
-<link>
-<sublink>http://billionuploads.com/7i87qcjnopd6</sublink>
-<sublink>http://hugefiles.net/8e94kuly4jvi</sublink>
-<sublink>http://megarelease.org/rbefemztclm4</sublink>
-<sublink>http://180upload.com/a15o08su8r6y</sublink>
-<sublink>http://movreel.com/zr17grvm1nbi</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/258744-7.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Almost Human S01E10 HD</title>
-<link>
-<sublink>http://billionuploads.com/dcc3uemd29qj</sublink>
-<sublink>http://hugefiles.net/36z2etfpyy7r</sublink>
-<sublink>http://180upload.com/652npehphqmz</sublink>
-<sublink>http://megarelease.org/8nnwdx8f6kvo</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/267702-4.jpg</thumbnail>
-</item>
 
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] House Of Lies S03E06 HD [COLOR lime]1 Week Early![/COLOR]</title>
-<link>
-<sublink>http://billionuploads.com/mk8y2yofobas</sublink>
-<sublink>http://hugefiles.net/zlirz1d4a8xm</sublink>
-<sublink>http://180upload.com/fm8dnvyom95x</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/247909-2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Walking Dead S04E09 HD</title>
-<link>
-<sublink>http://billionuploads.com/x1gdyv1mlnr8</sublink>
-<sublink>http://hugefiles.net/35imim3k3zs9</sublink>
-<sublink>http://megarelease.org/2zdaaz2kz7ym</sublink>
-<sublink>http://180upload.com/soqikq54xha3</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/153021-12.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Game Of Thrones S04E00 HD (Foreshadowing)</title>
-<link>
-<sublink>http://billionuploads.com/iuo17z5uu5n8</sublink>
-<sublink>http://hugefiles.net/m7m1lsv8kh7b</sublink>
-<sublink>http://megarelease.org/yj3avo0rh5ih</sublink>
-<sublink>http://180upload.com/vraqhf8rkp49</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/121361-20.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] True Detective S01E04 HD</title>
-<link>
-<sublink>http://billionuploads.com/fxum4tv4n8xd</sublink>
-<sublink>http://hugefiles.net/vey8lm0t6z06</sublink>
-<sublink>http://megarelease.org/yh7oag8t7yv4</sublink>
-<sublink>http://180upload.com/2epi7br8j4qa</sublink> 
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/270633-4.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Shameless (US) S04E05 HD</title>
-<link>
-<sublink>http://billionuploads.com/qysri9ilhemd</sublink>
-<sublink>http://hugefiles.net/wic55fx4b5q3</sublink>
-<sublink>http://megarelease.org/j52on7vk23ba</sublink>
-<sublink>http://180upload.com/9dfyfgow212l</sublink> 
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/161511-6.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Black Sails S01E03 HD</title>
-<link>
-<sublink>http://BillionUploads.com/bpw46jm6hvwg</sublink>
-<sublink>http://megarelease.org/fm2o1mrrj6t9</sublink>
-<sublink>http://lemuploads.com/fm2o1mrrj6t9</sublink>
-<sublink>http://epicshare.net/fm2o1mrrj6t9</sublink>
-<sublink>http://180upload.nl/impur59c2atn/BxSx1_(3).divx.html</sublink> 
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/262407-1.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Banshee S02E05 HD</title>
-<link>
-<sublink>http://billionuploads.com/ccuqsp1qq237</sublink>
-<sublink>http://megarelease.org/zb8eo2ihr1oe</sublink>
-<sublink>http://hugefiles.net/n2nt3fg480nc</sublink>
-<sublink>http://180upload.com/p0g11zrjmrfc</sublink>
-<sublink>http://movreel.com/x2n347o8cc4u</sublink> 
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/259765-1.jpg</thumbnail>
-</item> 
 
 
 
 <item>
 <title>[COLOR red]------------------------------- Fights -----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Fights.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
+<thumbnail>nill</thumbnail>
 </item>
 
 [COLOR lime]TODAY[/COLOR] 
+
 
 
 
@@ -316,116 +130,103 @@
 <item>
 <title>[COLOR red]------------------------------ Comedy ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20%20Week's%20Comedy.xml</link>                                                                          >                  
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
+<thumbnail>nill</thumbnail>
 </item>
 
 [COLOR lime]TODAY[/COLOR] 
 
 
 
-
-
-
-
 <item>
-<title>[COLOR lime]-------------------------------- Kids ------------------------------------[/COLOR]</title>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Episodes.xml</link>                                 
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
-</item>
-
-[COLOR lime]TODAY[/COLOR] 
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Tom and Jerry's Giant Adventure (2013)</title>
-<link>
-<sublink>http://billionuploads.com/2ujbt468a3bm</sublink>
-<sublink>http://hugefiles.net/pzun2l5a6jx5</sublink>
-<sublink>http://www.putlocker.com/file/F440C0EC67A388FD</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/AtF9rV5sXjvbjwiizLBCukPwYao.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]--------------------------- Documentaries ------------------------------[/COLOR]</title>
+<title>[COLOR red]--------------------------- Documentaries ------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Documentaries.xml</link>                                                                         >                  
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
+<thumbnail>nill</thumbnail>
 </item>
 
 [COLOR lime]TODAY[/COLOR] 
-
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Jay-Z: Made in America (2013)</title>
-<link>
-<sublink>http://BillionUploads.com/v2yfigh9xrs0</sublink>
-<sublink>http://180upload.com/qye98haaojn6</sublink>
-<sublink>http://megarelease.org/5zl2sjwdn1sg</sublink>
-<sublink>http://lemuploads.com/5zl2sjwdn1sg</sublink>
-<sublink>http://epicshare.net/5zl2sjwdn1sg</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/adtkEOBbCMi3dAxmvXvrNitLD42.jpg</thumbnail>
-</item>
 
 
 <item>
 <title>[COLOR lime]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                        >                  
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
+<thumbnail>nill</thumbnail>
 </item>
 
 [COLOR blue]|| HD[/COLOR] 
 
-
 <item>
-<title>[COLOR blue]Comedy Central || All-Timers || HD[/COLOR] As Good as It Gets (1997)</title>
+<title>[COLOR blue]Stories|| HD[/COLOR] The Twilight Saga: Breaking Dawn - Part 2 (2012) >>></title>
 <link>
-<sublink>http://75.126.196.132/index.php?file=752&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://hugefiles.net/dgvect73ooqy</sublink>
-<sublink>http://180upload.com/zzx23in0vd9g</sublink>
-<sublink>http://movreel.com/wayynne5uxx8</sublink>
+<sublink>http://BillionUploads.com/achcs3ow2xsc</sublink>
+<sublink>http://hugefiles.net/iexs9rcwtkdz/TxLxBDx5.divx</sublink>
+<sublink>http://megarelease.org/exwk1ddoeeoz</sublink>
+<sublink>http://lemuploads.com/exwk1ddoeeoz</sublink>
+<sublink>http://epicshare.net/exwk1ddoeeoz</sublink>
+<sublink>http://180upload.com/3g05nr5p6ux4</sublink>
+<sublink>http://yify.tv/the-twilight-saga-breaking-dawn-part-2/</sublink>
+<sublink>http://75.126.196.132/index.php?file=904&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
 </link>
-<thumbnail>http://image.tmdb.org/t/p/original/q2645aW8vgg1g7RL5lil6K93yaA.jpg</thumbnail>
+<thumbnail>http://image.tmdb.org/t/p/original/w8MxptOcpq9nyyurDTPqAZbuaiJ.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue]Comedy Central || All-Timers || HD[/COLOR] There's Something About Mary (1998)</title>
+<title>[COLOR blue]Stories|| HD[/COLOR] The Twilight Saga: Breaking Dawn - Part 1 (2011)</title>
 <link>
-<sublink>http://75.126.196.132/index.php?file=1103&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/btjr71cuk1xk</sublink>
-<sublink>http://180upload.com/je8l2f8kn84l</sublink>
-<sublink>http://movreel.com/evdtb1hi5pu2</sublink>
+<sublink>http://BillionUploads.com/540bxvbpckzf</sublink>
+<sublink>http://hugefiles.net/wkkz9bmbyrxv/TxLxBDx4.divx</sublink>
+<sublink>http://megarelease.org/ij0y1ol7lhx1</sublink>
+<sublink>http://lemuploads.com/ij0y1ol7lhx1</sublink>
+<sublink>http://epicshare.net/ij0y1ol7lhx1</sublink>
+<sublink>http://180upload.com/b4lqtyfvnpa1</sublink>
+<sublink>http://yify.tv/the-twilight-saga-breaking-dawn-part-1/</sublink>
+<sublink>http://75.126.196.132/index.php?file=69&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
 </link>
-<thumbnail>http://image.tmdb.org/t/p/original/wXgkEGjxFak5dJ1mBFSuAXOz5OY.jpg</thumbnail>
+<thumbnail>http://image.tmdb.org/t/p/original/w8MxptOcpq9nyyurDTPqAZbuaiJ.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue]All-Timers|| HD[/COLOR] Black Hawk Down (2001)</title>
+<title>[COLOR blue]Stories|| HD[/COLOR] The Twilight Saga: Eclipse (2010)</title>	
 <link>
-<sublink>http://75.126.196.132/index.php?file=1109&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://megarelease.org/bietvgu24zlh</sublink>
-<sublink>http://lemuploads.com/bietvgu24zlh</sublink>
-<sublink>http://billionuploads.com/daoi67mjrzhk</sublink>
-<sublink>http://hugefiles.net/y8orc6byubgg</sublink>
-<sublink>http://180upload.com/vl38vf5c3h8k</sublink>
-<sublink>http://movreel.com/z7gjfubvtnsh</sublink>
-<sublink></sublink>
+<sublink>http://BillionUploads.com/y6hwxreayotk</sublink>
+<sublink>http://hugefiles.net/7kd4ke7by9od/TxLxEx3.divx</sublink>
+<sublink>http://megarelease.org/sumq032dr1u1</sublink>
+<sublink>http://lemuploads.com/sumq032dr1u1</sublink>
+<sublink>http://epicshare.net/sumq032dr1u1</sublink>
+<sublink>http://180upload.com/mkfmphybd1as</sublink>
+<sublink>http://yify.tv/the-twilight-saga-eclipse/</sublink>
+<sublink>http://75.126.196.132/index.php?file=68&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
 </link>
-<thumbnail>http://image.tmdb.org/t/p/original/ozXsZEInLagYY8nnklycyQX6rXA.jpg</thumbnail>
+<thumbnail>http://image.tmdb.org/t/p/original/w8MxptOcpq9nyyurDTPqAZbuaiJ.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue]Comedy Central || HD[/COLOR] Fletch (1985)</title>
+<title>[COLOR blue]Stories|| HD[/COLOR] The Twilight Saga: New Moon (2009)</title>
 <link>
-<sublink>http://75.126.196.132/index.php?file=1876&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://megarelease.org/ljocviyfhlxs</sublink>
-<sublink>http://lemuploads.com/ljocviyfhlxs</sublink>
-<sublink>http://billionuploads.com/renv3612942x</sublink>
-<sublink>http://hugefiles.net/y29ap03au9st</sublink>
-<sublink>http://180upload.com/lpqvu5ofwp9t</sublink>
-<sublink>http://epicshare.net/ljocviyfhlxs</sublink>
-<sublink></sublink>
+<sublink>http://BillionUploads.com/fee6o262pc41</sublink>
+<sublink>http://hugefiles.net/ri85lzya27vb/TxLxNMx2.divx</sublink>
+<sublink>http://megarelease.org/e8phezj2r8zi</sublink>
+<sublink>http://lemuploads.com/e8phezj2r8zi</sublink>
+<sublink>http://epicshare.net/e8phezj2r8zi</sublink>
+<sublink>http://180upload.com/5nfy6p2eb3dl</sublink>
+<sublink>http://yify.tv/the-twilight-saga-new-moon/</sublink>
+<sublink>http://75.126.196.132/index.php?file=67&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
 </link>
-<thumbnail>http://image.tmdb.org/t/p/original/t8VjThRC6uKvjR5jVlhj5bBBUUy.jpg</thumbnail>
+<thumbnail>http://image.tmdb.org/t/p/original/w8MxptOcpq9nyyurDTPqAZbuaiJ.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Stories|| HD[/COLOR] Twilight (2008)</title>
+<link>
+<sublink>http://BillionUploads.com/mt660rb2nlll</sublink>
+<sublink>http://hugefiles.net/lvsbrpj9zquj/TxLx1.divx</sublink>
+<sublink>http://megarelease.org/82rworxd91ex</sublink>
+<sublink>http://lemuploads.com/82rworxd91ex</sublink>
+<sublink>http://epicshare.net/82rworxd91ex</sublink>
+<sublink>http://180upload.com/mk3v6s86sn3z</sublink>
+<sublink>http://yify.tv/twilight/</sublink>
+<sublink>http://75.126.196.132/index.php?file=66&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
+</link>
+<thumbnail>http://image.tmdb.org/t/p/original/w8MxptOcpq9nyyurDTPqAZbuaiJ.jpg</thumbnail>
 </item>
 
 
@@ -435,7 +236,7 @@
 #######################################################################################################################################
 
 <item>
-<title>[COLOR lime]------------------------------- Fixes ------------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Fixes ------------------------------------[/COLOR]</title>
 <link>nill</link>                              
 <thumbnail>nill</thumbnail>
 </item>
@@ -443,82 +244,6 @@
 [COLOR blue]HD[/COLOR] 
 [COLOR blue]1080P[/COLOR] 
 
-
-<item>
-<title>[COLOR blue]Documentary[/COLOR] We Are Legion (2012)</title>
-<link>
-<sublink>http://movreel.com/k71sl030gowj</sublink>
-<sublink>http://180upload.com/qdeg6as7wgh9</sublink>
-<sublink>http://www.putlocker.com/file/B49DF24A4845D0AC</sublink>
-<sublink>http://www.sockshare.com/file/47FEB0F240676A21</sublink>
-</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMzU4NjU1NDQwMF5BMl5BanBnXkFtZTcwNDg4NjI0OA@@._V1._SX640_SY948_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] Magic Magic (2013)</title>
-<link>http://75.126.196.132/index.php?file=1921&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</link>
-<thumbnail>http://welcomefrnds.com/wp-content/uploads/2013/06/magic-magic-movie-2013-poster-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] Saving Private Ryan (1998)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=268&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://megarelease.org/qowleo6rd638</sublink>
-<sublink>http://billionuploads.com/ks51fpv60oaq</sublink>
-<sublink>http://hugefiles.net/e1knbmwvxq0q</sublink>
-<sublink>http://epicshare.net/qowleo6rd638</sublink>
-<sublink>http://180upload.com/16ndjlkbyzkn</sublink>
-<sublink>http://movreel.com/zmf0lyiwhns2</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/gc7IN6bWNaWXv4vI6cxSmeB7PeO.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] You're Next (2013)</title>
-<link>
-<sublink>http://yify.tv/youre-next/</sublink>
-<sublink>http://75.126.196.132/index.php?file=2755&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://hugefiles.net/rc5cv1l6c4no</sublink>
-<sublink>http://180upload.com/ythc6xtvviae</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/iP4NC9Ycj8yKh4ktxjJLWZmBKZK.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]CAM[/COLOR] The Legend of Hercules (2014)</title>
-<link>
-<sublink>http://BillionUploads.com/7470ehga81y1</sublink>
-<sublink>http://megarelease.org/u9pmvahn74sn</sublink>
-<sublink>http://lemuploads.com/u9pmvahn74sn</sublink>
-<sublink>http://epicshare.net/u9pmvahn74sn</sublink>
-<sublink>http://180upload.com/dga7vh32of54</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/lAW2TKVI1W2SksalbEJgCJS7nWq.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]1080P[/COLOR] Oblivion (2013)</title>
-<link>
-<sublink>http://hugefiles.net/vdijhh5xk2yu</sublink>
-<sublink>http://180upload.com/y1470kamij7a</sublink>  
-</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1._SX640_SY1013_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] All Is Lost (2013)</title>
-<link>
-<sublink>http://yify.tv/all-is-lost/</sublink>
-<sublink>http://75.126.196.132/index.php?file=2864&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/h3xl3uasch86</sublink>
-<sublink>http://hugefiles.net/e623rppkwosq</sublink>
-<sublink>http://www.putlocker.com/file/558C5AEBEA9065BD</sublink>
-<sublink>http://180upload.com/zppv4lq8xs9h</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/wqLXT6Q8BcDWOHdPi0key8IMEmY.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime]------------------------------ Special -----------------------------------[/COLOR]</title>
@@ -529,7 +254,6 @@
 
 
 [COLOR blue]2 WEEK STICK[/COLOR] 
-
 
 <item>
 <title>[COLOR blue]2 WEEK STICK[/COLOR] Gravity (2013) 3D</title>
