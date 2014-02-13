@@ -92,7 +92,7 @@
 
 
 <item>
-<title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
+<title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
@@ -101,7 +101,15 @@
  [COLOR lime]THEATRE PREMIERE[/COLOR]
  [COLOR lime]PRE-RELEASE[/COLOR]
  
-
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Someone Marry Barry (2014) HD [COLOR lime]THEATRE PREMIERE[/COLOR]</title>
+<link>
+<sublink>http://billionuploads.com/ehny87wemh6h</sublink>
+<sublink>http://hugefiles.net/68kd2t66gu1b</sublink>
+<sublink>http://180upload.com/cktvw6g8o5dt</sublink>
+</link>
+<thumbnail>http://image.tmdb.org/t/p/original/7qLHSBvML6pzXTIFUglG7awJ8Vx.jpg</thumbnail>
+</item>
 
 
 
@@ -134,13 +142,23 @@
 
 
 <item>
-<title>[COLOR red]------------------------------ Comedy ----------------------------------[/COLOR]</title>
+<title>[COLOR lime]------------------------------ Comedy ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20%20Week's%20Comedy.xml</link>                                                                          >                  
 <thumbnail>nill</thumbnail>
 </item>
 
 [COLOR lime]TODAY[/COLOR] 
 
+
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Someone Marry Barry (2014) HD</title>
+<link>
+<sublink>http://billionuploads.com/ehny87wemh6h</sublink>
+<sublink>http://hugefiles.net/68kd2t66gu1b</sublink>
+<sublink>http://180upload.com/cktvw6g8o5dt</sublink>
+</link>
+<thumbnail>http://image.tmdb.org/t/p/original/7qLHSBvML6pzXTIFUglG7awJ8Vx.jpg</thumbnail>
+</item>
 
 
 <item>
