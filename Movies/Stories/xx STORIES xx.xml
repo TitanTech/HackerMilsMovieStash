@@ -313,6 +313,12 @@
 </dir>
 
 <dir>
+<name>The Twilight Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Twilight.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/w8MxptOcpq9nyyurDTPqAZbuaiJ.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>The X-men Story</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/X-men.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/31rqs6ZxFdi5nWZZaFPIr17q8jt.jpg</thumbnail>
