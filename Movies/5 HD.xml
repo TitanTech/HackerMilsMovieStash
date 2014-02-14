@@ -1427,11 +1427,6 @@
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/3cucyEuLOOjjJ8nem5facsTEy68.jpg</thumbnail>
 </item>
 
-<item>
-<title>Epic (2013)</title>
-<link>http://www.putlocker.com/file/B70A2A724BBADE01</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTgyNDYwNzE5NV5BMl5BanBnXkFtZTcwMzUyODM5OA@@._V1._SX640_SY944_.jpg</thumbnail>
-</item>
 
 <item>
 <title>The Hangover Part III (2013) >>></title>
@@ -1469,7 +1464,13 @@
 
 <item>
 <title>Black Rock (2013)</title>
-<link>http://75.126.196.132/index.php?file=1823&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</link>
+<link>
+<sublink>http://75.126.196.132/index.php?file=1823&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
+<sublink>http://yify.tv/black-rock/</sublink>
+<sublink>http://billionuploads.com/y7o3wa7h1ch0</sublink>
+<sublink>http://hugefiles.net/zh331gl7tdx4</sublink>
+<sublink>http://180upload.com/ut15f1eslyzp</sublink>  
+</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjM0NjExNDkwOF5BMl5BanBnXkFtZTcwMDQ3ODQxOQ@@._V1._SX640_SY948_.jpg</thumbnail>
 </item>
 
