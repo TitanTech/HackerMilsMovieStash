@@ -55,6 +55,12 @@
 </dir>
 
 <dir>
+<name>The Bridget Jones Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Bridget%20Jones.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/uUYWnkgtebGDQ63NaLZfGPON95P.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>The Dark Knight Story</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Dark%20Knight.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/bqS2lMgGkuodIXtDILFWTSWDDpa.jpg</thumbnail>
