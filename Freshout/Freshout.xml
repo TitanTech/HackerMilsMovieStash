@@ -8,11 +8,7 @@
 <thumbnail></thumbnail>
 </info>
 
-<popup>
-<name>[COLOR aqua]TO JOIN THE VIP CLUB[/COLOR] [COLOR red]CLICK HERE[/COLOR]</name>
-<popImage>https://raw.github.com/HackerMil/Artwork/master/VIP-CLUB-POP.png</popImage>
-<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
-</popup>
+
 
 #######################################################################################################################################
 
@@ -60,12 +56,6 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua]This Week's[/COLOR] [COLOR lime]Fillers[/COLOR] [COLOR red]*New*[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Fillers.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>[COLOR aqua]Latest Episodes[/COLOR]  [COLOR red]ON AIR[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Latest%20Shows.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/latest.png</thumbnail>
@@ -77,38 +67,16 @@
 
 
 <dir>
-<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
 
 [COLOR lime]TODAY[/COLOR] 
  [COLOR blue][/COLOR] 
+ 
 
-
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] The Pete Holmes Show (2013) [COLOR blue]ComedyCentral/Show[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Pete%20Holmes%20Show%20Dir.xml</link>
-<thumbnail>http://farm8.staticflickr.com/7424/12555299303_7f80156e2c_o.jpg</thumbnail>
-</dir> 
-
-<dir>
-<name>[COLOR lime]NEW SECTION!![/COLOR] Her Zone [COLOR blue]All For The Ladies[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Her%20Zone/Her%20Zone.xml</link>
-<thumbnail>http://farm4.staticflickr.com/3677/11045694163_15928eb75c_o.png</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] The Twilight Story [COLOR blue]Story[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Twilight.xml</link>
-<thumbnail>http://image.tmdb.org/t/p/original/w8MxptOcpq9nyyurDTPqAZbuaiJ.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] DDP Yoga (Fixed) [COLOR blue]Workout[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Workouts/Directories/DDp%20Yoga.xml</link>
-<thumbnail>http://msangnc.files.wordpress.com/2012/05/diamond_dallas_page-yoga.jpg</thumbnail>
-</dir>
+ 
 
 
 
@@ -122,8 +90,7 @@
 [COLOR lime]TODAY[/COLOR] 
  [COLOR lime]THEATRE PREMIERE[/COLOR]
  [COLOR lime]PRE-RELEASE[/COLOR]
-
-
+ 
 <item>
 <title>[COLOR lime]TODAY[/COLOR] The Monuments Men (2014) CAM [COLOR lime]THEATRE PREMIERE[/COLOR]</title>
 <link>
@@ -150,35 +117,11 @@
 <thumbnail>http://image.tmdb.org/t/p/original/hFQcC5eSSHqJfk70RdgrMMxGuYt.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Romeo and Juliet (2013) HD</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=2890&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/romeo-and-juliet-2013/</sublink>
-<sublink>http://billionuploads.com/p38jdc1wjqs4</sublink>
-<sublink>http://megarelease.org/3skwzq45mx5k</sublink>
-<sublink>http://hugefiles.net/1mxsoiqvsjnm</sublink>
-<sublink>http://180upload.com/3o8c5xrcz8q4</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/pb0kUixR9IeyrknnHst2yKT3GkQ.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Someone Marry Barry (2014) HD [COLOR lime]THEATRE PREMIERE[/COLOR]</title>
-<link>
-<sublink>http://billionuploads.com/ehny87wemh6h</sublink>
-<sublink>http://hugefiles.net/68kd2t66gu1b</sublink>
-<sublink>http://180upload.com/cktvw6g8o5dt</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/7qLHSBvML6pzXTIFUglG7awJ8Vx.jpg</thumbnail>
-</item>
-
 
 
 
 <item>
-<title>[COLOR lime]------------------------------- Shows ------------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Shows ------------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Episodes.xml</link>                                 
 <thumbnail>nill</thumbnail>
 </item>
@@ -186,29 +129,7 @@
 [COLOR lime]TODAY[/COLOR] 
 
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Black Sails S01E04 HD</title>
-<link>
-<sublink>http://megarelease.org/zqtoygifqgvj</sublink>
-<sublink>http://billionuploads.com/h09nf7799uee</sublink>
-<sublink>http://hugefiles.net/8yvg3zct0fxp</sublink>
-<sublink>http://180upload.com/zqhloma9rhul</sublink>
-<sublink>http://movreel.com/fl1zpntsvyb9</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/262407-1.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Banshee S02E06 HD</title>
-<link>
-<sublink>http://billionuploads.com/s5l89xu6l7gf</sublink>
-<sublink>http://megarelease.org/fb0d966s9h3z</sublink>
-<sublink>http://hugefiles.net/kgfytqcctvsv</sublink>
-<sublink>http://180upload.com/pspd9566kmka</sublink>
-<sublink>http://movreel.com/mvsx9vewtrxz</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/259765-1.jpg</thumbnail>
-</item> 
 
 
 
@@ -236,23 +157,13 @@
 
 
 <item>
-<title>[COLOR lime]------------------------------ Comedy ----------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------ Comedy ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20%20Week's%20Comedy.xml</link>                                                                          >                  
 <thumbnail>nill</thumbnail>
 </item>
 
 [COLOR lime]TODAY[/COLOR] 
 
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Someone Marry Barry (2014) HD</title>
-<link>
-<sublink>http://billionuploads.com/ehny87wemh6h</sublink>
-<sublink>http://hugefiles.net/68kd2t66gu1b</sublink>
-<sublink>http://180upload.com/cktvw6g8o5dt</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/7qLHSBvML6pzXTIFUglG7awJ8Vx.jpg</thumbnail>
-</item>
 
 
 <item>
@@ -265,7 +176,7 @@
 
 
 <item>
-<title>[COLOR lime]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
+<title>[COLOR red]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                        >                  
 <thumbnail>nill</thumbnail>
 </item>
@@ -273,177 +184,6 @@
 [COLOR blue]|| HD[/COLOR] 
 
 
-<item>
-<title>[COLOR blue]Comedy Central/Shows[/COLOR] The Pete Holmes Show: Kumail Nanjiani</title>
-<link>
-<sublink>http://megarelease.org/f1oxuvvt6ijb</sublink>
-<sublink>http://180upload.com/5gx8yhu9ea5h </sublink>
-</link>
-<thumbnail>http://farm8.staticflickr.com/7424/12555299303_7f80156e2c_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Comedy Central/Shows[/COLOR] The Pete Holmes Show: Allison Williams</title>
-<link>
-<sublink>http://megarelease.org/ktnw6z4wdbr6</sublink>
-<sublink>http://180upload.com/15eal3yzgpcw </sublink>
-</link>
-<thumbnail>http://farm8.staticflickr.com/7424/12555299303_7f80156e2c_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Comedy Central/Shows[/COLOR] The Pete Holmes Show: James Harden</title>
-<link>
-<sublink>http://megarelease.org/1tyjkfahbl6l</sublink>
-<sublink>http://180upload.com/1xdieyfcjhar </sublink>
-</link>
-<thumbnail>http://farm8.staticflickr.com/7424/12555299303_7f80156e2c_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Comedy Central/Shows[/COLOR] The Pete Holmes Show: Chelsea Peretti</title>
-<link>
-<sublink>http://megarelease.org/bie7ff73r8ki</sublink>
-<sublink>http://180upload.com/jvy0jbt3odmt</sublink>
-</link>
-<thumbnail>http://farm8.staticflickr.com/7424/12555299303_7f80156e2c_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Comedy Central/Shows[/COLOR] The Pete Holmes Show: Ike Barinholtz</title>
-<link>
-<sublink>http://megarelease.org/mvqgh42ctp3k</sublink>
-<sublink>http://180upload.com/0uibf4003ab4</sublink>
-</link>
-<thumbnail>http://farm8.staticflickr.com/7424/12555299303_7f80156e2c_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Comedy Central/Shows[/COLOR] The Pete Holmes Show: Eric André</title>
-<link>
-<sublink>http://megarelease.org/hxcwvj7wvuor</sublink>
-<sublink>http://180upload.com/z8vvlnpyji07</sublink>
-</link>
-<thumbnail>http://farm8.staticflickr.com/7424/12555299303_7f80156e2c_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Comedy Central/Shows[/COLOR] The Pete Holmes Show: Doug Benson</title>
-<link>
-<sublink>http://megarelease.org/pfbrh9qx6l89</sublink>
-<sublink>http://180upload.com/79j01k6jsc76 </sublink>
-</link>
-<thumbnail>http://farm8.staticflickr.com/7424/12555299303_7f80156e2c_o.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Comedy Central || HD[/COLOR] The Wedding Date (2005)</title>
-<link>
-<sublink>http://BillionUploads.com/0f2xqtf0w1gu</sublink>
-<sublink>http://megarelease.org/9z3l2w82y7k8</sublink>
-<sublink>http://lemuploads.com/9z3l2w82y7k8</sublink>
-<sublink>http://hugefiles.net/3ombpjxenhtp</sublink>
-<sublink>http://epicshare.net/9z3l2w82y7k8</sublink>
-<sublink>http://180upload.com/uml7ahr8osum</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/x7llBW3UFV9y9Q3qE7XTig0OwqN.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]All-Timers || Comedy Central || HD[/COLOR] Mo' Money (1992)</title>
-<link>
-<sublink>http://yify.tv/mo-money/</sublink>
-<sublink>http://sharesix.com/my1fn0iiotme</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/6gSsuEJfZx7p0iu3Ymiyx0vo1EF.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]All-Timers || HD[/COLOR] Requiem for a Dream (2000)</title>
-<link>
-<sublink>http://billionuploads.com/xl5vuldis42s</sublink>
-<sublink>http://hugefiles.net/iwrcp35oy48n</sublink>
-<sublink>http://180upload.com/6mfpediz6100</sublink>
-<sublink>http://yify.tv/requiem-for-a-dream/</sublink>
-<sublink>http://75.126.196.132/index.php?file=43&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/tuNnA8grpvvAex83mHme9zGm5BH.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Stories|| HD[/COLOR] The Twilight Saga: Breaking Dawn - Part 2 (2012)</title>
-<link>
-<sublink>http://BillionUploads.com/achcs3ow2xsc</sublink>
-<sublink>http://hugefiles.net/iexs9rcwtkdz/TxLxBDx5.divx</sublink>
-<sublink>http://megarelease.org/exwk1ddoeeoz</sublink>
-<sublink>http://lemuploads.com/exwk1ddoeeoz</sublink>
-<sublink>http://epicshare.net/exwk1ddoeeoz</sublink>
-<sublink>http://180upload.com/3g05nr5p6ux4</sublink>
-<sublink>http://yify.tv/the-twilight-saga-breaking-dawn-part-2/</sublink>
-<sublink>http://75.126.196.132/index.php?file=904&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/w8MxptOcpq9nyyurDTPqAZbuaiJ.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Stories|| HD[/COLOR] The Twilight Saga: Breaking Dawn - Part 1 (2011)</title>
-<link>
-<sublink>http://BillionUploads.com/540bxvbpckzf</sublink>
-<sublink>http://hugefiles.net/wkkz9bmbyrxv/TxLxBDx4.divx</sublink>
-<sublink>http://megarelease.org/ij0y1ol7lhx1</sublink>
-<sublink>http://lemuploads.com/ij0y1ol7lhx1</sublink>
-<sublink>http://epicshare.net/ij0y1ol7lhx1</sublink>
-<sublink>http://180upload.com/b4lqtyfvnpa1</sublink>
-<sublink>http://yify.tv/the-twilight-saga-breaking-dawn-part-1/</sublink>
-<sublink>http://75.126.196.132/index.php?file=69&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/w8MxptOcpq9nyyurDTPqAZbuaiJ.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Stories|| HD[/COLOR] The Twilight Saga: Eclipse (2010)</title>	
-<link>
-<sublink>http://BillionUploads.com/y6hwxreayotk</sublink>
-<sublink>http://hugefiles.net/7kd4ke7by9od/TxLxEx3.divx</sublink>
-<sublink>http://megarelease.org/sumq032dr1u1</sublink>
-<sublink>http://lemuploads.com/sumq032dr1u1</sublink>
-<sublink>http://epicshare.net/sumq032dr1u1</sublink>
-<sublink>http://180upload.com/mkfmphybd1as</sublink>
-<sublink>http://yify.tv/the-twilight-saga-eclipse/</sublink>
-<sublink>http://75.126.196.132/index.php?file=68&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/w8MxptOcpq9nyyurDTPqAZbuaiJ.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Stories|| HD[/COLOR] The Twilight Saga: New Moon (2009)</title>
-<link>
-<sublink>http://BillionUploads.com/fee6o262pc41</sublink>
-<sublink>http://hugefiles.net/ri85lzya27vb/TxLxNMx2.divx</sublink>
-<sublink>http://megarelease.org/e8phezj2r8zi</sublink>
-<sublink>http://lemuploads.com/e8phezj2r8zi</sublink>
-<sublink>http://epicshare.net/e8phezj2r8zi</sublink>
-<sublink>http://180upload.com/5nfy6p2eb3dl</sublink>
-<sublink>http://yify.tv/the-twilight-saga-new-moon/</sublink>
-<sublink>http://75.126.196.132/index.php?file=67&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/w8MxptOcpq9nyyurDTPqAZbuaiJ.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Stories|| HD[/COLOR] Twilight (2008)</title>
-<link>
-<sublink>http://BillionUploads.com/mt660rb2nlll</sublink>
-<sublink>http://hugefiles.net/lvsbrpj9zquj/TxLx1.divx</sublink>
-<sublink>http://megarelease.org/82rworxd91ex</sublink>
-<sublink>http://lemuploads.com/82rworxd91ex</sublink>
-<sublink>http://epicshare.net/82rworxd91ex</sublink>
-<sublink>http://180upload.com/mk3v6s86sn3z</sublink>
-<sublink>http://yify.tv/twilight/</sublink>
-<sublink>http://75.126.196.132/index.php?file=66&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/w8MxptOcpq9nyyurDTPqAZbuaiJ.jpg</thumbnail>
-</item>
 
 
 
@@ -468,8 +208,6 @@
 </item>
 
 
-
-[COLOR blue]2 WEEK STICK[/COLOR] 
 
 <item>
 <title>[COLOR blue]2 WEEK STICK[/COLOR] Gravity (2013) 3D</title>
@@ -503,8 +241,8 @@
 
 
 <item>
-<title>....</title>
-<link>http://www.firedrive.com/file/8027B0C10C19DA70</link>
+<title></title>
+<link>http://yify.tv/frozen/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
