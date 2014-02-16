@@ -8,7 +8,11 @@
 <thumbnail></thumbnail>
 </info>
 
-
+<popup>
+<name>[COLOR aqua]TO JOIN THE VIP CLUB[/COLOR] [COLOR red]CLICK HERE[/COLOR]</name>
+<popImage>https://raw.github.com/HackerMil/Artwork/master/VIP-CLUB-POP.png</popImage>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
+</popup>
 
 #######################################################################################################################################
 
