@@ -56,6 +56,12 @@
 </dir>
 
 <dir>
+<name>[COLOR aqua]This Week's[/COLOR] [COLOR lime]Fillers[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Fillers.xml</link>
+<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua]Latest Episodes[/COLOR]  [COLOR red]ON AIR[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Latest%20Shows.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/latest.png</thumbnail>
@@ -74,9 +80,6 @@
 
 [COLOR lime]TODAY[/COLOR] 
  [COLOR blue][/COLOR] 
- 
-
- 
 
 
 
@@ -108,8 +111,6 @@
 
 
 
-
-
 <item>
 <title>[COLOR red]------------------------------- Fights -----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Fights.xml</link>
@@ -117,8 +118,6 @@
 </item>
 
 [COLOR lime]TODAY[/COLOR] 
-
-
 
 
 
@@ -154,8 +153,6 @@
 
 
 
-
-
 #######################################################################################################################################
 
 <item>
@@ -168,40 +165,19 @@
 [COLOR blue]1080P[/COLOR] 
 
 
+
+
+
+
 <item>
-<title>[COLOR lime]------------------------------ Special -----------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------ Special -----------------------------------[/COLOR]</title>
 <link>nill</link>                              
 <thumbnail>nill</thumbnail>
 </item>
 
 
 
-<item>
-<title>[COLOR blue]2 WEEK STICK[/COLOR] Gravity (2013) 3D</title>
-<link>
-<sublink>http://billionuploads.com/as66dtkljey9/Gravity.2013.1080p.3D.HSBS.BluRay.x264.YIFY.mp4</sublink>
-<sublink>http://hugefiles.net/5itrw79i2c1q</sublink>
-<sublink>http://180upload.com/x9xh9wkh0xmn</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/2DrVd6YUwnzRBSsmwJBCfyp9lKP.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR blue]2 WEEK STICK[/COLOR] Thor: The Dark World (2013) 3D</title>
-<link>
-<sublink>http://megarelease.org/k8ebdsai0x5t</sublink>
-<sublink>http://lemuploads.com/k8ebdsai0x5t</sublink>
-<sublink>http://epicshare.net/k8ebdsai0x5t</sublink>
-<sublink>http://180upload.com/tugdzn0qcxa5</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/uZUHjpFiBuS5q4piT7l91nOhHK3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]2 WEEK STICK[/COLOR] The 56th Annual Grammy Awards (2014) HD</title>
-<link>http://megarelease.org/eu3z652g9tge</link>
-<thumbnail>http://m5.paperblog.com/i/77/779072/grammy-awards-2014-favourites-playlist-L-O7AH2V.jpeg</thumbnail>
-</item>
 
 #######################################################################################################################################
 
