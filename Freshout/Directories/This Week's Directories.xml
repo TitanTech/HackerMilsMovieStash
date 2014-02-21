@@ -14,10 +14,16 @@
 [COLOR blue]Story[/COLOR] 
 [COLOR blue]Show[/COLOR] 
 [COLOR blue]Ring Wars[/COLOR] 
- [COLOR lime]2/19[/COLOR]
+ [COLOR lime]2/20[/COLOR]
 
 #########################################################################
 
+
+<dir>
+<name>[COLOR blue]Story[/COLOR] The Thor Story [COLOR lime]2/20[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Directories/Thor.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/yw7gr7DhHHVTLlO8Se8uH17TDMA.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>[COLOR blue]Show[/COLOR] Prison Break (2005) [COLOR lime]2/19[/COLOR]</name>
