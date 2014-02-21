@@ -5,11 +5,11 @@
 
           --------------------------------------------------
 <notify>
-<new>1</new>
+<new>2</new>
 <message1>180UPLOAD SERVER IS BACK UP</message1>
 <message2>THAT WAS FAST! :) LOL</message2>
 <message3>180 LINKS SHOULD NOW WORK</message3>
-<old>2</old>
+<old>1</old>
 </notify>
 
 <message1></message1>
