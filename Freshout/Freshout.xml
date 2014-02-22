@@ -80,7 +80,7 @@
 
 
 <dir>
-<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
@@ -89,17 +89,6 @@
  [COLOR blue][/COLOR] 
 
 
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] The Thor Story [COLOR blue]Story[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Directories/Thor.xml</link>
-<thumbnail>http://image.tmdb.org/t/p/original/yw7gr7DhHHVTLlO8Se8uH17TDMA.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] Prison Break (2005) [COLOR blue]Show[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Prison%20Break%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/75340-1.jpg</thumbnail>
-</dir>
 
 
 <item>
@@ -114,82 +103,16 @@
  
  
 <item>
-<title>[COLOR lime]TODAY[/COLOR] Phil Spector (2013) HD</title>
+<title>[COLOR lime]TODAY[/COLOR] Mandela: Long Walk to Freedom (2013) HD</title>
 <link>
-<sublink>http://BillionUploads.com/3jotm9xs7e3l</sublink>
-<sublink>http://megarelease.org/s9bhqjzqssw9</sublink>
-<sublink>http://hugefiles.net/tnvxpivy76jq</sublink>
-<sublink>http://lemuploads.com/s9bhqjzqssw9</sublink>
-<sublink>http://epicshare.net/s9bhqjzqssw9</sublink>
-<sublink>http://180upload.com/e23e2rc9d4b3</sublink>
+<sublink>http://megarelease.org/2br9vmu6cf7h</sublink>
+<sublink>http://billionuploads.com/ctlauozl9u6q</sublink>
+<sublink>http://hugefiles.net/jgz3sc1x2ot1</sublink>
+<sublink>http://180upload.com/ate2k4hstdcv</sublink>
+<sublink>http://movreel.com/kl5btzrgd5x0</sublink>
 </link>
-<thumbnail>http://image.tmdb.org/t/p/original/xYELlK8ysFEfQdUpy3kNDkppw3I.jpg</thumbnail>
-</item> 
- 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The LEGO Movie (2014) CAM [COLOR lime]NV[/COLOR]</title>
-<link>
-<sublink>http://billionuploads.com/ajxe5r788ere</sublink>
-<sublink>http://hugefiles.net/rahj3evn4br3</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/lykpfC5Kx7HIZvubjcooqJBR1t6.jpg</thumbnail>
-</item> 
- 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] I, Frankenstein (2014) HDCAM</title>
-<link>
-<sublink>http://billionuploads.com/taxbvwm0a7z8</sublink>
-<sublink>http://hugefiles.net/lup0sg0y1fk3</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/wYivfYTgFjU9Xifqs2U38RY5dJs.jpg</thumbnail>
-</item> 
- 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Stand Up Guys (2013) HD</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=1467&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://hugefiles.net/1rmcjluy61ww</sublink>
-<sublink>http://180upload.com/m5125nj2kjwq</sublink>
-<sublink>http://movreel.com/4p0k29w5dlmq</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/d1yX2XpARpUKxRerkuZSOk5vubX.jpg</thumbnail>
-</item> 
- 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Last Days on Mars (2013) 1080P</title>
-<link>
-<sublink>http://hugefiles.net/n1wpxt3lipsh</sublink>
-<sublink>http://megarelease.org/gd2vwwvfys9y</sublink>
-<sublink>http://lemuploads.com/gd2vwwvfys9y</sublink>
-<sublink>http://epicshare.net/gd2vwwvfys9y</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/4qeyW474FZWxUccDrR7pUJ8wfJ7.jpg</thumbnail>
+<thumbnail>http://image.tmdb.org/t/p/original/hkw0aKn6W7gngPQ9ZQSVxh97DOl.jpg</thumbnail>
 </item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Last Days on Mars (2013) 720P</title>
-<link>
-<sublink>http://billionuploads.com/obwhd1mwzuo3</sublink>
-<sublink>http://megarelease.org/tco7gf7zxz1d</sublink>
-<sublink>http://lemuploads.com/tco7gf7zxz1d</sublink>
-<sublink>http://epicshare.net/tco7gf7zxz1d</sublink>
-<sublink>http://hugefiles.net/dk5oiee7dbla</sublink>
-<sublink>http://180upload.com/75qgrxlz9y27</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/4qeyW474FZWxUccDrR7pUJ8wfJ7.jpg</thumbnail>
-</item> 
- 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Twelve Years a Slave (2013) HD</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=3014&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/2ec0xdqry63b</sublink>
-<sublink>http://hugefiles.net/iltlg1hb95ox</sublink>
-<sublink>http://180upload.com/cfwr89bly45l</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/xosImeLYPS0Q1I2OOKXh1pjmnGQ.jpg</thumbnail>
-</item>
-
  
 
 
@@ -229,7 +152,7 @@
 
 
 <item>
-<title>[COLOR lime]--------------------------- Documentaries ------------------------------[/COLOR]</title>
+<title>[COLOR red]--------------------------- Documentaries ------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Documentaries.xml</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
@@ -237,21 +160,10 @@
 [COLOR lime]TODAY[/COLOR] 
 
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Phil Spector (2013) HD</title>
-<link>
-<sublink>http://BillionUploads.com/3jotm9xs7e3l</sublink>
-<sublink>http://megarelease.org/s9bhqjzqssw9</sublink>
-<sublink>http://hugefiles.net/tnvxpivy76jq</sublink>
-<sublink>http://lemuploads.com/s9bhqjzqssw9</sublink>
-<sublink>http://epicshare.net/s9bhqjzqssw9</sublink>
-<sublink>http://180upload.com/e23e2rc9d4b3</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/xYELlK8ysFEfQdUpy3kNDkppw3I.jpg</thumbnail>
-</item>
+
 
 <item>
-<title>[COLOR lime]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
+<title>[COLOR red]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                        >                  
 <thumbnail>nill</thumbnail>
 </item>
@@ -259,118 +171,6 @@
 [COLOR blue]|| HD[/COLOR] 
 
 
-
-<item>
-<title>[COLOR blue]Stories || HD[/COLOR] Thor (2011)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=1164&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/xextb6965bt9</sublink>
-<sublink>http://hugefiles.net/e371rpuof2sf</sublink>
-<sublink>http://180upload.com/52yul8hrqx2n</sublink>
-<sublink>http://180upload.com/52yul8hrqx2n</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/6mDORJmy9fdHBFdHFbDijQi659x.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Stories || HD[/COLOR] Thor: The Dark World (2013)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=2894&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://megarelease.org/puxdgdz3qdtt</sublink>
-<sublink>http://epicshare.net/puxdgdz3qdtt</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/uZUHjpFiBuS5q4piT7l91nOhHK3.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] 1408 (2007)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=2689&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/m8iir6yrrfm1</sublink>
-<sublink>http://hugefiles.net/92sw2e0yspi8</sublink>
-<sublink>http://180upload.com/hcywxgb5r3fl</sublink>
-<sublink>http://180upload.com/hcywxgb5r3fl</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/yzxHn9RZ40qDGNhmtBEyQO9UbI8.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] Sin City (2005)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=611&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/qsf3mgmasw3v</sublink>
-<sublink>http://hugefiles.net/f0pdsa47pcwt</sublink>
-<sublink>http://180upload.com/4cl53yp9ppyy</sublink>
-<sublink>http://movreel.com/tghnkihg036e</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/37thb767FbPaqjuoxslCOvgVUDy.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]All-Timers || HD[/COLOR] Dog Day Afternoon (1975)</title>
-<link>
-<sublink>http://BillionUploads.com/5fcil95sedls</sublink>
-<sublink>http://megarelease.org/pdzuyod2ytqi</sublink>
-<sublink>http://lemuploads.com/pdzuyod2ytqi</sublink>
-<sublink>http://hugefiles.net/cnqcv92bbf1w/DxDxAx720.divx</sublink>
-<sublink>http://180upload.com/kytculh6thcw</sublink>
-<sublink>http://epicshare.net/pdzuyod2ytqi</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/qgWuZ2yNJrclU8EldQG4rLhwMoy.jp</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] The Son of No One (2011)</title>
-<link>
-<sublink>http://hugefiles.net/eb952jhhya9d</sublink>
-<sublink>http://180upload.com/wp6djv4xfw9z</sublink>
-<sublink>http://movreel.com/2rszpsyia92m</sublink>
-<sublink>http://yify.tv/son-one/</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/qlhJO855z822csXXyPtzDb73F8X.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Comedy Central || HD[/COLOR] Me, Myself & Irene (2000)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=414&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/bexebygg76yt</sublink>
-<sublink>http://hugefiles.net/8ul1dx0r9ljp</sublink>
-<sublink>http://180upload.com/oesl6v2y317e</sublink>
-<sublink>http://movreel.com/tu6hm4ii3r5z</sublink>
-<sublink>http://yify.tv/me-myself-irene/</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/6wuDQ4LbWymk6NtQAItH0qlAxBU.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]All-Timers || HD[/COLOR] Friday (1995)</title>
-<link>http://75.126.196.132/index.php?file=1970&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w500/vqwGmTHPkuonKY0KnUeyJWdKWz4.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Her Zone || Comedy Central || HD[/COLOR] A Case of You (2013)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=2945&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/kxadx6iem7wv</sublink>
-<sublink>http://hugefiles.net/nuwb0yq3qsni</sublink>
-<sublink>http://180upload.com/gtpb2rkc3uqb</sublink>
-<sublink>http://yify.tv/a-case-of-you/</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/1Yg9gMDxApehhbDkk11NQKD82Ms.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]All-Timers || HD[/COLOR] Troy (2004)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=902&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/troy/</sublink>
-<sublink>http://www.firedrive.com/file/B0E889773506BD9B#</sublink>
-<sublink>http://www.sockshare.com/file/C9D6A79CB8D76645</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/edMlij7nw2NMla32xskDnzMCFBM.jpg</thumbnail>
-</item>
 
 
 
