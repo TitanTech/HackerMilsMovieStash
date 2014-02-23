@@ -80,40 +80,6 @@
 
 
 
-<item>
-<title>[COLOR lime]------------------------------ Special -----------------------------------[/COLOR]</title>
-<link>nill</link>                              
-<thumbnail>nill</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]LIVE[/COLOR] UFC: 170 HD</title>
-<link>http://nlds173.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/ce/Final_UFC_170_event_poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]LIVE[/COLOR] UFC: 170 SD</title>
-<link>rtmp://37.220.32.36:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=true timeout=15 pageUrl=http://1cdn.filotv.pw/stream1.html token=#atd%#$ZH live=true timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/ce/Final_UFC_170_event_poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]LIVE[/COLOR] UFC: 170 SD ALT</title>
-<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=BT1HD swfurl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf live=true timeout=15 pageurl=http://www.hdcast.org/player.php?u=BT1HD&vw=640&vh=460&domain=livehdstreams.info</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/ce/Final_UFC_170_event_poster.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>UFC 170 : Official Weigh-In HD</title>
-<link>
-<sublink>http://billionuploads.com/9rvzkpidxdmb</sublink>
-<sublink>http://hugefiles.net/h995sqkftc5j</sublink>
-<sublink>http://180upload.com/e0ylsacjz4hw</sublink>
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/ce/Final_UFC_170_event_poster.jpg</thumbnail>
-</item>
 
 
 <dir>
@@ -253,6 +219,12 @@
 [COLOR blue]HD[/COLOR] 
 [COLOR blue]1080P[/COLOR] 
 
+
+<item>
+<title>[COLOR red]------------------------------ Special -----------------------------------[/COLOR]</title>
+<link>nill</link>                              
+<thumbnail>nill</thumbnail>
+</item>
 
 
 
