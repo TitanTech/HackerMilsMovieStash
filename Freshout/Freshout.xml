@@ -83,7 +83,7 @@
 
 
 <dir>
-<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
@@ -91,12 +91,6 @@
 [COLOR lime]TODAY[/COLOR] 
  [COLOR blue][/COLOR] 
 
-
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] Helix (2014)  [COLOR blue]Show[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Helix%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/265912-3.jpg</thumbnail>
-</dir>
 
 
 <item>
@@ -111,21 +105,18 @@
  
  
 <item>
-<title>[COLOR lime]TODAY[/COLOR] The Book Thief (2013) SD [COLOR lime]Upgraded[/COLOR]</title>
+<title>[COLOR lime]TODAY[/COLOR] 3 Days to Kill (2014) HDCAM [COLOR lime]NV[/COLOR]</title>
 <link>
-<sublink>http://hugefiles.net/a30ynfru7mdb</sublink>
-<sublink>http://billionuploads.com/v4y68td56edv</sublink>
-<sublink>http://180upload.com/5vlxx5r3zm8m</sublink>
-<sublink>http://movreel.com/0uxc7gcr7g7f</sublink>
+<sublink>http://billionuploads.com/2zpbdl0tvvzg</sublink>
+<sublink>http://hugefiles.net/8mz30jhpe270</sublink>
 </link>
-<thumbnail>http://image.tmdb.org/t/p/original/bNcmhl2vPVtrznd5ly0vZy5moMA.jpg</thumbnail>
+<thumbnail>http://image.tmdb.org/t/p/original/c4YHBXaxY0PO3sN7JZ6hdgDOnCJ.jpg	</thumbnail>
 </item>
 
 
 
-
 <item>
-<title>[COLOR lime]------------------------------- Shows ------------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Shows ------------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Episodes.xml</link>                                 
 <thumbnail>nill</thumbnail>
 </item>
@@ -169,7 +160,7 @@
 
 
 <item>
-<title>[COLOR lime]--------------------------- Documentaries ------------------------------[/COLOR]</title>
+<title>[COLOR red]--------------------------- Documentaries ------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Documentaries.xml</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
@@ -178,20 +169,10 @@
 
 
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] 1 (2013)</title>
-<link>
-<sublink>http://billionuploads.com/5s0ox5ue3w0u</sublink>
-<sublink>http://hugefiles.net/4nlk9gsslp3o</sublink>
-<sublink>http://180upload.com/cilvfwtyifh5</sublink>
-<sublink>http://movreel.com/mai1rx8nw3v1</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/e2B8e7GVYoYzynTW9Y0y0sWCrkm.jpg</thumbnail>
-</item>
 
 
 <item>
-<title>[COLOR lime]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
+<title>[COLOR red]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                        >                  
 <thumbnail>nill</thumbnail>
 </item>
@@ -199,86 +180,14 @@
 [COLOR blue]|| HD[/COLOR] 
 
 
-<item>
-<title>[COLOR blue]All-Timers || HD[/COLOR] Gladiator (2000)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=770&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/gladiator/</sublink>
-<sublink>http://hugefiles.net/ci3qx6lgncnp</sublink>
-<sublink>http://billionuploads.com/wkrakmw3rmcy</sublink>
-<sublink>http://180upload.com/sezebh8zye86</sublink>
-<sublink>http://movreel.com/y9j8ieu9gv0l</sublink
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/9HHuKIB3djq1tgUsPDdmDQhN5b5.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR blue]HD[/COLOR] Body of Lies (2008)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=2813&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/body-lies/</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/bzlE8E6J10TBWxYQaSAga5FmwGj.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Documentary || HD[/COLOR] You Don't Know Jack (2010)</title>
-<link>
-<sublink>http://megarelease.org/w5whs8hdv21b</sublink>
-<sublink>http://lemuploads.com/w5whs8hdv21b</sublink>
-<sublink>http://BillionUploads.com/83w1klxba97v</sublink>
-<sublink>http://180upload.com/w9nydsztxl5a</sublink>
-<sublink>http://epicshare.net/w5whs8hdv21b</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/k5ASswDnqtkQX8xwoh3yUD098mJ.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]All-Timers || HD[/COLOR] The Devil's Advocate (1997)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=851&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/the-devils-advocate/</sublink>
-<sublink>http://BillionUploads.com/c2704fldwu88</sublink>
-<sublink>http://megarelease.org/xxsx91hfp9jv</sublink>
-<sublink>http://hugefiles.net/j8y9wth27w9i/TxDxAx720.divx</sublink>
-<sublink>http://180upload.com/e92mv9zfm631</sublink>
-<sublink>http://lemuploads.com/xxsx91hfp9jv</sublink>
-<sublink>http://epicshare.net/xxsx91hfp9jv</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/xj28t5ul99in8j33zIKBXvqIUiQ.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Documentary || HD[/COLOR] Notorious (2009)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=2777&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/notorious/</sublink>
-<sublink>http://billionuploads.com/73sj2pyxc431</sublink>
-<sublink>http://hugefiles.net/dwnl3kfrmna4</sublink>
-<sublink>http://movreel.com/3dzfj07mpgw6</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/jjhxeyukcNT0sBT9LXLKEQold4U.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] Seven Psychopaths (2012)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=679&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/seven-psychopaths/</sublink>
-<sublink>http://billionuploads.com/7cd11ydy2sus</sublink>
-<sublink>http://hugefiles.net/cezr73gju322</sublink>
-<sublink>http://180upload.com/ngrn0ntorhny</sublink>
-<sublink>http://movreel.com/kawep15gh8f9</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/AmBtsoiW2MfCmIF1GgyoTykWjzY.jpg</thumbnail>
-</item>
 
 
 
 #######################################################################################################################################
 
 <item>
-<title>[COLOR lime]------------------------------- Fixes ------------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Fixes ------------------------------------[/COLOR]</title>
 <link>nill</link>                              
 <thumbnail>nill</thumbnail>
 </item>
@@ -286,159 +195,6 @@
 [COLOR blue]HD[/COLOR] 
 [COLOR blue]1080P[/COLOR] 
 
-
-<item>
-<title>[COLOR blue]FightClub/Ring Wars[/COLOR] Gatti vs. Ward First Fight</title>
-<link>http://www.youtube.com/watch?v=UztrZYO1KPg</link>
-<thumbnail>http://4.bp.blogspot.com/-oajDqYkVr10/T7alA3-UImI/AAAAAAAAAco/qvdCgWjD92w/s1600/gatti-ward.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]FightClub/Ring Wars[/COLOR] Gatti vs. Ward Rematch</title>
-<link>http://www.youtube.com/watch?v=IOa123uhE3Q</link>
-<thumbnail>http://4.bp.blogspot.com/-oajDqYkVr10/T7alA3-UImI/AAAAAAAAAco/qvdCgWjD92w/s1600/gatti-ward.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]FightClub/Ring Wars[/COLOR] Gatti vs. Ward Rubber Match</title>
-<link>http://www.youtube.com/watch?v=MUmCZNNU0J4</link>
-<thumbnail>http://4.bp.blogspot.com/-oajDqYkVr10/T7alA3-UImI/AAAAAAAAAco/qvdCgWjD92w/s1600/gatti-ward.jpg</thumbnail>
-</item>
-
-<item>
-<title>Insanity 00 - Dig Deeper</title>
-<link>
-<sublink>http://megarelease.org/w556dyxdodn5</sublink>
-<sublink>http://180upload.com/x7lpztetvfjw</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 01 - Fit Test</title>
-<link>
-<sublink>http://megarelease.org/va85maqgj5vp</sublink>
-<sublink>http://180upload.com/uu7tdz8cko01</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 02 - Plyometric Cardio Circuit</title>
-<link>
-<sublink>http://megarelease.org/mpx1xe4x9a4c</sublink>
-<sublink>http://180upload.com/4f3y2q841y2m</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 03 - Cardio Power & Resistance</title>
-<link>
-<sublink>http://megarelease.org/qg2a25f530qd</sublink>
-<sublink>http://180upload.com/6rdm1dm4c6fi</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 04 - Cardio Recovery</title>
-<link>
-<sublink>http://megarelease.org/ylfaicezm1ol</sublink>
-<sublink>http://180upload.com/ziy2et6rtlzv</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 05 - Pure Cardio & Cardio Abs</title>
-<link>
-<sublink>http://megarelease.org/hdlp1wj5lekh</sublink>
-<sublink>http://180upload.com/4ibi9kvdpea8</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 06 - Cardio Abs</title>
-<link>
-<sublink>http://megarelease.org/p90ovf3lydzc</sublink>
-<sublink>http://180upload.com/dthmhm5zd0sw</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 07 - Core Cardio & Balance</title>
-<link>
-<sublink>http://megarelease.org/425e0cn5eh0t</sublink>
-<sublink>http://180upload.com/odob6s1636ff</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 08 - Max Interval Circuit</title>
-<link>
-<sublink>http://megarelease.org/0hkkdv9oim7v</sublink>
-<sublink>http://180upload.com/atybn3tstmaj</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 09 - Max Interval Plyo</title>
-<link>
-<sublink>http://megarelease.org/nnmyik20vgwq</sublink>
-<sublink>http://180upload.com/5kx2nsehxk6c</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 10 - Max Cardio Conditioning</title>
-<link>
-<sublink>http://megarelease.org/f6itji3zot3e</sublink>
-<sublink>http://180upload.com/f9dm3lft3a2y</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 11 - Max Recovery</title>
-<link>
-<sublink>http://megarelease.org/335m7h3k2bzd</sublink>
-<sublink>http://180upload.com/aing1invqoo8</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 12 - Insane Abs</title>
-<link>
-<sublink>http://megarelease.org/0v3ed9l65jw3</sublink>
-<sublink>http://180upload.com/qhjmhzjkln91</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 13 - Max Interval Sports Training</title>
-<link>
-<sublink>http://megarelease.org/2zwdr7x36ivz</sublink>
-<sublink>http://180upload.com/4o8a54617xyf</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
-
-<item>
-<title>Insanity 14 - Upper Body Weight Training</title>
-<link>
-<sublink>http://megarelease.org/7l0oo470mwug</sublink>
-<sublink>http://180upload.com/uqjbvu62zsbs</sublink>
-</link> 
-<thumbnail>http://s1367.photobucket.com/user/HackerMil/media/Posters/insanity-jumps.jpg.html</thumbnail>
-</item>
 
 
 
