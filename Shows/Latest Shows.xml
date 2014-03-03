@@ -13,14 +13,25 @@
 
  [COLOR lime]Series Premiere[/COLOR]
 
-
- 
 <dir>
 <name>[COLOR aqua]Full Tv Show Directory[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/TV%20SHOWS.xml</link>
 <thumbnail>http://farm6.staticflickr.com/5344/10217616193_f5737a9046_o.jpg</thumbnail>
 </dir> 
 
+#########################################################################################################
+
+
+<item>
+<title>The Walking Dead S04E12 [COLOR lime]Sundays[/COLOR]</title>
+<link>
+<sublink>http://billionuploads.com/4r3m35f84h4f</sublink>
+<sublink>http://hugefiles.net/g7uhr2e76utg</sublink>
+<sublink>http://180upload.com/fetzsp5108oz</sublink>
+<sublink>http://movreel.com/t7n8k3mlwwec</sublink>
+</link> 
+<thumbnail>http://thetvdb.com/banners/posters/153021-12.jpg</thumbnail>
+</item>
 
 <item>
 <title>Black Sails S01E06 [COLOR lime]Saturdays[/COLOR]</title>
@@ -136,18 +147,6 @@
 </item>
 
 <item>
-<title>The Walking Dead S04E11 [COLOR lime]Sundays[/COLOR]</title>
-<link>
-<sublink>http://megarelease.org/m3yjly0wjg6b</sublink>
-<sublink>http://billionuploads.com/wucf99ske1mb</sublink>
-<sublink>http://hugefiles.net/htb6u35smvxp</sublink>
-<sublink>http://180upload.com/qldy7hcivto4</sublink>
-<sublink>http://movreel.com/98u67mrsbk8w</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/153021-12.jpg</thumbnail>
-</item>
-
-<item>
 <title>True Detective S01E06 [COLOR lime]Sundays[/COLOR]</title>
 <link>
 <sublink>http://billionuploads.com/am4tojdgeqdv</sublink>
@@ -157,7 +156,6 @@
 </link> 
 <thumbnail>http://thetvdb.com/banners/posters/270633-4.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>Shameless (US) S04E07 [COLOR lime]Sundays[/COLOR]</title>
