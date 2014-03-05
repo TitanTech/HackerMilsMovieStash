@@ -79,6 +79,9 @@
 ################################################################################################
 
 
+
+
+
 <dir>
 <name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
@@ -86,8 +89,7 @@
 </dir>
 
 [COLOR lime]TODAY[/COLOR] 
- [COLOR blue][/COLOR] 
-
+ [COLOR blue][/COLOR]
 
 
 
@@ -100,9 +102,8 @@
 [COLOR lime]TODAY[/COLOR] 
  [COLOR lime]THEATRE PREMIERE[/COLOR]
  [COLOR lime]PRE-RELEASE[/COLOR]
+
  
-
-
 
 
 
@@ -128,7 +129,6 @@
 
 
 
-
 <item>
 <title>[COLOR red]------------------------------ Comedy ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20%20Week's%20Comedy.xml</link>                                                                          >                  
@@ -148,6 +148,8 @@
 [COLOR lime]TODAY[/COLOR] 
 
 
+
+
 <item>
 <title>[COLOR red]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                        >                  
@@ -155,6 +157,9 @@
 </item>
 
 [COLOR blue]|| HD[/COLOR] 
+
+
+
 
 
 
@@ -177,10 +182,21 @@
 
 
 <item>
-<title>[COLOR red]------------------------------ Special -----------------------------------[/COLOR]</title>
+<title>[COLOR lime]------------------------------ Special -----------------------------------[/COLOR]</title>
 <link>nill</link>                              
 <thumbnail>nill</thumbnail>
 </item>
+
+
+<item>
+<title>[COLOR blue]2 WEEK STICK[/COLOR] The Oscars (2014) </title>
+<link>
+<sublink>http://megarelease.org/2igi569q3g1j</sublink>
+<sublink>http://hugefiles.net/hv9m7y9uwrp8</sublink>
+<sublink>http://movreel.com/ej3cc7koeo0g</sublink>
+</link>
+<thumbnail>http://mildconcern.com/wp-content/uploads/2014/01/The-Oscars-2014-Data.png></thumbnail>
+</item>3/17
 
 
 
@@ -192,16 +208,15 @@
 
 <item>
 <title></title>
-<link>http://yify.tv/frozen/</link>
+<link>http://megarelease.org/75cdg0nmmwz2</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
 <item>
 <title></title>
 <link>
-<sublink>http://megarelease.org/lt206qskhhx4</sublink>
-<sublink>http://epicshare.net/lt206qskhhx4</sublink>
-<sublink>http://lemuploads.com/lt206qskhhx4</sublink> 
+<sublink>http://yify.tv/wolf-wall-street/</sublink>
+<sublink>http://75.126.196.132/index.php?file=2747&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
