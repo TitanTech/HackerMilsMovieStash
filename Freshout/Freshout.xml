@@ -132,15 +132,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]---------------------------- Kids Movies --------------------------------[/COLOR]</title>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>                                   
-<thumbnail>nill</thumbnail>
-</item>
-
-[COLOR lime]TODAY[/COLOR] 
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Swan Princess: A Royal Family Tale (2014) HD</title>
+<title>[COLOR lime]TODAY[/COLOR] The Swan Princess: A Royal Family Tale (2014) HD [COLOR lime]KidsMovie[/COLOR]</title>
 <link>
 <sublink>http://billionuploads.com/xg04zmet4bb3</sublink>
 <sublink>http://hugefiles.net/aybqpq6z854g</sublink>
@@ -149,6 +141,7 @@
 </link>
 <thumbnail>http://image.tmdb.org/t/p/original/i6A8wrJeCp44h7CKLZ8sgLEIMGI.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>[COLOR red]------------------------------- Shows ------------------------------------[/COLOR]</title>
