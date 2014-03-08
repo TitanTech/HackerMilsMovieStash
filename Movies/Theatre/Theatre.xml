@@ -57,6 +57,12 @@
 </dir>
 
 <dir>
+<name>[COLOR red]***** QUALITY BREAKDOWN *****[/COLOR]</name>
+<link>nill</link>
+<thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR lime]ALL[/COLOR] [COLOR aqua]Theatre Releases =[/COLOR] [COLOR yellow](All Movies In Theatres)[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/ALL.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
@@ -93,7 +99,7 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]CAM =[/COLOR] [COLOR yellow]Only CAM Quality[/COLOR]</name>
+<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]CAM =[/COLOR] [COLOR yellow](Only CAM Quality)[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/Cams.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
