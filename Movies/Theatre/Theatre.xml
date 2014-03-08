@@ -21,13 +21,19 @@
 </dir>
 
 <dir>
+<name>[COLOR yellow](All Movies In Theatres)[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/ALL.xml</link>
+<thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]HD[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/HD%20and%201080P.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR yellow](720P and 1080P)[/COLOR]</name>
+<name>[COLOR yellow](Only 720P and 1080P)[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/HD%20and%201080P.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
@@ -39,7 +45,7 @@
 </dir>
 
 <dir>
-<name>[COLOR yellow](720P w/ Small Subs)[/COLOR]</name>
+<name>[COLOR yellow](Only 720P w/ Small Subs)[/COLOR]</name>
 <link>nill</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
@@ -51,13 +57,19 @@
 </dir>
 
 <dir>
+<name>[COLOR yellow](Only Standard Definition)[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/HDRips%20and%20SD.xml</link>
+<thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
+</dir>
+
+<dir>
 <name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]Regional[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/R6.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR yellow](Random Quality with Subs)[/COLOR]</name>
+<name>[COLOR yellow](Only Random Quality with Subs)[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/R6.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
@@ -69,13 +81,19 @@
 </dir>
 
 <dir>
-<name>[COLOR yellow](Usually HDCAM w/ Normal Audio)[/COLOR]</name>
+<name>[COLOR yellow](Only CAM w/ Normal Audio)[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/TS.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]CAM[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/Cams.xml</link>
+<thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR yellow]Only CAM Quality[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/Cams.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
