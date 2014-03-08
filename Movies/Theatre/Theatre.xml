@@ -10,7 +10,10 @@
 <thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </popup>
 
-
+<info>
+<message>[COLOR aqua]Read Type Descripts, Ordered From Best Quality To Worst[/COLOR]</message>
+<thumbnail>http://farm8.staticflickr.com/7440/10217500385_9838d2412a_o.jpg</thumbnail>
+</info>
 
 
 ##############################################################################################################################
@@ -23,25 +26,31 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]HD and 1080P[/COLOR]</name>
+<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]HD (720P and 1080P)[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/HD%20and%201080P.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]HDRips, HDTV and SD[/COLOR]</name>
+<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]720P WEBRips[/COLOR]</name>
+<link>nill</link>
+<thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]Standard or DVD Quality[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/HDRips%20and%20SD.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]Regional SD and HD[/COLOR]</name>
+<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]Regional (Random Quality with Subs)[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/R6.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]TS[/COLOR]</name>
+<name>[COLOR aqua]Theatre[/COLOR] [COLOR lime]TS (Usually HD CAM with SYNCED AUDIO = CAM w/ NORMAL AUDIO)[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/TS.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
