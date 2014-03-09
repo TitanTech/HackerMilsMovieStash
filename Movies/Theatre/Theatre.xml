@@ -64,42 +64,42 @@
 
 <dir>
 <name>[COLOR aqua]ALL =[/COLOR] [COLOR yellow](All Movies In Theatres)[/COLOR]</name>
-<link>nill</link>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/ALL.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua]HD =[/COLOR] [COLOR yellow](Only 720P and 1080P)[/COLOR]</name>
-<link>nill</link>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/HD%20and%201080P.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua]720WEB =[/COLOR] [COLOR yellow](Only 720P w/ Small Subs)[/COLOR]</name>
-<link>nill</link>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/WEBRip.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua]Standard or DVD Quality = [/COLOR] [COLOR yellow](Only Standard Definition)[/COLOR]</name>
-<link>nill</link>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/Standard.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua]Regional =[/COLOR] [COLOR yellow](Only Random Quality with Subs)[/COLOR]</name>
-<link>nill</link>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/Regional.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua]TS =[/COLOR] [COLOR yellow](Only CAM w/ Normal Audio)[/COLOR]</name>
-<link>nill</link>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/TS.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR aqua]CAM =[/COLOR] [COLOR yellow](Only CAM Quality)[/COLOR]</name>
-<link>nill</link>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/Cams.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
 </dir>
