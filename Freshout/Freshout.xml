@@ -83,7 +83,7 @@
 
 
 <dir>
-<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
@@ -91,7 +91,11 @@
 [COLOR lime]TODAY[/COLOR] 
  [COLOR blue][/COLOR]
 
-
+<dir>
+<name>[COLOR lime]TODAY[/COLOR] Hannibal (2013) [COLOR blue]Show[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Hannibal%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/265912-3.jpg</thumbnail>
+</dir>
 
 <item>
 <title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
@@ -270,7 +274,7 @@
 
 
 <item>
-<title>.</title>
+<title></title>
 <link>http://project-free-upload.com/95n1hh3tpjk9</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>

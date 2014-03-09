@@ -20,13 +20,6 @@
 ##############################################################################################################################
 
 
-[COLOR aqua]Coming Soon[/COLOR]  [COLOR red]Trailers[/COLOR]
-
-<dir>
-<name></name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/TRAILERS%20COMING%20SOON.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5472/10994284403_f3f39b829e_o.png</thumbnail>
-</dir>
 
 <dir>
 <name>[COLOR aqua]Latest Episodes[/COLOR]  [COLOR red]ON AIR[/COLOR]</name>
@@ -146,6 +139,12 @@
 <name>Game Of Thrones (2011) [COLOR lime]DONE[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Game%20Of%20Thrones%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/121361-13.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Hannibal (2013) [COLOR lime]DONE[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Hannibal%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/265912-3.jpg</thumbnail>
 </dir>
 
 <dir>
