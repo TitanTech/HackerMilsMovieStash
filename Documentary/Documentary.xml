@@ -12,3 +12,20 @@
 
 ##############################################################################################################################
 
+<dir>
+<name>[COLOR aqua]Documentaries[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Documentary/Directories/Documentaries.xml</link>
+<thumbnail>http://farm9.staticflickr.com/8551/10217500895_8fef52d860_o.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Movies[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Documentary/Directories/Movies.xml</link>
+<thumbnail>http://farm9.staticflickr.com/8551/10217500895_8fef52d860_o.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]Shows[/COLOR] [COLOR yellow](Coming Soon)[/COLOR]</name>
+<link>nill</link>
+<thumbnail>http://farm9.staticflickr.com/8551/10217500895_8fef52d860_o.jpg</thumbnail>
+</dir>
