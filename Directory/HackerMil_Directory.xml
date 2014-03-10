@@ -5,11 +5,11 @@
 
           --------------------------------------------------
 <notify>
-<new>2</new>
-<message1>ALL MEGA LINKS IN "DONE" SHOWTIME SHOWS</message1>
-<message2>REPLACED WITH LEM & WORKING</message2>
-<message3>ENJOY!</message3>
-<old>1</old>
+<new>1</new>
+<message1>DOCUMENTARY SECTION RE-VAMPED!</message1>
+<message2>GO CHECK IT OUT</message2>
+<message3></message3>
+<old>2</old>
 </notify>
 
 <message1></message1>
@@ -84,7 +84,7 @@
 <date>HM</date>
 
 <name>[COLOR aqua]  Documentary[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Misc/Documentary.xml</link>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Documentary/Documentary.xml</link>
 <thumbnail>http://farm9.staticflickr.com/8551/10217500895_8fef52d860_o.jpg</thumbnail>
 <date>HM</date>
 
