@@ -97,6 +97,12 @@
 <thumbnail>http://thetvdb.com/banners/posters/259063-3.jpg</thumbnail>
 </dir>
 
+<dir>
+<name>[COLOR lime]TODAY[/COLOR] Hangar 1: The UFO Files (2014) [COLOR blue]Documentary Series[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Documentary/Directories/Sub-Directories/Hangar%201.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/279049-1.jpg</thumbnail>
+</dir>
+
 <item>
 <title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
