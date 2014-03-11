@@ -14,10 +14,16 @@
 [COLOR blue]Story[/COLOR] 
 [COLOR blue]Show[/COLOR] 
 [COLOR blue]Ring Wars[/COLOR] 
- [COLOR lime]3/10[/COLOR]
+ [COLOR lime]3/11[/COLOR]
 
 #########################################################################
 
+
+<dir>
+<name>[COLOR blue]Story[/COLOR] The Anchorman Story [COLOR lime]3/11[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Directories/Anchorman.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/kM7oTeQOgcqgVNxaXgYHuV7z2GF.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>[COLOR blue]Show[/COLOR] Believe (2014) [COLOR lime]3/10[/COLOR]</name>

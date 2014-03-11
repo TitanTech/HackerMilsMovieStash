@@ -91,7 +91,11 @@
 [COLOR lime]TODAY[/COLOR] 
  [COLOR blue][/COLOR]
 
- 
+<dir>
+<name>[COLOR lime]TODAY[/COLOR] The Anchorman Story [COLOR blue]Story[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Directories/Anchorman.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/kM7oTeQOgcqgVNxaXgYHuV7z2GF.jpg</thumbnail>
+</dir>
  
 <dir>
 <name>[COLOR lime]TODAY[/COLOR] Believe (2014) [COLOR blue]Show[/COLOR]</name>
