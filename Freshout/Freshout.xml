@@ -83,7 +83,7 @@
 
 
 <dir>
-<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
@@ -92,26 +92,10 @@
  [COLOR blue][/COLOR]
 
  
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] Resurrection (2014) [COLOR blue]Show[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Ressurection%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/269650-1.jpg</thumbnail>
-</dir>
- 
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] Hannibal (2013) [COLOR blue]Show[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Hannibal%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/259063-3.jpg</thumbnail>
-</dir>
 
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] Hangar 1: The UFO Files (2014) [COLOR blue]Documentary Series[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Documentary/Directories/Sub-Directories/Hangar%201.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/279049-1.jpg</thumbnail>
-</dir>
 
 <item>
-<title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
@@ -121,37 +105,6 @@
  [COLOR lime]PRE-RELEASE[/COLOR]
 
  
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Bad Country (2014) SD [COLOR lime]PRE-RELEASE[/COLOR]</title>
-<link>
-<sublink>http://billionuploads.com/grnrz8t989j1</sublink>
-<sublink>http://billionuploads.com/cwd66joavg73</sublink>
-<sublink>http://hugefiles.net/grwxhxn5jy9h</sublink>
-<sublink>http://hugefiles.net/2e732oogm1ln</sublink>
-<sublink>http://project-free-upload.com/s7vtzzlyyyzs</sublink>
-<sublink>http://www.sockshare.com/file/B9E65821EE3A034A</sublink>
-<sublink>http://mightyupload.com/0iixqg21rz83</sublink>
-<sublink>http://180upload.com/2em7vj4vzuz1</sublink>
-<sublink>http://180upload.com/av2p0jwl5bkk</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/igzYiszaUqIbOWNWaRngdVfZeHB.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Monuments Men (2014) CAM [COLOR lime]NV[/COLOR]</title>
-<link>
-<sublink>http://billionuploads.com/u1mi95xcccqm</sublink>
-<sublink>http://hugefiles.net/kco5i82qslaw</sublink>
-<sublink>http://hugefiles.net/i02z1a215dd2</sublink>
-<sublink>http://project-free-upload.com/cmj5wspu4cgt</sublink>
-<sublink>http://www.sockshare.com/file/9FF4F02B9027D489</sublink>
-<sublink>http://movreel.com/h0ukblnxqli7.html</sublink>
-<sublink>http://mightyupload.com/kqpn4bf5qkkn</sublink>
-<sublink>http://180upload.com/52z4mxrojtpa</sublink>
-<sublink>http://180upload.com/piflwwrf98w1</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/cWoCVIhr1LyQYjF7GhGIHLv60EA.jpg</thumbnail>
-</item>
 
 
 <item>
@@ -162,71 +115,29 @@
 
 [COLOR lime]TODAY[/COLOR] 
 
-
-
 <item>
-<title>[COLOR lime]TODAY[/COLOR] Resurrection S01E01 HD</title>
+<title>[COLOR lime]TODAY[/COLOR] Bates Motel S02E02 HD</title>
 <link>
-<sublink>http://lemuploads.com/9jgv5uvfmxji</sublink>
-<sublink>http://BillionUploads.com/v4hg587dr4nk</sublink>
-<sublink>http://hugefiles.net/iqglbrn8qbq0</sublink>
-<sublink>http://180upload.com/f783ed2o0rz4</sublink>
-<sublink>http://lemuploads.com/9jgv5uvfmxji</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/269650-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] True Detective S01E07 HD</title>
-<link>
-<sublink>http://lemuploads.com/o9yz6q45gtxe</sublink>
-<sublink>http://BillionUploads.com/xd0egfhv21bm</sublink>
-<sublink>http://hugefiles.net/ogw6ve4v0pyi</sublink>
-<sublink>http://180upload.com/7606rclccqpw</sublink>
+<sublink>http://lemuploads.com/016catiyy2z6</sublink>
+<sublink>http://BillionUploads.com/3lmjya8oihb7</sublink>
+<sublink>http://hugefiles.net/mzwusc22onfj</sublink>
+<sublink>http://epicshare.net/016catiyy2z6</sublink>
 </link> 
-<thumbnail>http://thetvdb.com/banners/posters/270633-4.jpg</thumbnail>
+<thumbnail>http://thetvdb.com/banners/posters/262414-4.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime]TODAY[/COLOR] The Walking Dead S04E13 HD</title>
+<title>[COLOR lime]TODAY[/COLOR] The Following S02E08 HD</title>
 <link>
-<sublink>http://lemuploads.com/5jpv7mf0cpds</sublink>
-<sublink>http://BillionUploads.com/h8wvi7g571ot</sublink>
-<sublink>http://hugefiles.net/l1vqwn7184ya</sublink>
-<sublink>http://180upload.com/soocd4qp3eyv</sublink>
-<sublink>http://lemuploads.com/5jpv7mf0cpds</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/153021-12.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Shameless (US) S04E08 HD</title>
-<link>
-<sublink>http://lemuploads.com/2nrzes7vkq0n</sublink>
-<sublink>http://BillionUploads.com/tu30s6a53qpu</sublink>
-<sublink>http://hugefiles.net/2u8eg8onalk8</sublink>
-<sublink>http://180upload.com/m1q3wf9yp03h</sublink>
-<sublink>http://epicshare.net/2nrzes7vkq0n</sublink>
 </link> 
-<thumbnail>http://thetvdb.com/banners/posters/161511-6.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] House Of Lies S03E09 HD</title>
-<link>
-<sublink>http://lemuploads.com/0oc73yik2fwm</sublink>
-<sublink>http://BillionUploads.com/qcgf909t8psv</sublink>
-<sublink>http://hugefiles.net/7jzg8a0ffqwi</sublink>
-<sublink>http://180upload.com/bscls31l8adj</sublink>
-<sublink>http://epicshare.net/0oc73yik2fwm</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/247909-2.jpg</thumbnail>
+<thumbnail>http://thetvdb.com/banners/posters/258744-7.jpg</thumbnail>
 </item>
 
 
 
 <item>
-<title>[COLOR lime]------------------------------- Fights -----------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Fights -----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Fights.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
@@ -234,57 +145,6 @@
 [COLOR lime]TODAY[/COLOR] 
 
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Canelo vs. Angulo HD (SINGLE FIGHT)</title>
-<link>http://lemuploads.com/mf4yjzpb2y7y</link>
-<thumbnail>http://www.urbanfighterscommunity.com/wp-content/uploads/2014/02/canelo-vs-angulo-poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Canelo vs. Angulo SD</title>
-<link>
-<sublink>http://lemuploads.com/ul08yxac1eg9#.Uxy2vfldW30</sublink>
-<sublink>http://BillionUploads.com/d3c1f24t3f1c</sublink>
-<sublink>http://hugefiles.net/7w0it7djpyxl</sublink>
-<sublink>http://180upload.com/djk9zbxgdxfu</sublink>
-<sublink>http://epicshare.net/ul08yxac1eg9#.Uxy2vfldW30</sublink>
-</link>
-<thumbnail>http://www.urbanfighterscommunity.com/wp-content/uploads/2014/02/canelo-vs-angulo-poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Santa Cruz vs. Mijares HD</title>
-<link>
-<sublink>http://lemuploads.com/38u0cco4v36y</sublink>
-<sublink>http://hugefiles.net/j6nd8p7qr0wi</sublink>
-<sublink>http://epicshare.net/38u0cco4v36y</sublink>
-</link>
-<thumbnail>http://www.urbanfighterscommunity.com/wp-content/uploads/2014/02/canelo-vs-angulo-poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] UFC Fight Night 38: Gustafsson vs. Manuwa HD</title>
-<link>
-<sublink>http://lemuploads.com/7m4mf92h7dmc</sublink>
-<sublink>http://BillionUploads.com/werydif9y8u6</sublink>
-<sublink>http://hugefiles.net/6wgeody9exhv</sublink>
-<sublink>http://180upload.com/8cke9jgatiyk</sublink>
-<sublink>http://epicshare.net/7m4mf92h7dmc</sublink>
-</link>
-<thumbnail>http://i.imgur.com/Q4gTN1Q.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] UFC Fight Night 38: Gustafsson vs. Manuwa SD</title>
-<link>
-<sublink>http://lemuploads.com/hdz5ombsh962</sublink>
-<sublink>http://BillionUploads.com/c3tpu0m0abpu</sublink>
-<sublink>http://hugefiles.net/qcpa2mmlq9ox</sublink>
-<sublink>http://180upload.com/6ucivbk7fheo</sublink>
-<sublink>http://epicshare.net/hdz5ombsh962</sublink>
-</link>
-<thumbnail>http://i.imgur.com/Q4gTN1Q.jpg</thumbnail>
-</item>
 
 
 <item>
@@ -309,94 +169,14 @@
 
 
 <item>
-<title>[COLOR lime]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
-<link>nill</link>                                                                        >                  
+<title>[COLOR red]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
+<link>nill</link>                                                                                         
 <thumbnail>nill</thumbnail>
 </item>
 
 [COLOR blue]|| HD[/COLOR] 
 
 
-<item>
-<title>[COLOR blue]All-Timers || HD[/COLOR] Set It Off (1996)</title>
-<link>http://75.126.196.132/index.php?file=3118&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</link>
-<thumbnail>http://image.tmdb.org/t/p/original/3RDk6RO8N8iKHvFpOM0SdNLHIUl.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]All-Timers || HD[/COLOR] The Green Mile (1999)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=53&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/the-green-mile/</sublink>
-<sublink>http://hugefiles.net/s09hp40421ws</sublink>
-<sublink>http://180upload.com/os3o94d3hezw</sublink>
-<sublink>http://movreel.com/p381u7vuqa1u</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/mN14lobtnn9T7mvUbxHpn6NTSBG.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Comedy Central || HD[/COLOR] Robin Hood: Men in Tights (1993)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=3156&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/robin-hood-men-tights/</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/3pd3sdot0HfQTFzqgTUzaF4kcxP.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] The Number 23 (2007)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=3155&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/number-23/</sublink>
-<sublink>http://billionuploads.com/bxnnu80ulgw3</sublink>
-<sublink>http://180upload.com/pc3r6ecj4mqb</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/n1Lj6snljAcu7D5gy8H2mTJyZMz.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] Mr. Nobody (2009)</title>
-<link>http://yify.tv/mr-nobody/</link>
-<thumbnail>http://image.tmdb.org/t/p/original/pcNuLxTtTqScOBd1NwhguS4IL2h.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] The Mexican (2001)</title>
-<link>
-<sublink>http://lemuploads.com/i30v1jv7m8v5</sublink>
-<sublink>http://BillionUploads.com/r6ukzwqlflet</sublink>
-<sublink>http://hugefiles.net/9nkd7ko613zg</sublink>
-<sublink>http://180upload.com/n06794q0fk4v</sublink>
-<sublink>http://epicshare.net/i30v1jv7m8v5</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/dvPSYhhaTYndZOyRCWuWRKJmeRC.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] Savages (2012)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=3&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/savages/</sublink>
-<sublink>http://lemuploads.com/fyenvkgah95s</sublink>
-<sublink>http://billionuploads.com/wjbeu56374vg</sublink>
-<sublink>http://hugefiles.net/1l69rtv95l91</sublink>
-<sublink>http://180upload.com/xnppkjaj58y4</sublink>
-<sublink>http://epicshare.net/fyenvkgah95s</sublink>
-<sublink>http://movreel.com/islhgfli6b4k</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/ecN4PGSU6zhYlAUL8Jh4qyE2um9.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]Her Zone || HD[/COLOR] Heathers (1989)</title>
-<link>
-<sublink>http://yify.tv/heathers/</sublink>
-<sublink>http://www.firedrive.com/file/4HV6ZZSNXI0WSCCC</sublink>
-<sublink>http://www.sockshare.com/file/6EQWMKG3038C8K0</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/nBjZZitCqESmdtcFX4JrA4UqpPf.jpg</thumbnail>
-</item>Last 2 DVD
 
 
 
