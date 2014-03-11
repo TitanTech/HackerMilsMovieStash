@@ -83,7 +83,7 @@
 
 
 <dir>
-<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
@@ -91,6 +91,14 @@
 [COLOR lime]TODAY[/COLOR] 
  [COLOR blue][/COLOR]
 
+ 
+ 
+ 
+<dir>
+<name>[COLOR lime]TODAY[/COLOR] Believe (2014) [COLOR blue]Show[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Believe%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/267258-2.jpg</thumbnail>
+</dir>
  
 
 
