@@ -5475,6 +5475,12 @@
 </item>
 
 <item>
+<title>The Age of Innocence (1993)</title>
+<link>http://yify.tv/age-innocence/</link>
+<thumbnail>http://image.tmdb.org/t/p/original/cJaBS5oHs9fHFUdqsMjmxV7it9H.jpg</thumbnail>
+</item>
+
+<item>
 <title>Robin Hood: Men in Tights (1993)</title>
 <link>
 <sublink>http://75.126.196.132/index.php?file=3156&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
@@ -5530,18 +5536,15 @@
 </item>
 
 <item>
-<title>Mo' Money (1992)</title>
-<link>
-<sublink>http://yify.tv/mo-money/</sublink>
-<sublink>http://sharesix.com/my1fn0iiotme</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/6gSsuEJfZx7p0iu3Ymiyx0vo1EF.jpg</thumbnail>
-</item>
-
-<item>
 <title>My Cousin Vinny (1992)</title>
 <link>http://75.126.196.132/index.php?file=2351&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/2lhWjSkRHZREw5wXoWHO88lpODe.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cape Fear (1991)</title>
+<link>http://75.126.196.132/index.php?file=2149&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</link>
+<thumbnail>http://image.tmdb.org/t/p/original/vhHANL99X10VXcESVqdInvXIux2.jpg</thumbnail>
 </item>
 
 <item>
@@ -5589,8 +5592,6 @@
 </link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/d4KNaTrltq6bpkFS01pYtyXa09m.jpg</thumbnail>
 </item>
-
-
 
 <item>
 <title>Miller's Crossing (1990)</title>
@@ -5782,13 +5783,17 @@
 <thumbnail>http://image.tmdb.org/t/p/original/zXX8EEAFoe0EKySuZ00Ku55iefh.jpg</thumbnail>
 </item>
 
-
-
-<item>COC HD
+<item>
 <title>Raging Bull (1980)</title>
-<link>http://75.126.196.132/index.php?file=1574&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</link>
+<link>
+<sublink>http://75.126.196.132/index.php?file=1574&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
+<sublink>http://yify.tv/raging-bull/</sublink>
+<sublink>http://billionuploads.com/qeikzelktdlq</sublink>
+<sublink>http://hugefiles.net/xous96h3dwbm</sublink>
+<sublink>http://hugefiles.net/xous96h3dwbm</sublink>
+</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/tKS38vUE3HBcLdKrwLUjjUctmgS.jpg</thumbnail>
-</item>1980-11-14
+</item>
 
 <item>
 <title>The Shining (1980)</title>
@@ -5824,13 +5829,11 @@
 <thumbnail>http://image.tmdb.org/t/p/original/d9yM3GjUyqLgzHiTGkAx5r1dfZj.jpg</thumbnail>
 </item>
 
-
-
-<item>COC HD
+<item>
 <title>Taxi Driver (1976)</title>
 <link>http://75.126.196.132/index.php?file=1284&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/yxq4pk1xGmro8tQABuQIrWrvdaE.jpg</thumbnail>
-</item>1976-02-08
+</item>
 
 <item>
 <title>Dog Day Afternoon (1975)</title>
