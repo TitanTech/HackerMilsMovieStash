@@ -628,20 +628,26 @@
 <thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR aqua] JDeleo's Channel[/COLOR] [COLOR red]Due 3/19/14[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/VIP/User%20Channels/JDeleo.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
-</dir>
 
-<dir>
-<name>[COLOR aqua] Mack Daddy K's Channel[/COLOR] [COLOR red]Due 3/19/14[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/VIP/User%20Channels/Mack%20Daddy%20K.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
-</dir>
 
 ##################################################################################################################################
 
+
+<dir>
+<name>[COLOR aqua] JDeleo's Channel[/COLOR] [COLOR red]Due 3/19/14[/COLOR]</name>
+<link></link>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
+</dir>
+
+https://raw.github.com/HackerMil/HackerMilsMovieStash/master/VIP/User%20Channels/JDeleo.xml
+
+<dir>
+<name>[COLOR aqua] Mack Daddy K's Channel[/COLOR] [COLOR red]Due 3/19/14[/COLOR]</name>
+<link></link>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
+</dir>
+
+https://raw.github.com/HackerMil/HackerMilsMovieStash/master/VIP/User%20Channels/Mack%20Daddy%20K.xml
 
 <dir>
 <name>[COLOR aqua] Crab Salad's Channel[/COLOR] [COLOR red]Due 3/18/14[/COLOR]</name>
