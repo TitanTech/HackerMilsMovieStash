@@ -91,15 +91,10 @@
 [COLOR lime]TODAY[/COLOR] 
  [COLOR blue][/COLOR]
 
- 
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] The 100 (2014) [COLOR blue]Show[/COLOR]</name>
-<link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20The%20100%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/268592-2.jpg</thumbnail>
-</dir>
+
 
 <item>
-<title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
@@ -109,77 +104,8 @@
  [COLOR lime]PRE-RELEASE[/COLOR]
 
  
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Hobbit: The Desolation of Smaug (2013) 1080P</title>
-<link>
-<sublink>http://billionuploads.com/3scgm6jy9cw2/The.Hobbit.The.Desolation.of.Smaug.2013.1080p.BluRay.x264.YIFY.mp4</sublink>
-<sublink>http://hugefiles.net/cltf0v3nj7g1</sublink>
-<sublink>http://mightyupload.com/aver002qugoo/The.Hobbit.The.Desolation.of.Smaug.2013.1080p.BluRay.x264.YIFY.mp4.html</sublink>
-<sublink>http://180upload.com/oezxo9gqsk9m</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/ouIvgaSFqBMMailxU9zZiVIXXeV.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Hobbit: The Desolation of Smaug (2013) HD</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=3306&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/hobbit-desolation-smaug/</sublink>
-<sublink>http://billionuploads.com/5e9k9umvbxfp</sublink>
-<sublink>http://hugefiles.net/4d9ravgyf47l</sublink>
-<sublink>http://180upload.com/m758x15rzfyd</sublink>
-<sublink>http://movreel.com/kll5gzjjsn9l</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/ouIvgaSFqBMMailxU9zZiVIXXeV.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Authors Anonymous (2014) SD [COLOR lime]PRE-RELEASE[/COLOR]</title>
-<link>
-<sublink>http://billionuploads.com/s0ii3g97jo26</sublink>
-<sublink>http://hugefiles.net/6x1jl29owirr</sublink>
-<sublink>http://mightyupload.com/jyed72nzxkwi</sublink>
-<sublink>http://www.sockshare.com/file/6398CC31779CD1C2</sublink>
-<sublink>http://180upload.com/q4yce7ybu4ma</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/xL4CjpMioMPWKGSYb8QZ3iNA2dT.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Secret Life of Walter Mitty (2013) HD</title>
-<link>
-<sublink>http://billionuploads.com/wtss7l920fip</sublink>
-<sublink>http://hugefiles.net/2s44ritodntq</sublink>
-<sublink>http://www.sockshare.com/file/6DC9041A23E5C0E8</sublink>
-<sublink>http://180upload.com/6w8vuwdoooe1</sublink>
-<sublink>http://movreel.com/rj25olaqdhju</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/9TzcuIuJoJaM91GKDni9CWdi2qo.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] 47 Ronin (2013) HD</title>
-<link>
-<sublink>http://billionuploads.com/62zr6eyxxnfq</sublink>
-<sublink>http://hugefiles.net/g11bjdp8jfno</sublink>
-<sublink>http://project-free-upload.com/ur0uwanso47g</sublink>
-<sublink>http://www.sockshare.com/file/BC9F2974A9EB6F28</sublink>
-<sublink>http://180upload.com/xhgk7e9c06rk</sublink>
-<sublink>http://movreel.com/gozu2wcvzb38</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/67eJ3PNQqCubvoGNPTCNLA4proG.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Nut Job (2014) TS</title>
-<link>
-<sublink>http://billionuploads.com/77kxpa8i29nk</sublink>
-<sublink>http://mightyupload.com/r4cw7iajn4fr</sublink>
-<sublink>http://www.sockshare.com/file/C72F08963F8B254D</sublink>
-<sublink>http://180upload.com/7g4k375hu8nh</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/uyWyeUvnSTiufwzXhWEBfzuEeRv.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime]------------------------------- Shows ------------------------------------[/COLOR]</title>
@@ -190,39 +116,20 @@
 [COLOR lime]TODAY[/COLOR] 
 
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The 100 S01E01 HD [COLOR lime]*Season Premiere*[/COLOR]</title>
-<link>
-<sublink>http://lemuploads.com/w05yra2s72hc</sublink>
-<sublink>http://BillionUploads.com/7o3bmq7csfyc</sublink>
-<sublink>http://hugefiles.net/vx9st6dvd76c</sublink>
-<sublink>http://180upload.com/4ktp7mzyiomp</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/268592-2.jpg</thumbnail>
-</item>
 
 <item>
-<title>[COLOR lime]TODAY[/COLOR] The Americans S02E04 HD</title>
+<title>[COLOR lime]TODAY[/COLOR] Suits S03E13 HD</title>
 <link>
-<sublink>http://lemuploads.com/8iotadxxep01</sublink>
-<sublink>http://BillionUploads.com/5f96qvqzutar</sublink>
-<sublink>http://hugefiles.net/u4yeomjqvjri</sublink>
-<sublink>http://180upload.com/xsiy56svoyxo</sublink>
-<sublink>http://movreel.com/ce6nxyzt4ytd</sublink>
+<sublink>http://billionuploads.com/1s56t5ofarr7</sublink>
+<sublink>http://hugefiles.net/cm31apev0ik6	</sublink>
+<sublink>http://www.sockshare.com/file/A0898297F20823C6</sublink>
+<sublink>http://www.nowvideo.sx/video/2a05e932b9b17</sublink>
+<sublink>http://180upload.com/9qzvn64o67zy</sublink>
+<sublink>http://movreel.com/g885ll1bs5t6</sublink>
 </link> 
-<thumbnail>http://thetvdb.com/banners/posters/261690-5.jpg</thumbnail>
+<thumbnail>http://thetvdb.com/banners/posters/247808-6.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Supernatural S09E16 HD</title>
-<link>
-<sublink>http://billionuploads.com/yu2s8xz27a6i</sublink>
-<sublink>http://hugefiles.net/zwdbt3qqhwia</sublink>
-<sublink>http://180upload.com/lvj3uti1kjpb</sublink>
-<sublink>http://movreel.com/7vlcchdk78cq</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/78901-2.jpg</thumbnail>
-</item>
 
 
 <item>
@@ -313,15 +220,15 @@
 
 <item>
 <title></title>
-<link>http://mightyupload.com/hzk42eqgrlqw</link>
+<link>http://megarelease.org/75cdg0nmmwz2</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
 
 <item>
 <title></title>
 <link>
-<sublink>http://billionuploads.com/9y5csnwkmqug</sublink>
-<sublink>http://billionuploads.com/62zr6eyxxnfq</sublink>
+<sublink>http://yify.tv/wolf-wall-street/</sublink>
+<sublink>http://75.126.196.132/index.php?file=2747&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
 </item>
