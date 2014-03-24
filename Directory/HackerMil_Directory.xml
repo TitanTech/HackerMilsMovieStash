@@ -5,11 +5,11 @@
 
           --------------------------------------------------
 <notify>
-<new>2</new>
-<message1>Sorry For The Absence</message1>
-<message2>I'm Back Now</message2>
-<message3>Check Freshout Updated Content</message3>
-<old>1</old>
+<new>1</new>
+<message1>New Section</message1>
+<message2>Filmography Now Live</message2>
+<message3>Check it out! Enjoy!</message3>
+<old>2</old>
 </notify>
 
 <message1></message1>
