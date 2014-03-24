@@ -83,7 +83,7 @@
 
 
 <dir>
-<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
@@ -91,6 +91,11 @@
 [COLOR lime]TODAY[/COLOR] 
  [COLOR blue][/COLOR]
 
+<dir>
+<name>[COLOR lime]TODAY[/COLOR] Filmography [COLOR blue]*NEW SECTION*[/COLOR]</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Filmography/Filmography.xml</link>
+<thumbnail>http://farm4.staticflickr.com/3679/12620970484_18b1bc9c90_o.png</thumbnail>
+</dir>
 
 
 <item>
