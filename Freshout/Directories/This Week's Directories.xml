@@ -14,10 +14,16 @@
 [COLOR blue]Story[/COLOR] 
 [COLOR blue]Show[/COLOR] 
 [COLOR blue]Ring Wars[/COLOR] 
- [COLOR lime]3/19[/COLOR]
+ [COLOR lime]3/25[/COLOR]
 
 #########################################################################
 
+
+<dir>
+<name>[COLOR blue]All-Timer Show[/COLOR] Carnivale (2003) [COLOR lime]3/25[/COLOR]</name>
+<link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Carnivale%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/70860-1.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>[COLOR blue]*NEW SECTION*[/COLOR] Filmography [COLOR lime]3/23[/COLOR]</name>
@@ -121,11 +127,7 @@
 <thumbnail>http://thetvdb.com/banners/posters/270633-4.jpg</thumbnail>
 </dir>
 
-<dir>
-<name> </name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Filmography/Filmography.xml</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/Work_In_Progress.jpg</thumbnail>
-</dir>
+
 
 
 
