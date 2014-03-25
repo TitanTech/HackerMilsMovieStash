@@ -80,8 +80,6 @@
 
 
 
-
-
 <dir>
 <name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
@@ -133,6 +131,17 @@
 <sublink>http://180upload.com/s9oqppnxczph</sublink>
 </link>
 <thumbnail>http://image.tmdb.org/t/p/original/xE2W9RlBu0BW1pOVuqwT1k1NBOc.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]TODAY[/COLOR] The Nut Job (2014) HD</title>
+<link>
+<sublink>http://billionuploads.com/8l0zgnxuqog1</sublink>
+<sublink>http://hugefiles.net/o4rg0kj09yd4</sublink>
+<sublink>http://180upload.com/89skw8wtbr49</sublink>
+<sublink>http://movreel.com/0ly3v87kz4n7</sublink>
+</link>
+<thumbnail>http://image.tmdb.org/t/p/original/uyWyeUvnSTiufwzXhWEBfzuEeRv.jpg</thumbnail>
 </item>
 
 
@@ -191,7 +200,7 @@
 
 
 <item>
-<title>[COLOR red]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
+<title>[COLOR lime]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                        >                  
 <thumbnail>nill</thumbnail>
 </item>
@@ -199,7 +208,16 @@
 [COLOR blue]|| HD[/COLOR] 
 
 
-
+<item>
+<title>[COLOR blue]KidsplaceHD[/COLOR] The Nut Job (2014)</title>
+<link>
+<sublink>http://billionuploads.com/8l0zgnxuqog1</sublink>
+<sublink>http://hugefiles.net/o4rg0kj09yd4</sublink>
+<sublink>http://180upload.com/89skw8wtbr49</sublink>
+<sublink>http://movreel.com/0ly3v87kz4n7</sublink>
+</link>
+<thumbnail>http://image.tmdb.org/t/p/original/uyWyeUvnSTiufwzXhWEBfzuEeRv.jpg</thumbnail>
+</item>
 
 
 
