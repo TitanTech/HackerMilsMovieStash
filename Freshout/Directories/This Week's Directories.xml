@@ -12,12 +12,19 @@
 
 #########################################################################
 [COLOR blue]Story[/COLOR] 
+[COLOR blue]Filmography[/COLOR] 
 [COLOR blue]Show[/COLOR] 
 [COLOR blue]Ring Wars[/COLOR] 
  [COLOR lime]3/25[/COLOR]
 
 #########################################################################
 
+
+<dir>
+<name>[COLOR blue]Filmography[/COLOR] Quentin Tarantino [COLOR lime]3/25[/COLOR]</name>
+<link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Filmography/Directories/Quentin%20Tarantino.xml</link>
+<thumbnail>http://cdn.screenrant.com/wp-content/uploads/Most-Anticipated-Movies-2012-Django-Unchained.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>[COLOR blue]All-Timer Show[/COLOR] Carnivale (2003) [COLOR lime]3/25[/COLOR]</name>

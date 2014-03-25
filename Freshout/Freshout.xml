@@ -91,6 +91,12 @@
 
  
 <dir>
+<name>[COLOR lime]TODAY[/COLOR] Quentin Tarantino [COLOR blue]Filmography[/COLOR]</name>
+<link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Filmography/Directories/Quentin%20Tarantino.xml</link>
+<thumbnail>http://cdn.screenrant.com/wp-content/uploads/Most-Anticipated-Movies-2012-Django-Unchained.jpg</thumbnail>
+</dir>
+ 
+<dir>
 <name>[COLOR lime]TODAY[/COLOR] Carnivale (2003)  [COLOR blue]All-Timer Show[/COLOR]</name>
 <link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Carnivale%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/70860-1.jpg</thumbnail>
