@@ -12,6 +12,12 @@
 
 
 <dir>
+<name>The Star Trek Story</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Directories/Star%20Trek.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/gRRt3PzTgBsUGNUcSGXww5fuTLu.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>The Dark Knight Story</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Directories/Dark%20Knight.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/bqS2lMgGkuodIXtDILFWTSWDDpa.jpg</thumbnail>
