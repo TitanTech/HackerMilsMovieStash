@@ -100,7 +100,7 @@
 
 
 <item>
-<title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
+<title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
@@ -109,7 +109,14 @@
  [COLOR lime]THEATRE PREMIERE[/COLOR]
  [COLOR lime]PRE-RELEASE[/COLOR]
 
- 
+<item>
+<title>[COLOR lime]TODAY[/COLOR] The Immigrant (2014) HD</title>
+<link>
+<sublink>http://75.126.196.132/index.php?file=3340&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
+<sublink>http://yify.tv/the-immigrant/</sublink>
+</link>
+<thumbnail>http://image.tmdb.org/t/p/original/xE2W9RlBu0BW1pOVuqwT1k1NBOc.jpg</thumbnail>
+</item>
 
 
 
