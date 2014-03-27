@@ -80,8 +80,10 @@
 
 
 
+
+
 <dir>
-<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
@@ -89,22 +91,10 @@
 [COLOR lime]TODAY[/COLOR] 
  [COLOR blue][/COLOR]
 
- 
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] Quentin Tarantino [COLOR blue]Filmography[/COLOR]</name>
-<link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Filmography/Directories/Quentin%20Tarantino.xml</link>
-<thumbnail>http://cdn.screenrant.com/wp-content/uploads/Most-Anticipated-Movies-2012-Django-Unchained.jpg</thumbnail>
-</dir>
- 
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] Carnivale (2003)  [COLOR blue]All-Timer Show[/COLOR]</name>
-<link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Carnivale%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/70860-1.jpg</thumbnail>
-</dir>
 
 
 <item>
-<title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
@@ -113,66 +103,7 @@
  [COLOR lime]THEATRE PREMIERE[/COLOR]
  [COLOR lime]PRE-RELEASE[/COLOR]
 
-
  
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Anchorman 2: The Legend Continues (2013) 1080P</title>
-<link>
-<sublink>http://billionuploads.com/kgi8k6d72ifh/Anchorman.2.The.Legend.Continues.2013.1080p.BluRay.x264.YIFY.mp4</sublink>
-<sublink>http://hugefiles.net/e8b2j376hfrn</sublink>
-<sublink>http://mightyupload.com/1sriepydvx9k/Anchorman.2.The.Legend.Continues.2013.1080p.BluRay.x264.YIFY.mp4.html</sublink>
-<sublink>http://180upload.com/ljc39zfq2btq</sublink>
-<sublink>http://movreel.com/16te80fyhq3j.html</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/8HweezekJmUn4Rth0CoHa1pVKdC.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Anchorman 2: The Legend Continues (2013) HD</title>
-<link>
-<sublink>http://lemuploads.com/zzusihceaggz</sublink>
-<sublink>http://BillionUploads.com/6enc9qw91b68</sublink>
-<sublink>http://hugefiles.net/e9vxap4x6st9</sublink>
-<sublink>http://180upload.com/z4u0jtvvlv3i</sublink>
-<sublink>http://epicshare.net/zzusihceaggz</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/8HweezekJmUn4Rth0CoHa1pVKdC.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Immigrant (2014) 1080P</title>
-<link>
-<sublink>http://lemuploads.com/swzimu82qxuo</sublink>
-<sublink>http://BillionUploads.com/4m00kj5fymtp</sublink>
-<sublink>http://hugefiles.net/jcy32dm41bhb</sublink>
-<sublink>http://180upload.com/pdvovdn50e0r</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/xE2W9RlBu0BW1pOVuqwT1k1NBOc.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Immigrant (2014) HD</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=3340&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/the-immigrant/</sublink>
-<sublink>http://lemuploads.com/fth627wx5akc</sublink>
-<sublink>http://BillionUploads.com/8u0s6cjtfzhn</sublink>
-<sublink>http://hugefiles.net/msh5fv46akzl</sublink>
-<sublink>http://180upload.com/s9oqppnxczph</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/xE2W9RlBu0BW1pOVuqwT1k1NBOc.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Nut Job (2014) HD</title>
-<link>
-<sublink>http://lemuploads.com/puzllzv2tobc</sublink>
-<sublink>http://BillionUploads.com/1kkp5hv3nn80</sublink>
-<sublink>http://hugefiles.net/k8jodfzp3u6b</sublink>
-<sublink>http://180upload.com/z6sg0ckg9zmn</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/uyWyeUvnSTiufwzXhWEBfzuEeRv.jpg</thumbnail>
-</item>
 
 
 
@@ -185,28 +116,29 @@
 [COLOR lime]TODAY[/COLOR] 
 
 
+
 <item>
-<title>[COLOR lime]TODAY[/COLOR] Supernatural S09E17 HD</title>
+<title>[COLOR lime]TODAY[/COLOR] The Americans S02E05 HD</title>
 <link>
-<sublink>http://billionuploads.com/fh9trihpj95b</sublink>
-<sublink>http://hugefiles.net/s59g6rygqmsx</sublink>
-<sublink>http://180upload.com/0amcz7ykph68</sublink>
-<sublink>http://movreel.com/m8us5gx3egij</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/78901-2.jpg</thumbnail>
+<sublink>http://billionuploads.com/ej0ez41tl3ka</sublink>
+<sublink>http://hugefiles.net/zue33frwi3kn</sublink>
+<sublink>http://180upload.com/hrle3bgwluuh</sublink>
+<sublink>http://movreel.com/87qifrzo2drb</sublink>
+</link> 
+<thumbnail>http://thetvdb.com/banners/posters/261690-5.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime]TODAY[/COLOR] House Of Lies S03E11 HD [COLOR lime]*1 Week Early*[/COLOR]</title>
+<title>[COLOR lime]TODAY[/COLOR] The 100 S01E02 HD</title>
 <link>
-<sublink>http://billionuploads.com/11n5rdznn4vk</sublink>
-<sublink>http://hugefiles.net/gys8dd52hpsv</sublink>
-<sublink>http://mightyupload.com/bugehe7y4qru</sublink>
-<sublink>http://180upload.com/xnjmxpck0jl7</sublink>
-<sublink>http://movreel.com/49oadjfexmte</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/247909-2.jpg</thumbnail>
+<sublink>http://billionuploads.com/z12hpm64hmjh</sublink>
+<sublink>http://hugefiles.net/psgkrv2vr0kl</sublink>
+<sublink>http://180upload.com/80of6pxdsgcw</sublink>
+<sublink>http://movreel.com/viu2begzn72s</sublink>
+</link>
+<thumbnail>http://thetvdb.com/banners/posters/268592-2.jpg</thumbnail>
 </item>
+
 
 
 <item>
@@ -241,7 +173,7 @@
 
 
 <item>
-<title>[COLOR lime]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
+<title>[COLOR red]--------------------------- Section Fillers -------------------------------[/COLOR]</title>
 <link>nill</link>                                                                        >                  
 <thumbnail>nill</thumbnail>
 </item>
@@ -249,34 +181,16 @@
 [COLOR blue]|| HD[/COLOR] 
 
 
-<item>
-<title>[COLOR blue]KidsplaceHD[/COLOR] The Nut Job (2014)</title>
-<link>
-<sublink>http://lemuploads.com/puzllzv2tobc</sublink>
-<sublink>http://BillionUploads.com/1kkp5hv3nn80</sublink>
-<sublink>http://hugefiles.net/k8jodfzp3u6b</sublink>
-<sublink>http://180upload.com/z6sg0ckg9zmn</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/uyWyeUvnSTiufwzXhWEBfzuEeRv.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR blue]KidsplaceHD[/COLOR] Mary Poppins (1964)</title>
-<link>
-<sublink>http://lemuploads.com/tpc589tdkqmf</sublink>
-<sublink>http://BillionUploads.com/7ju6g208zzah</sublink>
-<sublink>http://hugefiles.net/uef5azr24d6q</sublink>
-<sublink>http://180upload.com/ay0ix8ddnqyg</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/iT44oo7AsCNgdSQAUPY275L046p.jpg</thumbnail>
-</item>
+
+
 
 
 
 #######################################################################################################################################
 
 <item>
-<title>[COLOR lime]------------------------------- Fixes ------------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Fixes ------------------------------------[/COLOR]</title>
 <link>nill</link>                              
 <thumbnail>nill</thumbnail>
 </item>
@@ -285,30 +199,6 @@
 [COLOR blue]1080P[/COLOR] 
 
 
-<item>
-<title>[COLOR blue]HD[/COLOR] Kill Bill 1 (2003)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=596&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://billionuploads.com/ebld22lutokl</sublink>
-<sublink>http://hugefiles.net/bjra85h9gr3s</sublink>
-<sublink>http://180upload.com/edo06w16qu6n</sublink>
-<sublink>http://movreel.com/yletodkupi1e</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/y2K3ywCntbRjZU6xN5xTc3ee9D6.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue]HD[/COLOR] Kill Bill 2 (2004)</title>
-<link>
-<sublink>http://75.126.196.132/index.php?file=597&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
-<sublink>http://yify.tv/kill-bill-vol-2/</sublink>
-<sublink>http://billionuploads.com/jo3wfs9rye2j</sublink>
-<sublink>http://hugefiles.net/cmj8zew67zmx</sublink>
-<sublink>http://180upload.com/1kdsm5pzeeoe</sublink>
-<sublink>http://movreel.com/qgv6gl97vol5</sublink>
-</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/mdAZtDNax1fXZkNzWOdnYfGozO.jpg</thumbnail>
-</item>
 
 
 
