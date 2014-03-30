@@ -83,7 +83,7 @@
 
 
 <dir>
-<name>[COLOR lime]------------------------------ Directories ------------------------------[/COLOR]</name>
+<name>[COLOR red]------------------------------ Directories ------------------------------[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Directories.xml</link>                                
 <thumbnail>nill</thumbnail>
 </dir>
@@ -92,14 +92,9 @@
  [COLOR blue][/COLOR]
 
 
-<dir>
-<name>[COLOR lime]TODAY[/COLOR] House Of Cards (2013) [COLOR blue]Show[/COLOR]</name>
-<link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20House%20Of%20Cards%20Dir.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/262980-3.jpg</thumbnail>
-</dir>
 
 <item>
-<title>[COLOR lime]------------------------------- Movies ----------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------- Movies ----------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
 <thumbnail>nill</thumbnail>
 </item>
@@ -108,42 +103,7 @@
  [COLOR lime]THEATRE PREMIERE[/COLOR]
  [COLOR lime]PRE-RELEASE[/COLOR]
 
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Bad Asses (2014) HD</title>
-<link>
-<sublink>http://yify.tv/bad-asses/</sublink>
-<sublink>http://billionuploads.com/725c2jmmzk9r</sublink>
-<sublink>http://hugefiles.net/tkxhxfsubmxo</sublink>
-<sublink>http://180upload.com/ghzshugsk2nj</sublink>
-<sublink>http://movreel.com/2ia4zdh0vvlt</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/9IpbJ2F3bhSRsV0mQhAvi0ZtzoY.jpg</thumbnail>
-</item>
  
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Single Moms Club (2014) CAM</title>
-<link>
-<sublink>http://billionuploads.com/8gjibm9cex1v</sublink>
-<sublink>http://hugefiles.net/5lkz0zwz5iqv</sublink>
-<sublink>http://www.sockshare.com/file/C8B2A244B36456D1</sublink>
-<sublink>http://mightyupload.com/igmta0zmd2vt</sublink>
-<sublink>http://180upload.com/jwgngn605ae6</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/h4INDUOhsCk1QmdWEMmEufQVkCh.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR lime]TODAY[/COLOR] Divergent (2014) CAM [COLOR lime]NV[/COLOR]</title>
-<link>
-<sublink>http://billionuploads.com/qfnikq08ymag</sublink>
-<sublink>http://www.nowvideo.sx/video/bc398e9966383</sublink>
-<sublink>http://www.sockshare.com/file/F7E6A3A61EA9DFD9</sublink>
-<sublink>http://180upload.com/ltkm42km8a6o</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/9LKkqblXDKA2ifx2equSM5gWgam.jpg</thumbnail>
-</item>
 
 
 
@@ -157,50 +117,42 @@
 
 
 <item>
-<title>[COLOR lime]TODAY[/COLOR] Vikings S02E05 HD</title>
+<title>[COLOR lime]TODAY[/COLOR] Hannibal S02E05 HD</title>
 <link>
-<sublink>http://billionuploads.com/w0nsj2vgcmk8</sublink>
-<sublink>http://hugefiles.net/qjq5251iqxfz</sublink>
-<sublink>http://180upload.com/3dszh9ifn3wa</sublink>
-<sublink>http://mightyupload.com/kcjwbwncgrtf/vikings.s02e05.720p.hdtv.x264-killers.mkv.html</sublink>
-<sublink>http://www.sockshare.com/file/3660C1DC688D27DC</sublink>
+<sublink>http://billionuploads.com/itjpfsgkdpz5</sublink>
+<sublink>http://hugefiles.net/vy955nphbbte</sublink>
+<sublink>http://mightyupload.com/otq2cejkofk1</sublink>
+<sublink>http://180upload.com/tv8pvyeugi4l</sublink>
+<sublink>http://movreel.com/iduzkm3urr35</sublink>
 </link>
-<thumbnail>http://thetvdb.com/banners/posters/260449-3.jpg</thumbnail>
+<thumbnail>http://thetvdb.com/banners/posters/265912-3.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime]TODAY[/COLOR] Suits S03E14 HD</title>
+<title>[COLOR lime]TODAY[/COLOR] Helix S01E13 HD</title>
 <link>
-<sublink>http://billionuploads.com/puwe0o7fhiu5</sublink>
-<sublink>http://hugefiles.net/m5zb2g6knm3s</sublink>
-<sublink>http://180upload.com/clrpg2x74zwg</sublink>
-<sublink>http://movreel.com/xkb9jzqmylaa</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/247808-6.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The Americans S02E05 HD</title>
-<link>
-<sublink>http://billionuploads.com/ej0ez41tl3ka</sublink>
-<sublink>http://hugefiles.net/zue33frwi3kn</sublink>
-<sublink>http://180upload.com/hrle3bgwluuh</sublink>
-<sublink>http://movreel.com/87qifrzo2drb</sublink>
-</link> 
-<thumbnail>http://thetvdb.com/banners/posters/261690-5.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]TODAY[/COLOR] The 100 S01E02 HD</title>
-<link>
-<sublink>http://billionuploads.com/z12hpm64hmjh</sublink>
-<sublink>http://hugefiles.net/psgkrv2vr0kl</sublink>
-<sublink>http://180upload.com/80of6pxdsgcw</sublink>
-<sublink>http://movreel.com/viu2begzn72s</sublink>
+<sublink>http://billionuploads.com/itjpfsgkdpz5</sublink>
+<sublink>http://hugefiles.net/vy955nphbbte</sublink>
+<sublink>http://mightyupload.com/cnhv2c3b4z39</sublink>
+<sublink>http://180upload.com/tv8pvyeugi4l</sublink>
+<sublink>http://movreel.com/iduzkm3urr35</sublink>
 </link>
-<thumbnail>http://thetvdb.com/banners/posters/268592-2.jpg</thumbnail>
+<thumbnail>http://thetvdb.com/banners/posters/265912-3.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Hangar 1: The UFO Files S01E05 HD</title>
+<link>
+<sublink>http://billionuploads.com/6ydj1hmw58bf</sublink>
+<sublink>http://hugefiles.net/fikjj79wuhlu</sublink>
+<sublink>http://www.nowvideo.sx/video/ed265b92ad3a9</sublink>
+<sublink>http://mightyupload.com/hwliikvd8m64</sublink>
+<sublink>http://www.sockshare.com/file/31B37C95B38677BC</sublink>
+<sublink>http://180upload.com/4mehjwsk01j6</sublink>
+<sublink>http://movreel.com/ulwmeb2zs66x</sublink>
+</link>
+<thumbnail>http://thetvdb.com/banners/posters/279049-1.jpg</thumbnail>
+</item>
 
 
 <item>
@@ -224,7 +176,7 @@
 
 
 <item>
-<title>[COLOR red]--------------------------- Documentaries ------------------------------[/COLOR]</title>
+<title>[COLOR lime]--------------------------- Documentaries ------------------------------[/COLOR]</title>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Documentaries.xml</link>                                                                         >                  
 <thumbnail>nill</thumbnail>
 </item>
@@ -232,6 +184,19 @@
 [COLOR lime]TODAY[/COLOR] 
 
 
+<item>
+<title>[COLOR lime]TODAY[/COLOR] Hangar 1: The UFO Files S01E05 HD</title>
+<link>
+<sublink>http://billionuploads.com/6ydj1hmw58bf</sublink>
+<sublink>http://hugefiles.net/fikjj79wuhlu</sublink>
+<sublink>http://www.nowvideo.sx/video/ed265b92ad3a9</sublink>
+<sublink>http://mightyupload.com/hwliikvd8m64</sublink>
+<sublink>http://www.sockshare.com/file/31B37C95B38677BC</sublink>
+<sublink>http://180upload.com/4mehjwsk01j6</sublink>
+<sublink>http://movreel.com/ulwmeb2zs66x</sublink>
+</link>
+<thumbnail>http://thetvdb.com/banners/posters/279049-1.jpg</thumbnail>
+</item>
 
 
 <item>
@@ -266,22 +231,12 @@
 
 
 <item>
-<title>[COLOR lime]------------------------------ Special -----------------------------------[/COLOR]</title>
+<title>[COLOR red]------------------------------ Special -----------------------------------[/COLOR]</title>
 <link>nill</link>                              
 <thumbnail>nill</thumbnail>
 </item>
 
-<item>
-<title>[COLOR blue]2 WEEK STICK[/COLOR] Walking With Dinosaurs (2013) 3D 1080P HSBS</title>
-<link>
-<sublink>http://billionuploads.com/fnhv6pylpjjm</sublink>
-<sublink>http://hugefiles.net/2gmwpz33zwhb</sublink>
-<sublink>http://mightyupload.com/733fo53iztnp</sublink>
-<sublink>http://180upload.com/a12pzr3bce84</sublink>
-<sublink>http://movreel.com/aubver3u5xgk.html</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/syrPo4XWmrEaA8YeGLaKWOmT2a1.jpg</thumbnail>
-</item>3/29
+
 
 
 
