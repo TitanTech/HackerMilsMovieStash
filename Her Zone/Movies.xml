@@ -509,7 +509,10 @@
 
 <item>
 <title>Footloose (1984)</title>
-<link>http://75.126.196.132/index.php?file=974&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</link>
+<link>
+<sublink>http://75.126.196.132/index.php?file=974&start=0&hd=0&auth=37173551f877bf4854313fe84e&type=flv&tv=0</sublink>
+<sublink>http://www.nowvideo.sx/video/uyjhxlvv9cv47</sublink>
+</link>
 <thumbnail>http://image.tmdb.org/t/p/original/3ohQOMqmSipX7bCKGkVcB7jpVXU.jpg</thumbnail>
 </item>
 
