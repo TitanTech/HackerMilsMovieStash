@@ -604,26 +604,33 @@
 <thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR aqua] Kev's Channel[/COLOR] [COLOR red]Due 4/5/14[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/VIP/User%20Channels/Kev.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua] Covarrubias Fam Bam's Channel[/COLOR] [COLOR red]Due 4/3/14[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/VIP/User%20Channels/Covarrubias%20Fam%20Bam.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR aqua] Sharktoy's Channel[/COLOR] [COLOR red]Due 4/2/14[/COLOR]</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/VIP/User%20Channels/Sharktoy.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
-</dir>
 
 ##################################################################################################################################
 
+
+<dir>
+<name>[COLOR aqua] Kev's Channel[/COLOR] [COLOR red]Due 4/5/14[/COLOR]</name>
+<link></link>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
+</dir>
+
+https://raw.github.com/HackerMil/HackerMilsMovieStash/master/VIP/User%20Channels/Kev.xml
+
+<dir>
+<name>[COLOR aqua] Covarrubias Fam Bam's Channel[/COLOR] [COLOR red]Due 4/3/14[/COLOR]</name>
+<link></link>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
+</dir>
+
+https://raw.github.com/HackerMil/HackerMilsMovieStash/master/VIP/User%20Channels/Covarrubias%20Fam%20Bam.xml
+
+<dir>
+<name>[COLOR aqua] Sharktoy's Channel[/COLOR] [COLOR red]Due 4/2/14[/COLOR]</name>
+<link></link>
+<thumbnail>http://farm6.staticflickr.com/5510/10217412394_e1da1b6fcc_o.jpg</thumbnail>
+</dir>
+
+https://raw.github.com/HackerMil/HackerMilsMovieStash/master/VIP/User%20Channels/Sharktoy.xml
 
 <dir>
 <name>[COLOR aqua] XMPeu's Channel[/COLOR] [COLOR red]Due 3/27/14[/COLOR]</name>
