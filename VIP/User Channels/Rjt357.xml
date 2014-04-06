@@ -478,8 +478,6 @@
 <thumbnail>http://image.tmdb.org/t/p/original/7Yjzttt0VfPphSsUg8vFUO9WaEt.jpg</thumbnail>
 </item>
 
-
-
 <dir>
 <name>The Lord of the Rings Story</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Directories/Lord%20of%20the%20rings.xml</link>
@@ -488,7 +486,7 @@
 
 <dir>
 <name>The Matrix Story</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Matrix.xml</link>
+<link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Movies/Stories/Directories/Matrix.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/original/4qX28xv0xaEngCePJClfpuALhuM.jpg</thumbnail>
 </dir>
 
