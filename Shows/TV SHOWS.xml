@@ -266,9 +266,15 @@ s
 </dir>
 
 <dir>
-<name>Shameless (US)</name>
+<name>Shameless (US) (2011)</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Shameless%20Dir.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/161511-6.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Silicon Valley (2014)</name>
+<link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Shows/Dir%20Silicon%20Valley%20Dir.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/277165-2.jpg</thumbnail>
 </dir>
 
 <dir>
